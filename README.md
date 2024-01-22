@@ -10,7 +10,7 @@ Todo
 [Learn in public](https://www.swyx.io/learn-in-public)
 
 # Créditos
-Todo
+[ASPNET DEVELOPER](https://github.com/henrique559/AspNetCore-Developer-Roadmap)
 
 # 0 - Introdução
 ### Programação:
