@@ -2,8 +2,14 @@
 
 O Objetivo desse repositório é criar um roadmap para auxiliar os meus estudos e reunir conteúdos para consultar durante o meu estudo de ciências da computação.
 
+# Objetivos
+Todo
+
+# Blog
+Todo
+
 # 0 - Introdução
-Programação:
+## Programação:
 - [ ] [CS50's Introduction to Computer Science](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x)
 - [ ] [MIT 6.00001 - Introduction to Computer Science and Programming in Python](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)
 - [ ] [MIT 6.00002 - Introduction to Computational Thinking and Data Science](https://ocw.mit.edu/courses/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/)
@@ -37,8 +43,6 @@ Programação:
 - [ ] [The Rust Programming Language Book](https://doc.rust-lang.org/book/) 
 - [ ] [Rustlings](https://github.com/rust-lang/rustlings/)
 - [ ] [Rust By Practice](https://practice.rs/)
-- [ ] [PNGme](https://jrdngr.github.io/pngme_book/introduction.html) 
-
 
 # 2 - Sistemas de Computadores
 - [ ] [Build a Modern Computer from First Principles Part 1](https://www.coursera.org/learn/build-a-computer)
@@ -51,10 +55,21 @@ Programação:
 - [ ] Low Level Programming: Igor Zharkov
 - [ ] Hacking: The Art of Exploitation
 
+# 3 - Matématica
+## Pré-Calculo:
+- [ ] [Algebra I](https://www.khanacademy.org/math/algebra)       
+- [ ] [Algebra II](https://www.khanacademy.org/math/algebra2)      
+- [ ] [Trigonometry](https://www.khanacademy.org/math/trigonometry) 
+- [ ] [Precalculus](https://www.khanacademy.org/math/precalculus)
 
-## 3 - Matématica
+## Calculo:
+- [ ] [Calculus 1A: Differentiation](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.1x+2T2019/about)
+- [ ] [Calculus 1B: Integration](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.2x+3T2019/about) 
+- [ ] [Calculus 1C: Coordinate Systems & Infinite Series](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.3x+1T2020/about) 
 
-
+## Matématica Discreta:
+- [ ] [Mathematics for Computer Science](https://openlearninglibrary.mit.edu/courses/course-v1:OCW+6.042J+2T2019/about) 
+ 
 ## 4 - Algoritmos
 
 ## 5 - 
