@@ -8,6 +8,7 @@ um blog para colocar coisas sobre programação etc...) <~ Em Desenvolvimento
 
 # Blog
 Todo
+[Programming Blog](https://www.afternerd.com/blog/start-programming-blog/)
 [Learn in public](https://www.swyx.io/learn-in-public)
 [How to learn how to learn code](https://medium.com/weekly-webtips/learning-how-to-learn-how-to-program-d3f8b9d37222)
 
