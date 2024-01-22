@@ -48,6 +48,7 @@ Todo
 - [ ] [Rust By Practice](https://practice.rs/)
 
 # 2 - Sistemas de Computadores
+## Cursos:
 - [ ] [Build a Modern Computer from First Principles Part 1](https://www.coursera.org/learn/build-a-computer)
 - [ ] [Build a Modern Computer from First Principles Part 2](https://www.coursera.org/learn/nand2tetris2)
 - [ ] [Computer Systems: A Programmer's Perspective](https://www.amazon.com/Computer-Systems-Programmers-Perspective-3rd/dp/013409266X)
@@ -74,6 +75,7 @@ Todo
 - [ ] [Mathematics for Computer Science](https://openlearninglibrary.mit.edu/courses/course-v1:OCW+6.042J+2T2019/about) 
  
 # 4 - Algoritmos
+## Cursos:
 - [ ] [**Video** The Algorithm Design Manual](https://www.youtube.com/watch?v=A2bFN3MyNDA&list=PLOtl7M3yp-DX32N0fVIyvn7ipWKNGmwpp)
 
 ## Livros:
@@ -82,10 +84,12 @@ Todo
 - [ ] [Algoritmos: Teoria e Prática](https://www.amazon.com.br/Algoritmos-Teoria-Pr%C3%A1tica-Thomas-Cormen/dp/8535236996/ref=asc_df_8535236996/?tag=googleshopp00-20&linkCode=df0&hvadid=379707181411&hvpos=&hvnetw=g&hvrand=11001902470980079820&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1031549&hvtargid=pla-1002925180312&psc=1&mcid=d101ce03101c3a23af9b42530b78f4d7_)
 
 # 5 - Sistemas Operacionais e Redes de Computadores
+## Livros:
 - [ ] [Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/)
 - [ ] [Computer Networking: a Top-Down Approach](http://gaia.cs.umass.edu/kurose_ross/online_lectures.htm)
 
 # 6 - Databases
+## Cursos:
 - [ ] [CS 186](https://archive.org/details/UCBerkeley_Course_Computer_Science_186)
 - [ ] [Databases: Modeling and Theory](https://www.edx.org/course/modeling-and-theory)
 - [ ] [Databases: Relational Databases and SQL](https://www.edx.org/course/databases-5-sql)
@@ -93,15 +97,21 @@ Todo
 - [ ] [Software Engineering: Introduction](https://www.coursera.org/learn/introduction-to-software-engineering) 
 
 # 7 - Sistemas Distribuidos
+## Cursos:
 - [ ] [CMU 15-445: Intro to Database Systems](https://15445.courses.cs.cmu.edu/)
 - [ ] [Distributed Systems MIT 6.824](https://pdos.csail.mit.edu/6.824/)
 - [ ] [Designing Data-Intensive Applications](https://dataintensive.net/)
 
 # 8 - Compiladores e Interpretadores
-- [ ] [Crafting interpreters](https://craftinginterpreters.com/)
+## Cursos:
 - [ ] [Compilers](https://www.edx.org/course/compilers)
 
+## Livros:
+- [ ] [Crafting interpreters](https://craftinginterpreters.com/)
+
+
 # 9 - Cibersegurança
+## Cursos:
 - [ ] [Cybersecurity Fundamentals](https://www.edx.org/course/cybersecurity-fundamentals)
 - [ ] [Principles of Secure Coding](https://www.coursera.org/learn/secure-coding-principles)
 - [ ] [Identifying Security Vulnerabilities](https://www.coursera.org/learn/identifying-security-vulnerabilities)
