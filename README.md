@@ -13,7 +13,7 @@ Todo
 [How to learn how to learn code](https://medium.com/weekly-webtips/learning-how-to-learn-how-to-program-d3f8b9d37222)
 
 # Créditos
-[ASPNET DEVELOPER](https://github.com/henrique559/AspNetCore-Developer-Roadmap)
+Todo
 
 # Prática e Projetos
 Todo
