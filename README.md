@@ -75,6 +75,9 @@ Todo
 - [ ] Hacking: The Art of Exploitation
 
 # 3 - Matématica
+## Matemática básica:
+- [ ] [O Algebrista + Matématica para Vencer](https://www.amazon.com.br/Algebrista-Exerc%C3%ADcios-Fixa%C3%A7%C3%A3o-Revis%C3%A3o-Quest%C3%B5es/dp/8539910241)
+
 ## Pré-Calculo:
 - [ ] [Algebra I](https://www.khanacademy.org/math/algebra)       
 - [ ] [Algebra II](https://www.khanacademy.org/math/algebra2)      
@@ -87,46 +90,50 @@ Todo
 - [ ] [Calculus 1C: Coordinate Systems & Infinite Series](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.3x+1T2020/about) 
 
 ## Matématica Discreta:
-- [ ] [Mathematics for Computer Science](https://openlearninglibrary.mit.edu/courses/course-v1:OCW+6.042J+2T2019/about) 
- 
+- [ ] [Mathematics for Computer Science](https://openlearninglibrary.mit.edu/courses/course-v1:OCW+6.042J+2T2019/about)
+       
 # 4 - Algoritmos
 ## Cursos:
-- [ ] [**Video** The Algorithm Design Manual](https://www.youtube.com/watch?v=A2bFN3MyNDA&list=PLOtl7M3yp-DX32N0fVIyvn7ipWKNGmwpp)
+- [ ] [Berkeley CS 61B](https://www2.eecs.berkeley.edu/Courses/CS61B/)
 
 ## Livros:
 - [ ] [A Arte de Resolver Problemas](https://www.amazon.com.br/Arte-Resolver-Problemas-G-Polya/dp/8571931364)
 - [ ] [The Algorithm Design Manual](https://smile.amazon.com/Algorithm-Design-Manual-Steven-Skiena/dp/1848000693/)
-- [ ] [Algoritmos: Teoria e Prática](https://www.amazon.com.br/Algoritmos-Teoria-Pr%C3%A1tica-Thomas-Cormen/dp/8535236996/ref=asc_df_8535236996/?tag=googleshopp00-20&linkCode=df0&hvadid=379707181411&hvpos=&hvnetw=g&hvrand=11001902470980079820&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1031549&hvtargid=pla-1002925180312&psc=1&mcid=d101ce03101c3a23af9b42530b78f4d7_)
 
 # 5 - Sistemas Operacionais e Redes de Computadores
-## Livros:
+### Livros:
 - [ ] [Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/)
 - [ ] [Computer Networking: a Top-Down Approach](http://gaia.cs.umass.edu/kurose_ross/online_lectures.htm)
 
 # 6 - Databases
-## Cursos:
+### Cursos:
 - [ ] [CS 186](https://archive.org/details/UCBerkeley_Course_Computer_Science_186)
-- [ ] [Databases: Modeling and Theory](https://www.edx.org/course/modeling-and-theory)
-- [ ] [Databases: Relational Databases and SQL](https://www.edx.org/course/databases-5-sql)
-- [ ] [Databases: Semistructured Data](https://www.edx.org/course/semistructured-data)
-- [ ] [Software Engineering: Introduction](https://www.coursera.org/learn/introduction-to-software-engineering) 
+
+### Livros:
+- [ ] [Database Systems Design Implementation](https://www.amazon.com.br/Database-Systems-Design-Implementation-Management/dp/1285196147)
 
 # 7 - Sistemas Distribuidos
-## Cursos:
-- [ ] [CMU 15-445: Intro to Database Systems](https://15445.courses.cs.cmu.edu/)
+### Cursos:
 - [ ] [Distributed Systems MIT 6.824](https://pdos.csail.mit.edu/6.824/)
-- [ ] [Designing Data-Intensive Applications](https://dataintensive.net/)
+
+### Livros:
+- [ ] [Designing Data-Intensive Applications by Martin Kleppmann](https://www.amazon.com.br/Designing-Data-Intensive-Applications-Martin-Kleppmann/dp/1449373321)
 
 # 8 - Compiladores e Interpretadores
-## Cursos:
+### Cursos:
 - [ ] [Compilers](https://www.edx.org/course/compilers)
 
-## Livros:
+### Livros:
 - [ ] [Crafting interpreters](https://craftinginterpreters.com/)
 
+# 9 - Engenharia de Software
+- [ ] [CS 169 - Berkeley](https://www2.eecs.berkeley.edu/Courses/CS169/)
+
+### Livros:
+- [ ] [Software Engineering: A Practitioner's Approach](https://www.amazon.com.br/Software-Engineering-Practitioners-Roger-Pressman/dp/0078022126)
 
 # 9 - Cibersegurança
-## Cursos:
+### Cursos:
 - [ ] [Cybersecurity Fundamentals](https://www.edx.org/course/cybersecurity-fundamentals)
 - [ ] [Principles of Secure Coding](https://www.coursera.org/learn/secure-coding-principles)
 - [ ] [Identifying Security Vulnerabilities](https://www.coursera.org/learn/identifying-security-vulnerabilities)
