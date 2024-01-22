@@ -17,6 +17,8 @@ Todo
 
 # Prática e Projetos
 Todo
+- Project Euler
+- Codewars
 - [Project Based Learning](https://github.com/practical-tutorials/project-based-learning?tab=readme-ov-file#cc)
 - [Projects](https://github.com/karan/Projects)
 - [Every Programmer Should do](https://austinhenley.com/blog/challengingprojects.html)
