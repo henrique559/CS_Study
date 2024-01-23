@@ -6,6 +6,10 @@ TODO: O Objetivo desse repositório é criar um roadmap para auxiliar os meus es
 (TODO: Criar um plano de estudos com os conteúdos estudados, data e uma check-box para avaliar o progresso, pasta para adicionar códigos e resumo de capítulos de livros que estarei lendo,
 um blog para colocar coisas sobre programação etc...) <~ Em Desenvolvimento
 
+Mostrar progresso: [Trello](https://trello.com/).
+Flash-Cards: [Como memorizar conteúdos de ciências da computação](https://startupnextdoor.com/retaining-computer-science-knowledge/) usando o [Anki](https://github.com/badlydrawnrob/anki)
+
+
 # Blog
 Todo
 - [Programming Blog](https://www.afternerd.com/blog/start-programming-blog/)
@@ -24,6 +28,9 @@ Todo
 - [Project Based Learning](https://github.com/practical-tutorials/project-based-learning?tab=readme-ov-file#cc)
 - [Projects](https://github.com/karan/Projects)
 - [Every Programmer Should do](https://austinhenley.com/blog/challengingprojects.html)
+- [CodeTriage](https://www.codetriage.com/)
+- [First Timers Only](https://www.firsttimersonly.com/).
+
 
 # 0 - Introdução
 ### Programação:
@@ -35,12 +42,13 @@ Todo
 ## Livros:
 - [ ] C#: Player's Guide
 - [ ] Python: Crash Course + ATBP Projects
-- [ ] Entendendo Algoritmos
+- [ ] Grooking Algorithms
 - [ ] Aprendendo a Aprender
 
 ## Outros:
-- [ ] SQLite
+- [ ] [Learning SQL](http://www.r-5.org/files/books/computers/languages/sql/mysql/Alan_Beaulieu-Learning_SQL-EN.pdf)
 - [X] Git & GitHub
+- [ ] SOLID
 
 
 # 1 - Ciências da Computação
@@ -56,13 +64,13 @@ Todo
 - [ ] [Object-Oriented Design](https://www.coursera.org/learn/object-oriented-design)
 - [ ] [Design Patterns](https://www.coursera.org/learn/design-patterns)
 - [ ] [Software Architecture](https://www.coursera.org/learn/software-architecture)
-- [ ] Domain Driven Design
-- [ ] Code Complete
 
 ## Livros:
 - [ ] [Structure and Interpretation of Computer Programs](https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book.html)
 - [ ] [The Rust Programming Language Book](https://doc.rust-lang.org/book/)
-- [ ] The Pragmatic Programmer
+- [ ] [The Pragmatic Programmer](https://www.amazon.com/Pragmatic-Programmer-journey-mastery-Anniversary/)
+- [ ] [Head First Design Patterns](https://www.amazon.com/Head-First-Design-Patterns-Object-Oriented/)
+- [ ] [Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/)
 
 # 2 - Sistemas de Computadores
 ## Cursos:
@@ -78,13 +86,14 @@ Todo
 
 # 3 - Matématica
 ## Matemática básica:
-- [ ] [O Algebrista + Matématica para Vencer](https://www.amazon.com.br/Algebrista-Exerc%C3%ADcios-Fixa%C3%A7%C3%A3o-Revis%C3%A3o-Quest%C3%B5es/dp/8539910241)
+- [ ] [Aritmetica](https://www.khanacademy.org/math/arithmetic#arithmetic-subject-challenge)
+- [ ] [Geometria Básica](https://www.khanacademy.org/math/basic-geo#basic-geo-subject-challenge)
+- [ ] [Pré Algebra](https://www.khanacademy.org/math/pre-algebra#pre-algebra-subject-challenge)
 
 ## Pré-Calculo:
-- [ ] [Algebra I](https://www.khanacademy.org/math/algebra)       
-- [ ] [Algebra II](https://www.khanacademy.org/math/algebra2)      
-- [ ] [Trigonometry](https://www.khanacademy.org/math/trigonometry) 
-- [ ] [Precalculus](https://www.khanacademy.org/math/precalculus)
+- [ ] [Intregated Math I](https://www.khanacademy.org/math/math1#math1-subject-challenge)       
+- [ ] [Intregated Math II](https://www.khanacademy.org/math/math2#math2-subject-challenge)       
+- [ ] [Intregated Math III](https://www.khanacademy.org/math/math3#math3-subject-challenge)       
 
 ## Calculo:
 - [ ] [Calculus 1A: Differentiation](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.1x+2T2019/about)
@@ -100,7 +109,8 @@ Todo
 
 ## Livros:
 - [ ] [A Arte de Resolver Problemas](https://www.amazon.com.br/Arte-Resolver-Problemas-G-Polya/dp/8571931364)
-- [ ] [The Algorithm Design Manual](https://smile.amazon.com/Algorithm-Design-Manual-Steven-Skiena/dp/1848000693/)
+- [ ] [Introduction to Algorithms](https://www.amazon.com/Introduction-Algorithms-fourth-Thomas-Cormen/)
+- [ ] [Python Algorithms](https://www.amazon.com/Structures-Algorithms-Python-Michael-Goodrich/dp/1118290275/)
 
 # 5 - Sistemas Operacionais e Redes de Computadores
 ### Livros:
@@ -130,9 +140,14 @@ Todo
 
 # 9 - Engenharia de Software
 - [ ] [CS 169 - Berkeley](https://www2.eecs.berkeley.edu/Courses/CS169/)
+- [ ] [Software Debugging](https://www.udacity.com/course/software-debugging--cs259)
+- [ ] [Software Testing](https://www.youtube.com/playlist?list=PLAwxTw4SYaPkWVHeC_8aSIbSxE_NXI76g) 
 
 ### Livros:
 - [ ] [Software Engineering: A Practitioner's Approach](https://www.amazon.com.br/Software-Engineering-Practitioners-Roger-Pressman/dp/0078022126)
+- [ ] Domain Driven Design
+- [ ] Code Complete
+- [ ] [Fundamentals: Software Architecture](https://www.amazon.com/Fundamentals-Software-Architecture-Comprehensive-Characteristics/dp/1492043451?crid=W30IPTK6TBM7&keywords=Fundamentals+Of+Software+Architecture&qid=1677334745&s=books&sprefix=fundamentals+of+software+architecture,stripbooks-intl-ship,245&sr=1-1&linkCode=sl1&tag=milanmilanovi-20&linkId=3260ec8858ba9906113c669a73df73bb&language=en_US&ref_=as_li_ss_tl)
 
 # 9 - Cibersegurança
 ### Cursos:
@@ -140,6 +155,27 @@ Todo
 - [ ] [Principles of Secure Coding](https://www.coursera.org/learn/secure-coding-principles)
 - [ ] [Identifying Security Vulnerabilities](https://www.coursera.org/learn/identifying-security-vulnerabilities)
 - [ ] [Identifying Security Vulnerabilities in C/C++Programming](https://www.coursera.org/learn/identifying-security-vulnerabilities-c-programming)
+      
+### Avançado:
+- [ ] [Web Security Fundamentals](https://www.edx.org/course/web-security-fundamentals) 
+- [ ] [Security Governance & Compliance](https://www.coursera.org/learn/security-governance-compliance) 
+- [ ] [Digital Forensics Concepts](https://www.coursera.org/learn/digital-forensics-concepts) 
+- [ ] [Secure Software Development: Requirements, Design, and Reuse](https://www.edx.org/course/secure-software-development-requirements-design-and-reuse) 
+- [ ] [Secure Software Development: Implementation](https://www.edx.org/course/secure-software-development-implementation) 
+- [ ] [Secure Software Development: Verification and More Specialized Topics](https://www.edx.org/course/secure-software-development-verification-and-more-specialized-topics)
+
+# 10 - Sistemas Avançado
+- [ ] [Computation Structures 1: Digital Circuits]
+- [ ] [Computation Structures 2: Computer Architecture](https://learning.edx.org/course/course-v1:MITx+6.004.2x+3T2015)
+- [ ] [Computation Structures 3: Computer Organization](https://learning.edx.org/course/course-v1:MITx+6.004.3x_2+1T2017)
+
+# 11 - Matématica Avançada
+- [ ] [Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) 
+- [ ] [Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/)
+- [ ] [Introduction to Numerical Methods](https://ocw.mit.edu/courses/mathematics/18-335j-introduction-to-numerical-methods-spring-2019/index.htm)
+- [ ] [Introduction to Formal Logic](https://forallx.openlogicproject.org/) 
+- [ ] [Set Theory](https://www.youtube.com/playlist?list=PL5KkMZvBpo5AH_5GpxMiryJT6Dkj32H6N) 
+- [ ] [Probability](https://projects.iq.harvard.edu/stat110/home)
 
 # Desenvolvedor C#
 
