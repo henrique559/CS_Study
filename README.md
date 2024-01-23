@@ -14,6 +14,8 @@ Todo
 
 # Créditos
 Todo
+- [Coding Interview University](https://github.com/jwasham/coding-interview-university)
+- [OSSU](https://github.com/ossu/computer-science)
 
 # Prática e Projetos
 Todo
