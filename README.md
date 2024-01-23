@@ -34,6 +34,7 @@ Todo
 
 # 0 - Introdução
 ### Programação:
+- [ ] [CR6.100B: Introdução a Ciências da Computação](https://youtube.com/playlist?list=PLk3bkShxC-bAgK50PZ3zWsa-EAoCe-Yd4)
 - [ ] [CS50's Introduction to Computer Science](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x) - Estudando ✍️
 - [ ] [MIT 6.00001 - Introduction to Computer Science and Programming in Python](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)
 - [ ] [MIT 6.00002 - Introduction to Computational Thinking and Data Science](https://ocw.mit.edu/courses/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/)
@@ -43,12 +44,14 @@ Todo
 - [ ] C#: Player's Guide - ✍️ Estudando
 - [ ] Python: Crash Course + ATBP Projects
 - [ ] Grooking Algorithms
-- [ ] Aprendendo a Aprender - ✍️ Estudando 
+- [ ] [Algorithms to Live By](https://www.amazon.com/Algorithms-Live-Computer-Science-Decisions/dp/1627790365)
+- [ ] Aprendendo a Aprender - ✍️ Estudando
+- [ ] [Think Fast and Slow](https://www.amazon.com.br/R%C3%A1pido-devagar-Daniel-Kahneman/dp/853900383X/ref=asc_df_853900383X/?tag=googleshopp06-20&linkCode=df0&hvadid=379692259369&hvpos=&hvnetw=g&hvrand=1965364216893611835&hvpone=&hvptwo=&hvqmt=&hvdev=m&hvdvcmdl=&hvlocint=&hvlocphy=1031549&hvtargid=pla-333509391313&psc=1&mcid=5b9ad9b20df0385188c1e83c2219bf88)
 
 ## Outros:
 - [ ] [Learning SQL](http://www.r-5.org/files/books/computers/languages/sql/mysql/Alan_Beaulieu-Learning_SQL-EN.pdf) - ✍️ Estudando
 - [X] Git & GitHub
-- [ ] SOLID 
+- [ ] SOLID - C#
 - [ ] Khan Academy - Matematica 
 
 
