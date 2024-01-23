@@ -34,21 +34,21 @@ Todo
 
 # 0 - Introdução
 ### Programação:
-- [ ] [CS50's Introduction to Computer Science](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x)
+- [ ] [CS50's Introduction to Computer Science](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x) - Estudando ✍️
 - [ ] [MIT 6.00001 - Introduction to Computer Science and Programming in Python](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)
 - [ ] [MIT 6.00002 - Introduction to Computational Thinking and Data Science](https://ocw.mit.edu/courses/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/)
 - [ ] [MIT - The Missing Semester](https://missing.csail.mit.edu/)
 
 ## Livros:
-- [ ] C#: Player's Guide
+- [ ] C#: Player's Guide - ✍️ Estudando
 - [ ] Python: Crash Course + ATBP Projects
 - [ ] Grooking Algorithms
-- [ ] Aprendendo a Aprender
+- [ ] Aprendendo a Aprender - ✍️ Estudando 
 
 ## Outros:
-- [ ] [Learning SQL](http://www.r-5.org/files/books/computers/languages/sql/mysql/Alan_Beaulieu-Learning_SQL-EN.pdf)
+- [ ] [Learning SQL](http://www.r-5.org/files/books/computers/languages/sql/mysql/Alan_Beaulieu-Learning_SQL-EN.pdf) - ✍️ Estudando
 - [X] Git & GitHub
-- [ ] SOLID
+- [ ] SOLID - 
 
 
 # 1 - Ciências da Computação
