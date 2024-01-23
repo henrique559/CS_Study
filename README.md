@@ -48,7 +48,8 @@ Todo
 ## Outros:
 - [ ] [Learning SQL](http://www.r-5.org/files/books/computers/languages/sql/mysql/Alan_Beaulieu-Learning_SQL-EN.pdf) - ✍️ Estudando
 - [X] Git & GitHub
-- [ ] SOLID - 
+- [ ] SOLID 
+- [ ] Khan Academy - Matematica 
 
 
 # 1 - Ciências da Computação
