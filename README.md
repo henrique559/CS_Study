@@ -10,7 +10,7 @@ um blog para colocar coisas sobre programação etc...) <~ Em Desenvolvimento
 - Flash-Cards: [Como memorizar conteúdos de ciências da computação](https://startupnextdoor.com/retaining-computer-science-knowledge/) usando o [Anki](https://github.com/badlydrawnrob/anki)
 - [Motivação](https://youtu.be/TRPBY_lxJfE) para não desistir
 ### Lembretes
-Lista do livro '[Aprendendo a Aprender](https://www.amazon.com.br/Aprendendo-Aprender-Matem%C3%A1tica-Ci%C3%AAncias-Qualquer/dp/8586622451)'
+Retirado do livro '[Aprendendo a Aprender](https://www.amazon.com.br/Aprendendo-Aprender-Matem%C3%A1tica-Ci%C3%AAncias-Qualquer/dp/8586622451)'
 <details>
 <summary>Como estudar:</summary>
 
