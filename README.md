@@ -93,14 +93,14 @@ Todo
 
 # Prática e Projetos
 Todo
-- Project Euler
-- Codewars
+- [Project Euler](https://projecteuler.net/)
+- [Codewars](https://www.codewars.com/dashboard)
 - [Project Based Learning](https://github.com/practical-tutorials/project-based-learning?tab=readme-ov-file#cc)
 - [Projects](https://github.com/karan/Projects)
 - [Every Programmer Should do](https://austinhenley.com/blog/challengingprojects.html)
 - [CodeTriage](https://www.codetriage.com/)
 - [First Timers Only](https://www.firsttimersonly.com/).
-- Advent of Code
+- [Advent of Code](https://adventofcode.com/)
 
 
 # 0 - Introdução
@@ -114,17 +114,16 @@ Todo
 ## Livros:
 - [ ] C#: Player's Guide - ✍️ Estudando
 - [ ] Python: Crash Course + ATBP Projects
-- [ ] Grooking Algorithms
-- [ ] [Algorithms to Live By](https://www.amazon.com/Algorithms-Live-Computer-Science-Decisions/dp/1627790365)
+- [ ] Entendendo Algoritmos
 - [X] Aprendendo a Aprender - Finalizado
 - [ ] [Think Fast and Slow](https://www.amazon.com.br/R%C3%A1pido-devagar-Daniel-Kahneman/dp/853900383X/ref=asc_df_853900383X/?tag=googleshopp06-20&linkCode=df0&hvadid=379692259369&hvpos=&hvnetw=g&hvrand=1965364216893611835&hvpone=&hvptwo=&hvqmt=&hvdev=m&hvdvcmdl=&hvlocint=&hvlocphy=1031549&hvtargid=pla-333509391313&psc=1&mcid=5b9ad9b20df0385188c1e83c2219bf88)
+- [ ] [Algorithms to Live By](https://www.amazon.com/Algorithms-Live-Computer-Science-Decisions/dp/1627790365)
+
 
 ## Outros:
 - [ ] [Learning SQL](http://www.r-5.org/files/books/computers/languages/sql/mysql/Alan_Beaulieu-Learning_SQL-EN.pdf) - ✍️ Estudando
 - [ ] Git & GitHub - ✍️ Estudando
-- [ ] SOLID - C#
-- [ ] Khan Academy - Matematica 
-
+- [ ] Matemática básica - Khan Academy
 
 # 1 - Ciências da Computação
 ## Linguagens de Programação:
@@ -194,21 +193,18 @@ Todo
 - [ ] [C++](learncpp.com)
 
 # 6 - Databases
-### Cursos:
 - [ ] [CS 186](https://archive.org/details/UCBerkeley_Course_Computer_Science_186)
 
 ### Livros:
 - [ ] [Database Systems Design Implementation](https://www.amazon.com.br/Database-Systems-Design-Implementation-Management/dp/1285196147)
 
 # 7 - Sistemas Distribuidos
-### Cursos:
 - [ ] [Distributed Systems MIT 6.824](https://pdos.csail.mit.edu/6.824/)
 
 ### Livros:
 - [ ] [Designing Data-Intensive Applications by Martin Kleppmann](https://www.amazon.com.br/Designing-Data-Intensive-Applications-Martin-Kleppmann/dp/1449373321)
 
 # 8 - Compiladores e Interpretadores
-### Cursos:
 - [ ] [Compilers](https://www.edx.org/course/compilers)
 
 ### Livros:
@@ -226,7 +222,6 @@ Todo
 - [ ] [Fundamentals: Software Architecture](https://www.amazon.com/Fundamentals-Software-Architecture-Comprehensive-Characteristics/dp/1492043451?crid=W30IPTK6TBM7&keywords=Fundamentals+Of+Software+Architecture&qid=1677334745&s=books&sprefix=fundamentals+of+software+architecture,stripbooks-intl-ship,245&sr=1-1&linkCode=sl1&tag=milanmilanovi-20&linkId=3260ec8858ba9906113c669a73df73bb&language=en_US&ref_=as_li_ss_tl)
 
 # 9 - Cibersegurança
-### Cursos:
 - [ ] [Cybersecurity Fundamentals](https://www.edx.org/course/cybersecurity-fundamentals)
 - [ ] [Principles of Secure Coding](https://www.coursera.org/learn/secure-coding-principles)
 - [ ] [Identifying Security Vulnerabilities](https://www.coursera.org/learn/identifying-security-vulnerabilities)
