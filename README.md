@@ -46,10 +46,10 @@ para que seu modo difuso ajude.
 
 <details>
 <summary>Como *não* estudar: </summary>
-- 1 Não dormir o bastante. O sono torna suas correntes cerebrais mais fortes e elimina toxinas do cérebro. Se não tiver
+- 1. Não dormir o bastante. O sono torna suas correntes cerebrais mais fortes e elimina toxinas do cérebro. Se não tiver
 uma boa noite de sono antes de uma prova, nada que fizer vai adiantar. 
  
-- 2 Leitura e releitura passivas. Você precisa praticar o exercício de recordar ativamente, não apenas deixar os olhos
+- 2. Leitura e releitura passivas. Você precisa praticar o exercício de recordar ativamente, não apenas deixar os olhos
 passarem pelo material.
 
 - 3. Destacar ou sublinhar. Não se engane! Apenas destacar ou sublinhar grandes pedaços de texto não fixa coisa
