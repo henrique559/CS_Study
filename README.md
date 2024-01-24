@@ -111,7 +111,7 @@ Todo
 - [ ] [MIT 6.00002 - Introduction to Computational Thinking and Data Science](https://ocw.mit.edu/courses/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/)
 - [ ] [MIT - The Missing Semester](https://missing.csail.mit.edu/)
 
-## Livros:
+### Livros:
 - [ ] C#: Player's Guide - ✍️ Estudando
 - [ ] Python: Crash Course + ATBP Projects
 - [ ] Entendendo Algoritmos
@@ -120,26 +120,26 @@ Todo
 - [ ] [Algorithms to Live By](https://www.amazon.com/Algorithms-Live-Computer-Science-Decisions/dp/1627790365)
 
 
-## Outros:
+### Outros:
 - [ ] [Learning SQL](http://www.r-5.org/files/books/computers/languages/sql/mysql/Alan_Beaulieu-Learning_SQL-EN.pdf) - ✍️ Estudando
 - [ ] Git & GitHub - ✍️ Estudando
 - [ ] Matemática básica - Khan Academy
 
 # 1 - Ciências da Computação
-## Linguagens de Programação:
+### Linguagens de Programação:
 - [ ] [Programming Languages Part A](https://www.coursera.org/learn/programming-languages)
 - [ ] [Programming Languages Part B](https://www.coursera.org/learn/programming-languages-part-b)
 - [ ] [Programming Languages Part C](https://www.coursera.org/learn/programming-languages-part-c)
 
-## Conceitos:
+### Conceitos:
 - [ ] [Structure and Interpretation of Computer Programs - Brian Harvey’s](https://archive.org/details/ucberkeley-webcast-PL3E89002AA9B9879E?sort=titleSorter) (Ajuda para realizar [Aqui](https://github.com/abrantesasf/sicp-abrantes-study-guide))
 
-## Principios:
+### Principios:
 - [ ] [Object-Oriented Design](https://www.coursera.org/learn/object-oriented-design)
 - [ ] [Design Patterns](https://www.coursera.org/learn/design-patterns)
 - [ ] [Software Architecture](https://www.coursera.org/learn/software-architecture)
 
-## Livros:
+### Livros:
 - [ ] [Structure and Interpretation of Computer Programs](https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book.html)
 - [ ] [The Rust Programming Language Book](https://doc.rust-lang.org/book/)
 - [ ] [The Pragmatic Programmer](https://www.amazon.com/Pragmatic-Programmer-journey-mastery-Anniversary/)
@@ -147,41 +147,39 @@ Todo
 - [ ] [Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/)
 
 # 2 - Sistemas de Computadores
-## Cursos:
 - [ ] [Build a Modern Computer from First Principles Part 1](https://www.coursera.org/learn/build-a-computer)
 - [ ] [Build a Modern Computer from First Principles Part 2](https://www.coursera.org/learn/nand2tetris2)
 - [ ] [Computer Systems: A Programmer's Perspective](https://www.amazon.com/Computer-Systems-Programmers-Perspective-3rd/dp/013409266X)
 
-## Livros:
+### Livros:
 - [ ] The C Programming Language
 - [ ] [Code: The Hidden Language of Computer Hardware and Software](http://charlespetzold.com/code/)
 - [ ] Low Level Programming: Igor Zharkov
 - [ ] Hacking: The Art of Exploitation
 
 # 3 - Matématica
-## Matemática básica:
+### Matemática básica:
 - [ ] [Aritmetica](https://www.khanacademy.org/math/arithmetic#arithmetic-subject-challenge)
 - [ ] [Geometria Básica](https://www.khanacademy.org/math/basic-geo#basic-geo-subject-challenge)
 - [ ] [Pré Algebra](https://www.khanacademy.org/math/pre-algebra#pre-algebra-subject-challenge)
 
-## Pré-Calculo:
+### Pré-Calculo:
 - [ ] [Intregated Math I](https://www.khanacademy.org/math/math1#math1-subject-challenge)       
 - [ ] [Intregated Math II](https://www.khanacademy.org/math/math2#math2-subject-challenge)       
 - [ ] [Intregated Math III](https://www.khanacademy.org/math/math3#math3-subject-challenge)       
 
-## Calculo:
+### Calculo:
 - [ ] [Calculus 1A: Differentiation](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.1x+2T2019/about)
 - [ ] [Calculus 1B: Integration](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.2x+3T2019/about) 
 - [ ] [Calculus 1C: Coordinate Systems & Infinite Series](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.3x+1T2020/about) 
 
-## Matématica Discreta:
+### Matématica Discreta:
 - [ ] [Mathematics for Computer Science](https://openlearninglibrary.mit.edu/courses/course-v1:OCW+6.042J+2T2019/about)
        
 # 4 - Algoritmos
-## Cursos:
 - [ ] [Berkeley CS 61B](https://www2.eecs.berkeley.edu/Courses/CS61B/)
 
-## Livros:
+### Livros:
 - [ ] [A Arte de Resolver Problemas](https://www.amazon.com.br/Arte-Resolver-Problemas-G-Polya/dp/8571931364)
 - [ ] [Introduction to Algorithms](https://www.amazon.com/Introduction-Algorithms-fourth-Thomas-Cormen/)
 - [ ] [Python Algorithms](https://www.amazon.com/Structures-Algorithms-Python-Michael-Goodrich/dp/1118290275/)
@@ -293,7 +291,7 @@ Todo
 
 
 # Desenvolvedor Rust
-## Introdução:
+### Introdução:
 Iniciante:
 - [The Rust Programming Language Book](https://doc.rust-lang.org/book/) The offcial book of the language will give you an overview of the language from first principles.
 - [Rust Programming by Example](https://www.amazon.com/Rust-Programming-Example-concurrent-applications/dp/1788390636)
@@ -308,7 +306,7 @@ Avançado:
  - [Rust in Action](https://www.manning.com/books/rust-in-action)
  - [The Theseus OS Book](https://www.theseus-os.com/Theseus/book/index.html)
 
-## Prática:
+### Prática:
 - [Rust Exercism](https://exercism.org/tracks/rust)
 - [Rust Practice Questions](https://rust-unofficial.github.io/rust-practise-questions/)
 - [Rustlings](https://github.com/rust-lang/rustlings/)
@@ -320,7 +318,7 @@ Avançado:
 - [Algorithm Cookbook in Rust](https://github.com/EbTech/rust-algorithms)
 - [Low-Level Academy](https://lowlvl.org/)
 
-## Projetos:
+### Projetos:
 - [PNGme](https://jrdngr.github.io/pngme_book/introduction.html) - An Intermediate Rust Project.
 - [Triangle From Scratch](https://rust-tutorials.github.io/triangle-from-scratch/) - draw a triangle using Win32, but no external crates
 - [Build your own JIRA with Rust](https://github.com/LukeMathWalker/build-your-own-jira-with-rust/) - A test-driven workshop to learn Rust building your own JIRA clone!
