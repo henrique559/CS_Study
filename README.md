@@ -46,12 +46,12 @@ Todo
 - [ ] Python: Crash Course + ATBP Projects
 - [ ] Grooking Algorithms
 - [ ] [Algorithms to Live By](https://www.amazon.com/Algorithms-Live-Computer-Science-Decisions/dp/1627790365)
-- [ ] Aprendendo a Aprender - ✍️ Estudando
+- [X] Aprendendo a Aprender - Finalizado
 - [ ] [Think Fast and Slow](https://www.amazon.com.br/R%C3%A1pido-devagar-Daniel-Kahneman/dp/853900383X/ref=asc_df_853900383X/?tag=googleshopp06-20&linkCode=df0&hvadid=379692259369&hvpos=&hvnetw=g&hvrand=1965364216893611835&hvpone=&hvptwo=&hvqmt=&hvdev=m&hvdvcmdl=&hvlocint=&hvlocphy=1031549&hvtargid=pla-333509391313&psc=1&mcid=5b9ad9b20df0385188c1e83c2219bf88)
 
 ## Outros:
 - [ ] [Learning SQL](http://www.r-5.org/files/books/computers/languages/sql/mysql/Alan_Beaulieu-Learning_SQL-EN.pdf) - ✍️ Estudando
-- [X] Git & GitHub
+- [ ] Git & GitHub - ✍️ Estudando
 - [ ] SOLID - C#
 - [ ] Khan Academy - Matematica 
 
