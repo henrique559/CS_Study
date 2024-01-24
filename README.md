@@ -14,7 +14,7 @@ Lista do livro '[Aprendendo a Aprender](https://www.amazon.com.br/Aprendendo-Apr
 <details>
 <summary>Como estudar:</summary>
 
-- 1 Faça uso tanto do modo focado intenso como do modo difuso relaxado. Se ficar frustrado, é hora de mudar de
+- 1. Faça uso tanto do modo focado intenso como do modo difuso relaxado. Se ficar frustrado, é hora de mudar de
 tópico. Ou fazer um pouco de exercício físico! 
  
 - 2. Crie correntes cerebrais praticando, repetindo e recordando. Pratique a resolução de problemas importantes para
