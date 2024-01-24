@@ -134,7 +134,7 @@ Todo
 - [ ] [Programming Languages Part C](https://www.coursera.org/learn/programming-languages-part-c)
 
 ### Conceitos:
-- [ ] [Structure and Interpretation of Computer Programs - Brian Harvey’s](https://archive.org/details/ucberkeley-webcast-PL3E89002AA9B9879E?sort=titleSorter) (Ajuda para realizar [Aqui] (https://github.com/abrantesasf/sicp-abrantes-study-guide)) ou [How to Design Programs](https://htdp.org/2023-8-14/Book/index.html)
+- [ ] [Structure and Interpretation of Computer Programs - Brian Harvey’s](https://archive.org/details/ucberkeley-webcast-PL3E89002AA9B9879E?sort=titleSorter) (Ajuda para realizar [Aqui](https://github.com/abrantesasf/sicp-abrantes-study-guide)) ou [How to Design Programs](https://htdp.org/2023-8-14/Book/index.html)
 
 ### Principios:
 - [ ] [Object-Oriented Design](https://www.coursera.org/learn/object-oriented-design)
