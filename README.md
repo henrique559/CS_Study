@@ -14,32 +14,32 @@ Lista do livro '[Aprendendo a Aprender](https://www.amazon.com.br/Aprendendo-Apr
 <details>
 <summary>Como estudar:</summary>
 
-- 1. Faça uso tanto do modo focado intenso como do modo difuso relaxado. Se ficar frustrado, é hora de mudar de
+- 1 - Faça uso tanto do modo focado intenso como do modo difuso relaxado. Se ficar frustrado, é hora de mudar de
 tópico. Ou fazer um pouco de exercício físico! 
  
-- 2. Crie correntes cerebrais praticando, repetindo e recordando. Pratique a resolução de problemas importantes para
+- 2 - Crie correntes cerebrais praticando, repetindo e recordando. Pratique a resolução de problemas importantes para
 que consiga recordar cada passo. Soluções, conceitos e técnicas devem fluir em sua mente como uma música.
 
-- 3. Intercale. Não pratique apenas com mudanças sutis da mesma técnica básica. Alterne entre técnicas diferentes.
+- 3 - Intercale. Não pratique apenas com mudanças sutis da mesma técnica básica. Alterne entre técnicas diferentes.
 Isso permitirá que você entenda quando deve usar determinada técnica. Os livros normalmente não ajudam a
 intercalar. Você terá que praticar pulando para a frente e para trás entre as ideias dos diferentes capítulos.
 
-- 4. Estude ao longo dos dias. Pratique durante vários dias. Assim suas sinapses terão mais tempo para se formar.
+- 4 - Estude ao longo dos dias. Pratique durante vários dias. Assim suas sinapses terão mais tempo para se formar.
     
-- 5. Exercite-se! O exercício físico alimenta seus neurônios. Também cria e fortalece novas sinapses.
+- 5 - Exercite-se! O exercício físico alimenta seus neurônios. Também cria e fortalece novas sinapses.
      
-- 6. Teste a si mesmo. Peça para outros testarem você. Ensine outras pessoas. Para tudo isso é preciso recordar.
+- 6 - Teste a si mesmo. Peça para outros testarem você. Ensine outras pessoas. Para tudo isso é preciso recordar.
 Testar e recordar são as melhores formas de fortalecer o aprendizado.
 
-- 7. Utilize figuras e metáforas engraçadas para acelerar sua aprendizagem. Comece usando palácios da memória.
+- 7 - Utilize figuras e metáforas engraçadas para acelerar sua aprendizagem. Comece usando palácios da memória.
     
-- 8. Use a técnica pomodoro para desenvolver sua habilidade de se concentrar e relaxar. Desligue todas as distrações,
+- 8 - Use a técnica pomodoro para desenvolver sua habilidade de se concentrar e relaxar. Desligue todas as distrações,
 ajuste o cronômetro para 25 minutos, concentre-se e depois recompense a si mesmo.
 
-- 9. Coma os sapos primeiro. Comece pelo trabalho mais difícil. Assim você consegue terminá-lo ou fazer uma pausa
+- 9 - Coma os sapos primeiro. Comece pelo trabalho mais difícil. Assim você consegue terminá-lo ou fazer uma pausa
 para que seu modo difuso ajude.
 
-- 10. Encontre maneiras para aprender ativamente, fora de suas aulas normais. Procure outras explicações na internet.
+- 10 - Encontre maneiras para aprender ativamente, fora de suas aulas normais. Procure outras explicações na internet.
  
       
 </details>
@@ -65,17 +65,17 @@ pedaço de papel. Essas anotações vão ajudá-lo a criar correntes cerebrais c
 drible. Utilize a prática deliberada — concentre-se no que você acha mais difícil.7. Ignorar o livro. Se estiver usando um livro didático para estudar, lembre-se de caminhar pelas figuras do livro ou
 pelas anotações de aula antes de seguir adiante. E certifique-se de ler sobre como resolver os problemas antes de
 tentar resolvê-los!
-- 7. Ignorar o livro. Se estiver usando um livro didático para estudar, lembre-se de caminhar pelas figuras do livro ou
+- 7 - Ignorar o livro. Se estiver usando um livro didático para estudar, lembre-se de caminhar pelas figuras do livro ou
 pelas anotações de aula antes de seguir adiante. E certifique-se de ler sobre como resolver os problemas antes de
 tentar resolvê-los!
 
 - 8 - Não esclarecer pontos de dúvida. Há apenas alguns pontos que você não entendeu? É possível que sejam
 justamente esses que estarão na prova. Peça ajuda a seu professor ou amigos.
 
-- 9. Distrações. Escolha um lugar onde consiga concentrar-se enquanto estuda. É uma boa ideia deixar seu smartphone
+- 9 - Distrações. Escolha um lugar onde consiga concentrar-se enquanto estuda. É uma boa ideia deixar seu smartphone
 desligado e fora do seu alcance.
 
-- 10. Conversar com amigos em vez de estudar. Bons grupos de estudo podem ser uma ótima maneira de aprender.
+- 10 - Conversar com amigos em vez de estudar. Bons grupos de estudo podem ser uma ótima maneira de aprender.
 Mas “grupos de estudo” que são mais de fofoca do que de estudo não servem muito. 
 </details>
 
@@ -191,6 +191,7 @@ Todo
 ### Livros:
 - [ ] [Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/)
 - [ ] [Computer Networking: a Top-Down Approach](http://gaia.cs.umass.edu/kurose_ross/online_lectures.htm)
+- [ ] [C++](learncpp.com)
 
 # 6 - Databases
 ### Cursos:
