@@ -284,12 +284,13 @@ Todo
 
 ### Avançado:
 - [ ] DevOps (CI/CD)
+- [ ] Docker/Kubernets
+- [ ] AWS
 - [ ] Domain Driven Design
 - [ ] Clean Code
 - [ ] Testes de Unidade
-- [ ] Scrum
 - [ ] Arquitetura de Software
-- [ ] Logging/Caching
+- [ ] Logging/Caching etc..
 
 [Consultar em detalhes aqui](https://marcialwushu.github.io/dotnet-core-developer-roadmap/)
 
