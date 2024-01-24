@@ -13,7 +13,7 @@ um blog para colocar coisas sobre programação etc...) <~ Em Desenvolvimento
 Lista do livro '[Aprendendo a Aprender](https://www.amazon.com.br/Aprendendo-Aprender-Matem%C3%A1tica-Ci%C3%AAncias-Qualquer/dp/8586622451)'
 <details>
 <summary>Como estudar:</summary>
-- 1. Faça uso tanto do modo focado intenso como do modo difuso relaxado. Se ficar frustrado, é hora de mudar de
+- Faça uso tanto do modo focado intenso como do modo difuso relaxado. Se ficar frustrado, é hora de mudar de
 tópico. Ou fazer um pouco de exercício físico! 
 - 2. Crie correntes cerebrais praticando, repetindo e recordando. Pratique a resolução de problemas importantes para
 que consiga recordar cada passo. Soluções, conceitos e técnicas devem fluir em sua mente como uma música. 
