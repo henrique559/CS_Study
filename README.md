@@ -3,8 +3,8 @@
 TODO: O Objetivo desse repositório é criar um roadmap para auxiliar os meus estudos e reunir conteúdos para consultar durante o meu estudo de ciências da computação.
 
 # Objetivos
-(TODO: Criar um plano de estudos com os conteúdos estudados, data e uma check-box para avaliar o progresso, pasta para adicionar códigos e resumo de capítulos de livros que estarei lendo,
-um blog para colocar coisas sobre programação etc...) <~ Em Desenvolvimento
+(TODO: Criar um plano de estudos com os conteúdos estudados, data e uma check-box para avaliar o progresso, pasta para adicionar códigos e resumo de capítulos de livros que vou ler,
+um blog para colocar coisas sobre programação, como tutoriais, oq eu aprendi etc...) <~ Em Desenvolvimento
 
 - Mostrar progresso: [Trello](https://trello.com/).
 - Flash-Cards: [Como memorizar conteúdos de ciências da computação](https://startupnextdoor.com/retaining-computer-science-knowledge/) usando o [Anki](https://github.com/badlydrawnrob/anki)
