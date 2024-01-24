@@ -46,23 +46,34 @@ para que seu modo difuso ajude.
 
 <details>
 <summary>Como *não* estudar: </summary>
-- 1. Não dormir o bastante. O sono torna suas correntes cerebrais mais fortes e elimina toxinas do cérebro. Se não tiver
+- 1 Não dormir o bastante. O sono torna suas correntes cerebrais mais fortes e elimina toxinas do cérebro. Se não tiver
 uma boa noite de sono antes de uma prova, nada que fizer vai adiantar. 
-- 2. Leitura e releitura passivas. Você precisa praticar o exercício de recordar ativamente, não apenas deixar os olhos
-passarem pelo material. 
+ 
+- 2 Leitura e releitura passivas. Você precisa praticar o exercício de recordar ativamente, não apenas deixar os olhos
+passarem pelo material.
+
 - 3. Destacar ou sublinhar. Não se engane! Apenas destacar ou sublinhar grandes pedaços de texto não fixa coisa
 alguma em sua cabeça. Faça anotações breves sobre os conceitos-chave que estiver lendo na margem ou em um
-pedaço de papel. Essas anotações vão ajudá-lo a criar correntes cerebrais com os conceitos-chave. 
-- 4. Olhar a resposta para um problema e achar que entendeu. Você precisa resolver o problema sozinho. 
-- 5. Cramming. Aprendizagem no último minuto não constrói correntes cerebrais sólidas. 
+pedaço de papel. Essas anotações vão ajudá-lo a criar correntes cerebrais com os conceitos-chave.
+
+- 4. Olhar a resposta para um problema e achar que entendeu. Você precisa resolver o problema sozinho.
+     
+- 5. Cramming. Aprendizagem no último minuto não constrói correntes cerebrais sólidas.
+     
 - 6. Aprendizagem preguiçosa. Não pratique apenas conteúdos fáceis. É como aprender a jogar basquete focando no
 drible. Utilize a prática deliberada — concentre-se no que você acha mais difícil.7. Ignorar o livro. Se estiver usando um livro didático para estudar, lembre-se de caminhar pelas figuras do livro ou
 pelas anotações de aula antes de seguir adiante. E certifique-se de ler sobre como resolver os problemas antes de
-tentar resolvê-los! 
+tentar resolvê-los!
+- 7. Ignorar o livro. Se estiver usando um livro didático para estudar, lembre-se de caminhar pelas figuras do livro ou
+pelas anotações de aula antes de seguir adiante. E certifique-se de ler sobre como resolver os problemas antes de
+tentar resolvê-los!
+
 - 8. Não esclarecer pontos de dúvida. Há apenas alguns pontos que você não entendeu? É possível que sejam
-justamente esses que estarão na prova. Peça ajuda a seu professor ou amigos. 
+justamente esses que estarão na prova. Peça ajuda a seu professor ou amigos.
+
 - 9. Distrações. Escolha um lugar onde consiga concentrar-se enquanto estuda. É uma boa ideia deixar seu smartphone
-desligado e fora do seu alcance. 
+desligado e fora do seu alcance.
+
 - 10. Conversar com amigos em vez de estudar. Bons grupos de estudo podem ser uma ótima maneira de aprender.
 Mas “grupos de estudo” que são mais de fofoca do que de estudo não servem muito. 
 </details>
