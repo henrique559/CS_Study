@@ -8,6 +8,7 @@ um blog para colocar coisas sobre programação etc...) <~ Em Desenvolvimento
 
 - Mostrar progresso: [Trello](https://trello.com/).
 - Flash-Cards: [Como memorizar conteúdos de ciências da computação](https://startupnextdoor.com/retaining-computer-science-knowledge/) usando o [Anki](https://github.com/badlydrawnrob/anki)
+- [Motivação](https://youtu.be/TRPBY_lxJfE) para não desistir
 
 
 # Blog
