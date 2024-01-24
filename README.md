@@ -124,6 +124,7 @@ Todo
 - [ ] [Learning SQL](http://www.r-5.org/files/books/computers/languages/sql/mysql/Alan_Beaulieu-Learning_SQL-EN.pdf) - ✍️ Estudando
 - [ ] Git & GitHub - ✍️ Estudando
 - [ ] Matemática básica - Khan Academy
+- [ ] [Português - Fundação Bradesco](https://www.ev.org.br/)
 
 # 1 - Ciências da Computação
 ### Linguagens de Programação:
