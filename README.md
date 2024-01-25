@@ -12,7 +12,8 @@ um blog para colocar coisas sobre programação, como tutoriais, oq eu aprendi e
 - [Como aprender programação em 10 anos](https://pihisall.wordpress.com/2007/03/15/aprenda-a-programar-em-dez-anos/)
 - Respositorio interessante sobre [engenharia de software](https://github.com/AlexGalhardo/Software-Engineering) e outro sobre [roadmaps](https://github.com/carlcastanas/IT-curriculum-guide)
 - Excelente [repositório](https://github.com/charlax/professional-programming?tab=MIT-1-ov-file)
-- Aprender sobrr [Linha de comando](https://github.com/jlevy/the-art-of-command-line)
+- Aprender sobre [Linha de comando](https://github.com/jlevy/the-art-of-command-line)
+- Plano de estudos para [ciências da computação](https://thevaluable.dev/learning-computer-science-software-developer/)
 ### Lembretes
 Retirado do livro '[Aprendendo a Aprender](https://www.amazon.com.br/Aprendendo-Aprender-Matem%C3%A1tica-Ci%C3%AAncias-Qualquer/dp/8586622451)'
 <details>
