@@ -96,7 +96,7 @@ Todo
 
 # Prática e Projetos
 Todo
-- [Project Euler](https://projecteuler.net/)
+- [Project Euler](https://projecteuler.net/) - veja mais sobre [aqui](https://onestepcode.com/solve-project-euler-problems/)
 - [Codewars](https://www.codewars.com/dashboard)
 - [Project Based Learning](https://github.com/practical-tutorials/project-based-learning?tab=readme-ov-file#cc)
 - [Projects](https://github.com/karan/Projects)
