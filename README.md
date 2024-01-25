@@ -9,7 +9,6 @@ um blog para colocar coisas sobre programação, como tutoriais, oq eu aprendi e
 - Mostrar progresso: [Trello](https://trello.com/).
 - Flash-Cards: [Como memorizar conteúdos de ciências da computação](https://startupnextdoor.com/retaining-computer-science-knowledge/) usando o [Anki](https://github.com/badlydrawnrob/anki)
 - [Motivação](https://youtu.be/TRPBY_lxJfE) para não desistir
-- [Como aprender programação em 10 anos](https://pihisall.wordpress.com/2007/03/15/aprenda-a-programar-em-dez-anos/)
 - Respositorio interessante sobre [engenharia de software](https://github.com/AlexGalhardo/Software-Engineering) e outro sobre [roadmaps](https://github.com/carlcastanas/IT-curriculum-guide)
 - Excelente [repositório](https://github.com/charlax/professional-programming?tab=MIT-1-ov-file)
 - Aprender sobre [Linha de comando](https://github.com/jlevy/the-art-of-command-line)
