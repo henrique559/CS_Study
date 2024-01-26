@@ -119,10 +119,13 @@ Todo
 
 # 0 - Introdução
 ### Programação:
-- [ ] Introdução a ciência da computação: [CS50 - Harvard](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x) - versão em [PT-BR](https://youtube.com/playlist?list=PLk3bkShxC-bAgK50PZ3zWsa-EAoCe-Yd4)
+- [ ] [CS50 - Harvard](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x) - versão em [PT-BR](https://youtube.com/playlist?list=PLk3bkShxC-bAgK50PZ3zWsa-EAoCe-Yd4)
 - [ ] [MIT 6.00001 - Introduction to Computer Science and Programming in Python](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)
 - [ ] [MIT 6.00002 - Introduction to Computational Thinking and Data Science](https://ocw.mit.edu/courses/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/)
 - [ ] [MIT - The Missing Semester](https://missing.csail.mit.edu/)
+
+Talvez:
+- [ ] [CS50 - Web Development](https://cs50.harvard.edu/web/2020/)
 
 ### Livros:
 - [ ] Python: Crash Course (+ ATBP Projects)
