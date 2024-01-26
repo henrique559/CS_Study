@@ -93,7 +93,11 @@ Todo
 # Créditos
 Todo
 - [Coding Interview University](https://github.com/jwasham/coding-interview-university)
+- [C# Developer](https://github.com/MoienTajik/AspNetCore-Developer-Roadmap)
+- [CS Rusty](https://github.com/AbdesamedBendjeddou/Rusty-CS)
 - [OSSU](https://github.com/ossu/computer-science)
+- [Profissional Programming](https://github.com/charlax/professional-programming)
+- [Golang dev](https://github.com/darius-khll/golang-developer-roadmap)
 
 # Prática e Projetos
 Todo
@@ -105,6 +109,7 @@ Todo
 - [CodeTriage](https://www.codetriage.com/)
 - [First Timers Only](https://www.firsttimersonly.com/).
 - [Advent of Code](https://adventofcode.com/)
+- Ideias de [Projetos](https://github.com/the-programmers-hangout/programming-resources/blob/master/ideas.md)
 
 
 # 0 - Introdução
