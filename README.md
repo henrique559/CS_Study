@@ -297,9 +297,6 @@ Redes
 [Consultar em detalhes aqui](https://marcialwushu.github.io/dotnet-core-developer-roadmap/)
 
 # Desenvolvedor Go
-### Introdução:
-
-## Recursos
 
 1. Prerequisitos
 
