@@ -101,26 +101,25 @@ Todo
 - [Learn in public](https://www.swyx.io/learn-in-public)
 - [How to learn how to learn code](https://medium.com/weekly-webtips/learning-how-to-learn-how-to-program-d3f8b9d37222)
 
-
-
-
-
 # Prática e Projetos
 Todo
+### Sites para praticar:
 - [Project Euler](https://projecteuler.net/) - veja mais sobre [aqui](https://onestepcode.com/solve-project-euler-problems/)
 - [Codewars](https://www.codewars.com/dashboard)
-- [Project Based Learning](https://github.com/practical-tutorials/project-based-learning?tab=readme-ov-file#cc)
-- [Projects](https://github.com/karan/Projects)
-- [Every Programmer Should do](https://austinhenley.com/blog/challengingprojects.html)
-- [CodeTriage](https://www.codetriage.com/)
-- [First Timers Only](https://www.firsttimersonly.com/).
 - [Advent of Code](https://adventofcode.com/)
-- Ideias de [Projetos](https://github.com/the-programmers-hangout/programming-resources/blob/master/ideas.md)
+
+
+### Lista de projetos:
+- [Project Based Learning](https://github.com/practical-tutorials/project-based-learning?tab=readme-ov-file#cc)
+- Ideias de [Projetos 1](https://github.com/karan/Projects)
+- Ideias de [Projetos 2](https://github.com/the-programmers-hangout/programming-resources/blob/master/ideas.md)
+- [Every Programmer Should do](https://austinhenley.com/blog/challengingprojects.html)
+- [Contribuições open source](https://www.firsttimersonly.com/).
 
 
 # 0 - Introdução
 ### Programação:
-- [ ] [CS50's Introduction to Computer Science](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x) - versão em [PT-BR](https://youtube.com/playlist?list=PLk3bkShxC-bAgK50PZ3zWsa-EAoCe-Yd4)
+- [ ] Introdução a ciência da computação: [CS50 - Harvard](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x) - versão em [PT-BR](https://youtube.com/playlist?list=PLk3bkShxC-bAgK50PZ3zWsa-EAoCe-Yd4)
 - [ ] [MIT 6.00001 - Introduction to Computer Science and Programming in Python](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)
 - [ ] [MIT 6.00002 - Introduction to Computational Thinking and Data Science](https://ocw.mit.edu/courses/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/)
 - [ ] [MIT - The Missing Semester](https://missing.csail.mit.edu/)
@@ -150,20 +149,18 @@ Todo
 
 ### Livros:
 - [ ] [Structure and Interpretation of Computer Programs](https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book.html)
-- [ ] [The Rust Programming Language Book](https://doc.rust-lang.org/book/)
 - [ ] [The Pragmatic Programmer](https://www.amazon.com/Pragmatic-Programmer-journey-mastery-Anniversary/)
 - [ ] [Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/)
 
 # 2 - Sistemas de Computadores
 - [ ] [Build a Modern Computer from First Principles Part 1](https://www.coursera.org/learn/build-a-computer)
 - [ ] [Build a Modern Computer from First Principles Part 2](https://www.coursera.org/learn/nand2tetris2)
-- [ ] [Computer Systems: A Programmer's Perspective](https://www.amazon.com/Computer-Systems-Programmers-Perspective-3rd/dp/013409266X)
 
 ### Livros:
-- [ ] The C Programming Language
+- [ ] [Computer Systems: A Programmer's Perspective](https://www.amazon.com/Computer-Systems-Programmers-Perspective-3rd/dp/013409266X)
 - [ ] [Code: The Hidden Language of Computer Hardware and Software](http://charlespetzold.com/code/)
+- [ ] The C Programming Language
 - [ ] Low Level Programming: Igor Zharkov
-- [ ] Hacking: The Art of Exploitation
 
 # 3 - Matématica
 ### Matemática básica:
@@ -188,17 +185,22 @@ Todo
 - [ ] [Berkeley CS 61B](https://www2.eecs.berkeley.edu/Courses/CS61B/)
 
 ### Livros:
-- [ ] [A Arte de Resolver Problemas](https://www.amazon.com.br/Arte-Resolver-Problemas-G-Polya/dp/8571931364)
 - [ ] [Introduction to Algorithms](https://www.amazon.com/Introduction-Algorithms-fourth-Thomas-Cormen/)
+
+Pensamento computacional:
+- [ ] [A Arte de Resolver Problemas](https://www.amazon.com.br/Arte-Resolver-Problemas-G-Polya/dp/8571931364)
 - [ ] [Think Fast and Slow](https://www.amazon.com.br/R%C3%A1pido-devagar-Daniel-Kahneman/dp/853900383X/ref=asc_df_853900383X/?tag=googleshopp06-20&linkCode=df0&hvadid=379692259369&hvpos=&hvnetw=g&hvrand=1965364216893611835&hvpone=&hvptwo=&hvqmt=&hvdev=m&hvdvcmdl=&hvlocint=&hvlocphy=1031549&hvtargid=pla-333509391313&psc=1&mcid=5b9ad9b20df0385188c1e83c2219bf88)
 - [ ] [Algorithms to Live By](https://www.amazon.com/Algorithms-Live-Computer-Science-Decisions/dp/1627790365)
+- [ ] [C++](learncpp.com)
 
 
 # 5 - Sistemas Operacionais e Redes de Computadores
 ### Livros:
+Sistemas operacionais:
 - [ ] [Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/)
+
+Redes
 - [ ] [Computer Networking: a Top-Down Approach](http://gaia.cs.umass.edu/kurose_ross/online_lectures.htm)
-- [ ] [C++](learncpp.com)
 
 # 6 - Databases
 - [ ] [CS 186](https://archive.org/details/UCBerkeley_Course_Computer_Science_186)
@@ -220,14 +222,11 @@ Todo
 
 # 9 - Engenharia de Software
 - [ ] [CS 169 - Berkeley](https://www2.eecs.berkeley.edu/Courses/CS169/)
-- [ ] [Software Debugging](https://www.udacity.com/course/software-debugging--cs259)
-- [ ] [Software Testing](https://www.youtube.com/playlist?list=PLAwxTw4SYaPkWVHeC_8aSIbSxE_NXI76g) 
 
 ### Livros:
 - [ ] [Software Engineering: A Practitioner's Approach](https://www.amazon.com.br/Software-Engineering-Practitioners-Roger-Pressman/dp/0078022126)
 - [ ] Domain Driven Design
 - [ ] Code Complete
-- [ ] [Fundamentals: Software Architecture](https://www.amazon.com/Fundamentals-Software-Architecture-Comprehensive-Characteristics/dp/1492043451?crid=W30IPTK6TBM7&keywords=Fundamentals+Of+Software+Architecture&qid=1677334745&s=books&sprefix=fundamentals+of+software+architecture,stripbooks-intl-ship,245&sr=1-1&linkCode=sl1&tag=milanmilanovi-20&linkId=3260ec8858ba9906113c669a73df73bb&language=en_US&ref_=as_li_ss_tl)
 
 # 9 - Cibersegurança
 - [ ] [Cybersecurity Fundamentals](https://www.edx.org/course/cybersecurity-fundamentals)
@@ -243,12 +242,7 @@ Todo
 - [ ] [Secure Software Development: Implementation](https://www.edx.org/course/secure-software-development-implementation) 
 - [ ] [Secure Software Development: Verification and More Specialized Topics](https://www.edx.org/course/secure-software-development-verification-and-more-specialized-topics)
 
-# 10 - Sistemas Avançado
-- [ ] [Computation Structures 1: Digital Circuits]
-- [ ] [Computation Structures 2: Computer Architecture](https://learning.edx.org/course/course-v1:MITx+6.004.2x+3T2015)
-- [ ] [Computation Structures 3: Computer Organization](https://learning.edx.org/course/course-v1:MITx+6.004.3x_2+1T2017)
-
-# 11 - Matématica Avançada
+# 10 - Matématica Avançada
 - [ ] [Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) 
 - [ ] [Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/)
 - [ ] [Introduction to Numerical Methods](https://ocw.mit.edu/courses/mathematics/18-335j-introduction-to-numerical-methods-spring-2019/index.htm)
