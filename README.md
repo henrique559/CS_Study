@@ -13,6 +13,17 @@ um blog para colocar coisas sobre programação, como tutoriais, oq eu aprendi e
 - Excelente [repositório](https://github.com/charlax/professional-programming?tab=MIT-1-ov-file)
 - Aprender sobre [Linha de comando](https://github.com/jlevy/the-art-of-command-line)
 - Plano de estudos para [ciências da computação](https://thevaluable.dev/learning-computer-science-software-developer/)
+<details>
+ <summary> Créditos </summary>
+- [Coding Interview University](https://github.com/jwasham/coding-interview-university)
+- [C# Developer](https://github.com/MoienTajik/AspNetCore-Developer-Roadmap)
+- [CS Rusty](https://github.com/AbdesamedBendjeddou/Rusty-CS)
+- [OSSU](https://github.com/ossu/computer-science)
+- [Profissional Programming](https://github.com/charlax/professional-programming)
+- [Golang dev](https://github.com/darius-khll/golang-developer-roadmap)
+- [DevOps Roadmap](https://github.com/milanm/DevOps-Roadmap)
+</details>
+
 ### Lembretes
 Retirado do livro '[Aprendendo a Aprender](https://www.amazon.com.br/Aprendendo-Aprender-Matem%C3%A1tica-Ci%C3%AAncias-Qualquer/dp/8586622451)'
 <details>
@@ -90,15 +101,8 @@ Todo
 - [Learn in public](https://www.swyx.io/learn-in-public)
 - [How to learn how to learn code](https://medium.com/weekly-webtips/learning-how-to-learn-how-to-program-d3f8b9d37222)
 
-# Créditos
-Todo
-- [Coding Interview University](https://github.com/jwasham/coding-interview-university)
-- [C# Developer](https://github.com/MoienTajik/AspNetCore-Developer-Roadmap)
-- [CS Rusty](https://github.com/AbdesamedBendjeddou/Rusty-CS)
-- [OSSU](https://github.com/ossu/computer-science)
-- [Profissional Programming](https://github.com/charlax/professional-programming)
-- [Golang dev](https://github.com/darius-khll/golang-developer-roadmap)
-- [DevOps Roadmap](https://github.com/milanm/DevOps-Roadmap)
+
+
 
 
 # Prática e Projetos
@@ -128,7 +132,6 @@ Todo
 
 ### Outros:
 - [ ] Git & GitHub - ✍️ Estudando
-- [ ] Matemática básica
 - [ ] [Português - Fundação Bradesco](https://www.ev.org.br/)
 
 # 1 - Ciências da Computação
@@ -149,7 +152,6 @@ Todo
 - [ ] [Structure and Interpretation of Computer Programs](https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book.html)
 - [ ] [The Rust Programming Language Book](https://doc.rust-lang.org/book/)
 - [ ] [The Pragmatic Programmer](https://www.amazon.com/Pragmatic-Programmer-journey-mastery-Anniversary/)
-- [ ] [Head First Design Patterns](https://www.amazon.com/Head-First-Design-Patterns-Object-Oriented/)
 - [ ] [Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/)
 
 # 2 - Sistemas de Computadores
