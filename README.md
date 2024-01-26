@@ -6,6 +6,7 @@ TODO: O Objetivo desse repositório é criar um roadmap para auxiliar os meus es
 (TODO: Criar um plano de estudos com os conteúdos estudados, data e uma check-box para avaliar o progresso, pasta para adicionar códigos e resumo de capítulos de livros que vou ler,
 um blog para colocar coisas sobre programação, como tutoriais, oq eu aprendi etc...) <~ Em Desenvolvimento
 
+### Coisas para me ajudar
 - Mostrar progresso: [Trello](https://trello.com/).
 - Flash-Cards: [Como memorizar conteúdos de ciências da computação](https://startupnextdoor.com/retaining-computer-science-knowledge/) usando o [Anki](https://github.com/badlydrawnrob/anki)
 - [Motivação](https://youtu.be/TRPBY_lxJfE) para não desistir
@@ -13,8 +14,8 @@ um blog para colocar coisas sobre programação, como tutoriais, oq eu aprendi e
 - Excelente [repositório](https://github.com/charlax/professional-programming?tab=MIT-1-ov-file)
 - Aprender sobre [Linha de comando](https://github.com/jlevy/the-art-of-command-line)
 - Plano de estudos para [ciências da computação](https://thevaluable.dev/learning-computer-science-software-developer/)
-<details>
- <summary> Créditos </summary>
+
+ ### Créditos
 - [Coding Interview University](https://github.com/jwasham/coding-interview-university)
 - [C# Developer](https://github.com/MoienTajik/AspNetCore-Developer-Roadmap)
 - [CS Rusty](https://github.com/AbdesamedBendjeddou/Rusty-CS)
@@ -22,7 +23,6 @@ um blog para colocar coisas sobre programação, como tutoriais, oq eu aprendi e
 - [Profissional Programming](https://github.com/charlax/professional-programming)
 - [Golang dev](https://github.com/darius-khll/golang-developer-roadmap)
 - [DevOps Roadmap](https://github.com/milanm/DevOps-Roadmap)
-</details>
 
 ### Lembretes
 Retirado do livro '[Aprendendo a Aprender](https://www.amazon.com.br/Aprendendo-Aprender-Matem%C3%A1tica-Ci%C3%AAncias-Qualquer/dp/8586622451)'
