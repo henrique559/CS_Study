@@ -186,6 +186,9 @@ opt: Lisp
 - [ ] [Geometria Básica](https://www.khanacademy.org/math/basic-geo#basic-geo-subject-challenge)
 - [ ] [Pré Algebra](https://www.khanacademy.org/math/pre-algebra#pre-algebra-subject-challenge)
 
+### Pensamento Matemático
+- [ ] [Mathematical Thinking](https://www.coursera.org/learn/mathematical-thinking)
+
 ### Pré-Calculo:
 - [ ] [Intregated Math I](https://www.khanacademy.org/math/math1#math1-subject-challenge)       
 - [ ] [Intregated Math II](https://www.khanacademy.org/math/math2#math2-subject-challenge)       
