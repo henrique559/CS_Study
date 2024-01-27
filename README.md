@@ -166,6 +166,13 @@ Talvez:
 - [ ] The C Programming Language
 - [ ] Low Level Programming: Igor Zharkov
 
+(opt) Reverse Engeneering:
+- [ ] The Art of x64 Assembly Language
+- [ ] [Reverse Engeneering for Beginners](https://en.zlibrary-br.se/book/3052627/d498e5/reverse-engineering-for-beginners.html)
+- [ ] [Pratical Malware Analysis](https://www.amazon.com/Practical-Malware-Analysis-Hands-Dissecting/dp/1593272901)
+- [ ] The Ghidra book
+- [ ] [Learn C++](learncpp.com)
+
 # 3 - Matématica
 ### Matemática básica:
 - [ ] [Aritmetica](https://www.khanacademy.org/math/arithmetic#arithmetic-subject-challenge)
