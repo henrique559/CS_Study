@@ -118,6 +118,7 @@ Todo
 
 <details>
 <summary> Mais projetos:</summary>
+ 
 - [ ] Name Generator
 - [ ] Higher or Lower / Heads or tails
 - [ ] Temperature Converter
