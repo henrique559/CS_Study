@@ -116,8 +116,9 @@ Todo
 - [Every Programmer Should do](https://austinhenley.com/blog/challengingprojects.html)
 - [Contribuições open source](https://www.firsttimersonly.com/).
 
+# ROADMAP
 
-# 0 - Introdução
+## 0 - Introdução
 ### Programação:
 - [ ] [CS50 - Harvard](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x) - versão em [PT-BR](https://youtube.com/playlist?list=PLk3bkShxC-bAgK50PZ3zWsa-EAoCe-Yd4)
 - [ ] [MIT 6.00001 - Introduction to Computer Science and Programming in Python](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)
@@ -138,7 +139,7 @@ Talvez:
 - [ ] Git & GitHub - ✍️ Estudando
 - [ ] [Português - Fundação Bradesco](https://www.ev.org.br/)
 
-# 1 - Ciências da Computação
+## 1 - Ciências da Computação
 ### Linguagens de Programação:
 - [ ] [Programming Languages Part A](https://www.coursera.org/learn/programming-languages)
 - [ ] [Programming Languages Part B](https://www.coursera.org/learn/programming-languages-part-b)
@@ -163,7 +164,7 @@ Talvez:
 opt: Lisp
 - [ ] [Common Lisp](https://www.cs.cmu.edu/~dst/LispBook/)
 
-# 2 - Sistemas de Computadores
+## 2 - Sistemas de Computadores
 - [ ] [Build a Modern Computer from First Principles Part 1](https://www.coursera.org/learn/build-a-computer)
 - [ ] [Build a Modern Computer from First Principles Part 2](https://www.coursera.org/learn/nand2tetris2)
 
@@ -179,7 +180,7 @@ opt: Lisp
 - [ ] [Pratical Malware Analysis](https://www.amazon.com/Practical-Malware-Analysis-Hands-Dissecting/dp/1593272901)
 - [ ] The Ghidra book
 
-# 3 - Matématica
+## 3 - Matématica
 ### Matemática básica:
 - [ ] [Aritmetica](https://www.khanacademy.org/math/arithmetic#arithmetic-subject-challenge)
 - [ ] [Geometria Básica](https://www.khanacademy.org/math/basic-geo#basic-geo-subject-challenge)
@@ -198,7 +199,7 @@ opt: Lisp
 ### Matématica Discreta:
 - [ ] [Mathematics for Computer Science](https://openlearninglibrary.mit.edu/courses/course-v1:OCW+6.042J+2T2019/about)
        
-# 4 - Algoritmos
+## 4 - Algoritmos
 - [ ] [Berkeley CS 61B](https://www2.eecs.berkeley.edu/Courses/CS61B/)
 
 ### Livros:
@@ -211,7 +212,7 @@ Pensamento computacional:
 - [ ] [C++](learncpp.com)
 
 
-# 5 - Sistemas Operacionais e Redes de Computadores
+## 5 - Sistemas Operacionais e Redes de Computadores
 ### Livros:
 Sistemas operacionais:
 - [ ] [Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/)
@@ -219,25 +220,25 @@ Sistemas operacionais:
 Redes
 - [ ] [Computer Networking: a Top-Down Approach](http://gaia.cs.umass.edu/kurose_ross/online_lectures.htm)
 
-# 6 - Databases
+## 6 - Databases
 - [ ] [CS 186](https://archive.org/details/UCBerkeley_Course_Computer_Science_186)
 
 ### Livros:
 - [ ] [Database Systems Design Implementation](https://www.amazon.com.br/Database-Systems-Design-Implementation-Management/dp/1285196147)
 
-# 7 - Sistemas Distribuidos
+## 7 - Sistemas Distribuidos
 - [ ] [Distributed Systems MIT 6.824](https://pdos.csail.mit.edu/6.824/)
 
 ### Livros:
 - [ ] [Designing Data-Intensive Applications by Martin Kleppmann](https://www.amazon.com.br/Designing-Data-Intensive-Applications-Martin-Kleppmann/dp/1449373321)
 
-# 8 - Compiladores e Interpretadores
+## 8 - Compiladores e Interpretadores
 - [ ] [Compilers](https://www.edx.org/course/compilers)
 
 ### Livros:
 - [ ] [Crafting interpreters](https://craftinginterpreters.com/)
 
-# 9 - Engenharia de Software
+## 9 - Engenharia de Software
 - [ ] [CS 169 - Berkeley](https://www2.eecs.berkeley.edu/Courses/CS169/)
 
 ### Livros:
@@ -245,7 +246,7 @@ Redes
 - [ ] Domain Driven Design
 - [ ] Code Complete
 
-# 9 - Cibersegurança
+## 9 - Cibersegurança
 - [ ] [Cybersecurity Fundamentals](https://www.edx.org/course/cybersecurity-fundamentals)
 - [ ] [Principles of Secure Coding](https://www.coursera.org/learn/secure-coding-principles)
 - [ ] [Identifying Security Vulnerabilities](https://www.coursera.org/learn/identifying-security-vulnerabilities)
@@ -259,7 +260,7 @@ Redes
 - [ ] [Secure Software Development: Implementation](https://www.edx.org/course/secure-software-development-implementation) 
 - [ ] [Secure Software Development: Verification and More Specialized Topics](https://www.edx.org/course/secure-software-development-verification-and-more-specialized-topics)
 
-# 10 - Matématica Avançada
+## 10 - Matématica Avançada
 - [ ] [Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) 
 - [ ] [Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/)
 - [ ] [Introduction to Numerical Methods](https://ocw.mit.edu/courses/mathematics/18-335j-introduction-to-numerical-methods-spring-2019/index.htm)
@@ -267,7 +268,7 @@ Redes
 - [ ] [Set Theory](https://www.youtube.com/playlist?list=PL5KkMZvBpo5AH_5GpxMiryJT6Dkj32H6N) 
 - [ ] [Probability](https://projects.iq.harvard.edu/stat110/home)
 
-# Análise e Desenvolvimento de Sistemas
+## Análise e Desenvolvimento de Sistemas
 
 Roadmap da faculdade que estou fazendo
 - [X] Linguagem C - Luis Damas
@@ -276,7 +277,7 @@ Roadmap da faculdade que estou fazendo
 - [X] aprenda ponteiros
 - [ ] listas e árvores
 
-C# - A player guide:
+### C# - A player guide:
 - [X] aprenda o básico sobre a linguagem 
 - [X] aprenda sobre orientação a objetos e porque ela existe
 - [ ] aprenda dotnet CLI
@@ -284,7 +285,7 @@ C# - A player guide:
 - [ ] comece a estudar SQL paralelamente
 - [ ] leia algum livro sobre algoritmos (entendendo algoritmos)
 
-Depois estude os principais tópicos de Orientação a Objetos:
+### Depois estude os principais tópicos de Orientação a Objetos:
 - [X] o que são classes e objetos e como utilizá-los
 - [X] modificadores de acesso (public, private, protected etc)
 - [X] encapsulamento
@@ -295,7 +296,7 @@ Depois estude os principais tópicos de Orientação a Objetos:
 - [ ] classes abstratas
 - [ ] interfaces
                                        
-Depois pule para tópicos mais avançados:
+### Depois pule para tópicos mais avançados:
 - [ ] protocolo HTTP(S)/métodos de solicitação (GET, POST, PUT, PATCH, DELETE, OPTIONS)
 - [ ] Clean Code
 - [ ] SOLID
@@ -303,7 +304,7 @@ Depois pule para tópicos mais avançados:
 - [ ] aprenda a fazer um CRUD usando REST
 - [ ] Software Architecture with C# - Packt
 
-Mais avançado:
+### Mais avançado:
 - [ ] graphQL
 - [ ] Entity Framework
 - [ ] SQL Server
