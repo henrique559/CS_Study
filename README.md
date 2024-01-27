@@ -7,11 +7,10 @@ TODO: O Objetivo desse repositório é criar um roadmap para auxiliar os meus es
 um blog para colocar coisas sobre programação, como tutoriais, oq eu aprendi, resumos etc...) <~ Em Desenvolvimento
 
 ### Coisas para me ajudar
-- Mostrar progresso: [Trello](https://trello.com/).
 - Flash-Cards: [Como memorizar conteúdos de ciências da computação](https://startupnextdoor.com/retaining-computer-science-knowledge/) usando o [Anki](https://github.com/badlydrawnrob/anki)
 - [Motivação](https://youtu.be/TRPBY_lxJfE) para não desistir
-- Respositorio interessante sobre [engenharia de software](https://github.com/AlexGalhardo/Software-Engineering) e outro sobre [roadmaps](https://github.com/carlcastanas/IT-curriculum-guide)
-- Excelente [repositório](https://github.com/charlax/professional-programming?tab=MIT-1-ov-file)
+- Respositorio sobre [engenharia de software](https://github.com/AlexGalhardo/Software-Engineering) com várias anotações
+- [repositório](https://github.com/charlax/professional-programming?tab=MIT-1-ov-file) com várias coisas interessantes
 - Aprender sobre [Linha de comando](https://github.com/jlevy/the-art-of-command-line)
 - Plano de estudos para [ciências da computação](https://thevaluable.dev/learning-computer-science-software-developer/)
 
