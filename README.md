@@ -264,11 +264,6 @@ Talvez:
 - [ ] [Structure and Interpretation of Computer Programs](https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book.html)
 - [ ] [The Pragmatic Programmer](https://www.amazon.com/Pragmatic-Programmer-journey-mastery-Anniversary/)
 - [ ] [Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/)
-- [ ] [Learn C++](learncpp.com)
-
-
-opt: Lisp
-- [ ] [Common Lisp](https://www.cs.cmu.edu/~dst/LispBook/)
 
 ## 2 - Sistemas de Computadores
 - [ ] [Build a Modern Computer from First Principles Part 1](https://www.coursera.org/learn/build-a-computer)
@@ -280,7 +275,7 @@ opt: Lisp
 - [ ] The C Programming Language
 - [ ] Low Level Programming: Igor Zharkov
 
-(opt) Reverse Engeneering:
+### (opt) Reverse Engeneering:
 - [ ] The Art of x64 Assembly Language
 - [ ] [Reverse Engeneering for Beginners](https://en.zlibrary-br.se/book/3052627/d498e5/reverse-engineering-for-beginners.html)
 - [ ] [Pratical Malware Analysis](https://www.amazon.com/Practical-Malware-Analysis-Hands-Dissecting/dp/1593272901)
