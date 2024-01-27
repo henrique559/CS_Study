@@ -273,6 +273,7 @@ Redes
 - [ ] Entendendo Algoritmos
 - [ ] SQLite: Introdução - Estudando ✍️
 - [ ] dotnet CLI
+- [ ] Software Engeneering with C# - Packt
 - [ ] protocolo HTTP(S)/métodos de solicitação (GET, POST, PUT, PATCH, DELETE, OPTIONS)
 
 ### SOLID:
