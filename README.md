@@ -4,7 +4,7 @@ TODO: O Objetivo desse repositório é criar um roadmap para auxiliar os meus es
 
 # Objetivos
 (TODO: Criar um plano de estudos com os conteúdos estudados, data e uma check-box para avaliar o progresso, pasta para adicionar códigos e resumo de capítulos de livros que vou ler,
-um blog para colocar coisas sobre programação, como tutoriais, oq eu aprendi etc...) <~ Em Desenvolvimento
+um blog para colocar coisas sobre programação, como tutoriais, oq eu aprendi, resumos etc...) <~ Em Desenvolvimento
 
 ### Coisas para me ajudar
 - Mostrar progresso: [Trello](https://trello.com/).
@@ -126,6 +126,7 @@ Todo
 
 Talvez:
 - [ ] [CS50 - Web Development](https://cs50.harvard.edu/web/2020/)
+- [ ] [The Odin Project](https://www.theodinproject.com/)
 
 ### Livros:
 - [ ] Python: Crash Course (+ ATBP Projects)
@@ -152,9 +153,13 @@ Talvez:
 - [ ] [Software Architecture](https://www.coursera.org/learn/software-architecture)
 
 ### Livros:
+- [ ] [Simply Scheme](https://people.eecs.berkeley.edu/~bh/ss-toc2.html)
 - [ ] [Structure and Interpretation of Computer Programs](https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book.html)
 - [ ] [The Pragmatic Programmer](https://www.amazon.com/Pragmatic-Programmer-journey-mastery-Anniversary/)
 - [ ] [Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/)
+
+opt: Lisp
+- [ ] [Common Lisp](https://www.cs.cmu.edu/~dst/LispBook/)
 
 # 2 - Sistemas de Computadores
 - [ ] [Build a Modern Computer from First Principles Part 1](https://www.coursera.org/learn/build-a-computer)
