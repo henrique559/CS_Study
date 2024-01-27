@@ -267,189 +267,57 @@ Redes
 - [ ] [Set Theory](https://www.youtube.com/playlist?list=PL5KkMZvBpo5AH_5GpxMiryJT6Dkj32H6N) 
 - [ ] [Probability](https://projects.iq.harvard.edu/stat110/home)
 
-# Desenvolvedor C#
+# Análise e Desenvolvimento de Sistemas
 
-### Inicio:
-- [ ] C#: A Player's Guide & Object Oriented Programming - Estudando ✍️
-- [ ] Entendendo Algoritmos
-- [ ] SQLite: Introdução - Estudando ✍️
-- [ ] dotnet CLI
-- [ ] Software Engeneering with C# - Packt
+Roadmap da faculdade que estou fazendo
+- [X] Linguagem C - Luis Damas
+- [X] aprenda o básico de programação (tipos primitivos, if/else, for, while etc)
+- [X] aprenda arrays e matrizes
+- [X] aprenda ponteiros
+- [ ] listas e árvores
+
+C# - A player guide:
+- [X] aprenda o básico sobre a linguagem 
+- [X] aprenda sobre orientação a objetos e porque ela existe
+- [ ] aprenda dotnet CLI
+- [ ] aprenda GIT
+- [ ] comece a estudar SQL paralelamente
+- [ ] leia algum livro sobre algoritmos (entendendo algoritmos)
+
+Depois estude os principais tópicos de Orientação a Objetos:
+- [X] o que são classes e objetos e como utilizá-los
+- [X] modificadores de acesso (public, private, protected etc)
+- [X] encapsulamento
+- [X] método construtor
+- [ ] herança
+- [ ] sobrecarga e sobrescrita de métodos
+- [ ] polimorfismo
+- [ ] classes abstratas
+- [ ] interfaces
+                                       
+Depois pule para tópicos mais avançados:
 - [ ] protocolo HTTP(S)/métodos de solicitação (GET, POST, PUT, PATCH, DELETE, OPTIONS)
+- [ ] Clean Code
+- [ ] SOLID
+- [ ] APIs REST
+- [ ] aprenda a fazer um CRUD usando REST
+- [ ] Software Architecture with C# - Packt
 
-### SOLID:
-- [ ] Single Responsibility Principle (SRP)
-- [ ] Open-Closed Principle (OCP)
-- [ ] Liskov Substitution Principle (LSP)
-- [ ] Interface Segregation Principle (ISP)
-- [ ] Dependency Inversion Principle (DIP)
-
-### API:
-- [ ] REST
-- [ ] gRPC
-- [ ] GraphQL
-
-### Banco de dados:
+Mais avançado:
+- [ ] graphQL
 - [ ] Entity Framework
 - [ ] SQL Server
 - [ ] NHibernate
 - [ ] Dapper 
-
-### Framework:
 - [ ] ASP.NET
 - [ ] Blazor
-
-### Avançado:
-- [ ] DevOps (CI/CD)
+- [ ] CI/CD
 - [ ] Docker/Kubernets
 - [ ] AWS
 - [ ] Domain Driven Design
-- [ ] Clean Code
 - [ ] Testes de Unidade
-- [ ] Arquitetura de Software
-- [ ] Logging/Caching etc..
+- [ ] Logging/Caching etc...
 
-[Consultar em detalhes aqui](https://marcialwushu.github.io/dotnet-core-developer-roadmap/)
-
-# Desenvolvedor Go
-
-1. Prerequisitos
-
-   - [Go](https://golangbot.com/)
-   - [Go Modules](https://blog.golang.org/using-go-modules)
-   - [SQL](https://www.w3schools.com/sql/default.asp)
-
-2. Habilidades de Desenvolvimento Gerais
-
-   - Aprenda GIT, crie alguns repositórios no GitHub, compartilhe seu código com outras pessoas
-   - Conheça o protocolo HTTP(S), métodos de requisição (GET, POST, PUT, PATCH, DELETE, OPTIONS)
-   - Não fique com receio de usar o Google, [Pesquisa avançada com o Google](http://www.powersearchingwithgoogle.com/)
-   - Leia alguns livros sobre algoritmos e estruturas de dados
-   - Aprenda sobre a fazer uma Autenticação básica
-   - Princípios SOLID, padrões arquiteturais e de projeto, etc
-   - Noções básicas de teste de software (unitários, integração e de ponta a ponta)
-
-3. Ferramentas de Linha de Comando
-   1. [cobra](https://github.com/spf13/cobra)
-   2. [urfave/cli](https://github.com/urfave/cli)
-
-4. Frameworks Web + Routers
-
-   1. [Beego](https://github.com/astaxie/beego)
-   2. [Chi](https://github.com/go-chi/chi)
-   3. [Echo](https://github.com/labstack/echo)
-   4. [Fiber](https://github.com/gofiber/fiber)
-   5. [Gin](https://github.com/gin-gonic/gin)
-   6. [Revel](https://github.com/revel/revel)
-
-5. Bancos de Dados
-
-   1. Relacionais
-      1. [SQL Server](https://www.microsoft.com/en-us/sql-server/sql-server-2017)
-      2. [PostgreSQL](https://www.postgresql.org/)
-      3. [MariaDB](https://mariadb.org/)
-      4. [MySQL](https://www.mysql.com/)
-      5. [CockroachDB](https://www.cockroachlabs.com/) 
-   2. Bancos de Dados na Nuvem
-      - [CosmosDB](https://docs.microsoft.com/en-us/azure/cosmos-db)
-      - [DynamoDB](https://aws.amazon.com/dynamodb/)
-   3. Mecanismos de Busca
-      - [ElasticSearch](https://www.elastic.co/)
-      - [Solr](http://lucene.apache.org/solr/)
-      - [Sphinx](http://sphinxsearch.com/)
-   4. NoSQL
-      - [MongoDB](https://www.mongodb.com/)
-      - [Redis](https://redis.io/)
-      - [Apache Cassandra](http://cassandra.apache.org/)
-      - [RavenDB](https://github.com/ravendb/ravendb)
-      - [CouchDB](http://couchdb.apache.org/)
-
-6. Mapeamento Objeto Relacional (ORM)
-
-   1. [Gorm](https://github.com/go-gorm/gorm)
-   2. [Xorm](https://github.com/go-xorm/xorm)
-
-7. Cacheamento
-
-   1. [GCache](https://github.com/bluele/gcache)
-   2. Cache Distribuído
-      1. [Go-Redis](https://github.com/go-redis/redis)
-      2. [GoMemcached](https://github.com/bradfitz/gomemcache)
-
-8. Gerenciamento de Logs
-
-   1. Frameworks de Log
-      - [Zap](https://github.com/uber-go/zap)
-      - [ZeroLog](https://github.com/rs/zerolog)
-      - [Logrus](https://github.com/sirupsen/logrus)
-   2. Sistema de Gerenciamento de Log
-      - [Sentry.io](http://sentry.io)
-      - [Loggly.com](https://loggly.com)
-   3. Rastreamento Distribuído
-      - [Jaeger](https://www.jaegertracing.io/)
-
-9. Comunicação em Tempo Real
-   1. [Socket.IO](https://socket.io/)
-
-10. Clientes de API
-
-    1. REST
-       - [Gentleman](https://github.com/h2non/gentleman)
-       - [GRequests](https://github.com/kennethreitz/grequests)
-       - [heimdall](https://github.com/heimdal/heimdal)
-    2. [GraphQL](https://graphql.org/)
-       - [gqlgen](https://github.com/99designs/gqlgen)
-       - [graphql-go](https://github.com/graph-gophers/graphql-go)
-
-11. Interessante saber
-
-    - [Validator](https://github.com/go-playground/validator)
-    - [Glow](https://github.com/pytorch/glow)
-    - [GJson](https://github.com/tidwall/gjson)
-    - [Authboss](https://github.com/volatiletech/authboss)
-    - [Go-Underscore](https://github.com/ahl5esoft/golang-underscore)
-
-12. Testes
-
-    1. Testes Unitários, de Comportamento, Integração
-       1. [GoMock](https://github.com/golang/mock)
-       2. [Testify](https://github.com/stretchr/testify)
-       3. [GinkGo](https://github.com/onsi/ginkgo)
-       4. [GoMega](https://github.com/onsi/gomega)
-       5. [GoCheck](https://github.com/go-check/check)
-       6. [GoDog](https://github.com/DATA-DOG/godog)
-       7. [GoConvey](https://github.com/smartystreets/goconvey)
-    2. Testes de ponta a ponta
-       - [Selenium](https://github.com/tebeka/selenium)
-       - [Endly](https://github.com/viant/endly)
-
-13. Agendamento de Tarefas
-
-    - [Gron](https://github.com/roylee0704/gron)
-    - [JobRunner](https://github.com/bamzi/jobrunner)
-
-14. Micro Serviços
-
-    1. Intermediador de Mensagens
-       - [RabbitMQ](https://www.rabbitmq.com/tutorials/tutorial-one-go.html)
-       - [Apache Kafka](https://kafka.apache.org/)
-       - [ActiveMQ](https://github.com/apache/activemq)
-       - [Azure Service Bus](https://docs.microsoft.com/en-us/azure/service-bus-messaging/service-bus-messaging-overview)
-    2. Construindo voltado a eventos
-       - [Watermill](https://github.com/ThreeDotsLabs/watermill)
-       - [Message-Bus](https://github.com/vardius/message-bus)
-    3. Frameworks
-         - [GoKit](https://github.com/go-kit/kit)
-         - [go-zero](https://github.com/tal-tech/go-zero)
-         - [Micro](https://github.com/micro/go-micro)
-         - [rpcx](https://github.com/smallnest/rpcx)
-    4. RPC
-         - [Protocol Buffers](https://github.com/protocolbuffers/protobuf)
-         - [gRPC-Go](https://github.com/grpc/grpc-go)
-         - [gRPC-Gateway](https://github.com/grpc-ecosystem/grpc-gateway)
-         - [Twirp](https://github.com/twitchtv/twirp)
-
-15. [Padrões Go](https://github.com/tmrts/go-patterns)
 
 
 # Desenvolvedor Rust
