@@ -129,6 +129,7 @@ Talvez:
 
 ### Livros:
 - [ ] Python: Crash Course (+ ATBP Projects)
+- [ ] Analise de tráfego em redes TCP/IP
 - [ ] Entendendo Algoritmos
 - [X] Aprendendo a Aprender - Finalizado
 
