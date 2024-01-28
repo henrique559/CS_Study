@@ -225,7 +225,7 @@ last.FM Scrobbler
 # ROADMAP
 ## Estudando agora:
 
-- C#: Player Guide
+- C#: A Player Guide
 - Introduction to SQL
 - CS50x
 - Basic Math
