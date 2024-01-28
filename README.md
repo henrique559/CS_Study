@@ -223,6 +223,13 @@ last.FM Scrobbler
 </details>
 
 # ROADMAP
+## Estudando agora:
+
+- C#: Player Guide
+- Introduction to SQL
+- CS50x
+- Basic Math
+
 
 ## 0 - Introdução
 ### Programação:
