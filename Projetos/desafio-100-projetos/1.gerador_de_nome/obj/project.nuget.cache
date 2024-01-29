@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0J6q82WNWMkgztpQybLHYXQejbwR3tdIxbTkrZdhQCVcFDIZnaigwhjOXpB3xSu6XM5lJa8r6JLUaacmBlPxWg==",
+  "success": true,
+  "projectFilePath": "/home/iwakura/Documents/CS_Study/Projetos/desafio-100-projetos/1.gerador_de_nome/1.gerador_de_nome.csproj",
+  "expectedPackageFiles": [
+    "/home/iwakura/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.0/microsoft.aspnetcore.app.ref.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

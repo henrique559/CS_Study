@@ -1,0 +1,67 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/iwakura/Documents/CS_Study/Projetos/desafio-100-projetos/1.gerador_de_nome/1.gerador_de_nome.csproj": {}
+  },
+  "projects": {
+    "/home/iwakura/Documents/CS_Study/Projetos/desafio-100-projetos/1.gerador_de_nome/1.gerador_de_nome.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/iwakura/Documents/CS_Study/Projetos/desafio-100-projetos/1.gerador_de_nome/1.gerador_de_nome.csproj",
+        "projectName": "1.gerador_de_nome",
+        "projectPath": "/home/iwakura/Documents/CS_Study/Projetos/desafio-100-projetos/1.gerador_de_nome/1.gerador_de_nome.csproj",
+        "packagesPath": "/home/iwakura/.nuget/packages/",
+        "outputPath": "/home/iwakura/Documents/CS_Study/Projetos/desafio-100-projetos/1.gerador_de_nome/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/iwakura/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[8.0.0, 8.0.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

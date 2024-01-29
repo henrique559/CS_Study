@@ -1,0 +1,15 @@
+/home/iwakura/Documents/CS_Study/Projetos/desafio-100-projetos/1.gerador_de_nome/obj/Debug/net8.0/1.gerador_de_nome.GeneratedMSBuildEditorConfig.editorconfig
+/home/iwakura/Documents/CS_Study/Projetos/desafio-100-projetos/1.gerador_de_nome/obj/Debug/net8.0/1.gerador_de_nome.AssemblyInfoInputs.cache
+/home/iwakura/Documents/CS_Study/Projetos/desafio-100-projetos/1.gerador_de_nome/obj/Debug/net8.0/1.gerador_de_nome.AssemblyInfo.cs
+/home/iwakura/Documents/CS_Study/Projetos/desafio-100-projetos/1.gerador_de_nome/obj/Debug/net8.0/1.gerador_de_nome.csproj.CoreCompileInputs.cache
+/home/iwakura/Documents/CS_Study/Projetos/desafio-100-projetos/1.gerador_de_nome/obj/Debug/net8.0/1.gerador_de_nome.sourcelink.json
+/home/iwakura/Documents/CS_Study/Projetos/desafio-100-projetos/1.gerador_de_nome/bin/Debug/net8.0/1.gerador_de_nome
+/home/iwakura/Documents/CS_Study/Projetos/desafio-100-projetos/1.gerador_de_nome/bin/Debug/net8.0/1.gerador_de_nome.deps.json
+/home/iwakura/Documents/CS_Study/Projetos/desafio-100-projetos/1.gerador_de_nome/bin/Debug/net8.0/1.gerador_de_nome.runtimeconfig.json
+/home/iwakura/Documents/CS_Study/Projetos/desafio-100-projetos/1.gerador_de_nome/bin/Debug/net8.0/1.gerador_de_nome.dll
+/home/iwakura/Documents/CS_Study/Projetos/desafio-100-projetos/1.gerador_de_nome/bin/Debug/net8.0/1.gerador_de_nome.pdb
+/home/iwakura/Documents/CS_Study/Projetos/desafio-100-projetos/1.gerador_de_nome/obj/Debug/net8.0/1.gerador_de_nome.dll
+/home/iwakura/Documents/CS_Study/Projetos/desafio-100-projetos/1.gerador_de_nome/obj/Debug/net8.0/refint/1.gerador_de_nome.dll
+/home/iwakura/Documents/CS_Study/Projetos/desafio-100-projetos/1.gerador_de_nome/obj/Debug/net8.0/1.gerador_de_nome.pdb
+/home/iwakura/Documents/CS_Study/Projetos/desafio-100-projetos/1.gerador_de_nome/obj/Debug/net8.0/1.gerador_de_nome.genruntimeconfig.cache
+/home/iwakura/Documents/CS_Study/Projetos/desafio-100-projetos/1.gerador_de_nome/obj/Debug/net8.0/ref/1.gerador_de_nome.dll
