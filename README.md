@@ -111,6 +111,7 @@ Todo
 ### Lista de projetos:
 - Ideias de [Projetos 1](https://github.com/karan/Projects)
 - Ideias de [Projetos 2](https://github.com/the-programmers-hangout/programming-resources/blob/master/ideas.md)
+- Ideias de [Projetos 3](https://github.com/florinpop17/app-ideas)
 - [Pratical Based Learning](https://github.com/practical-tutorials/project-based-learning?tab=readme-ov-file#cc)
 - [Every Programmer Should do](https://austinhenley.com/blog/challengingprojects.html)
 - [Contribuições open source](https://www.firsttimersonly.com/).
