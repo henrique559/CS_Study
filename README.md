@@ -245,8 +245,10 @@ Talvez:
 
 ### Livros:
 - [ ] Python: Crash Course (+ ATBP Projects)
-- [ ] Analise de tráfego em redes TCP/IP
-- [ ] Entendendo Algoritmos
+- [ ] C#: A Player's Guide
+- [ ] Software Architecture with C# 12 and .NET 
+- [ ] C# 12 and .NET 8 – Modern Cross-Platform Development Fundamentals
+- [ ] Entendo Algoritmos
 - [X] Aprendendo a Aprender - Finalizado
 
 ### Outros:
