@@ -6,13 +6,7 @@ TODO: O Objetivo desse repositório é criar um roadmap para auxiliar os meus es
 (TODO: Criar um plano de estudos com os conteúdos estudados, data e uma check-box para avaliar o progresso, pasta para adicionar códigos e resumo de capítulos de livros que vou ler,
 um blog para colocar coisas sobre programação, como tutoriais, oq eu aprendi, resumos etc...) <~ Em Desenvolvimento
 
-### Coisas para me ajudar
-- Flash-Cards: [Como memorizar conteúdos de ciências da computação](https://startupnextdoor.com/retaining-computer-science-knowledge/) usando o [Anki](https://github.com/badlydrawnrob/anki)
-- [Motivação](https://youtu.be/TRPBY_lxJfE) para não desistir
-- Respositorio sobre [engenharia de software](https://github.com/AlexGalhardo/Software-Engineering) com várias anotações
-- [repositório](https://github.com/charlax/professional-programming?tab=MIT-1-ov-file) com várias coisas interessantes
-- Aprender sobre [Linha de comando](https://github.com/jlevy/the-art-of-command-line)
-- Plano de estudos para [ciências da computação](https://thevaluable.dev/learning-computer-science-software-developer/)
+
 
  ### Créditos
 - [Coding Interview University](https://github.com/jwasham/coding-interview-university)
@@ -20,7 +14,6 @@ um blog para colocar coisas sobre programação, como tutoriais, oq eu aprendi, 
 - [CS Rusty](https://github.com/AbdesamedBendjeddou/Rusty-CS)
 - [OSSU](https://github.com/ossu/computer-science)
 - [Profissional Programming](https://github.com/charlax/professional-programming)
-- [Golang dev](https://github.com/darius-khll/golang-developer-roadmap)
 - [DevOps Roadmap](https://github.com/milanm/DevOps-Roadmap)
 
 ### Lembretes
@@ -97,8 +90,16 @@ Mas “grupos de estudo” que são mais de fofoca do que de estudo não servem 
 # Blog
 Todo
 - [Programming Blog](https://www.afternerd.com/blog/start-programming-blog/)
+
+### Coisas para me ajudar
+- Flash-Cards: [Como memorizar conteúdos de ciências da computação](https://startupnextdoor.com/retaining-computer-science-knowledge/) usando o [Anki](https://github.com/badlydrawnrob/anki)
+- [Motivação](https://youtu.be/TRPBY_lxJfE) para não desistir
+- Respositorio sobre [engenharia de software](https://github.com/AlexGalhardo/Software-Engineering) com várias anotações
+- [repositório](https://github.com/charlax/professional-programming?tab=MIT-1-ov-file) com várias coisas interessantes
+- Plano de estudos para [ciências da computação](https://thevaluable.dev/learning-computer-science-software-developer/)
 - [Learn in public](https://www.swyx.io/learn-in-public)
 - [How to learn how to learn code](https://medium.com/weekly-webtips/learning-how-to-learn-how-to-program-d3f8b9d37222)
+
 
 # Prática e Projetos
 Todo
@@ -119,13 +120,14 @@ Todo
 <details>
 <summary> Mais projetos:</summary>
  
-- [ ] Name Generator
-- [ ] Higher or Lower / Heads or tails
+- [X] Name Generator
+- [X] Higher or Lower / Heads or tails
 - [ ] Temperature Converter
 - [ ] Calculate your Age in Seconds
 - [ ] Simple Encryption / Decryption
 - [ ] FizzBuzz
-- [ ] Rock Paper Scissors and/or Rock - [ ] Paper Scissors Lizard Spock
+- [ ] Rock Paper Scissors and/or Rock
+- [ ] Paper Scissors Lizard Spock
 - [ ] Hangman
 - [ ] Love Calculator
 - [ ] Pseudorandom Quote Generator
@@ -147,7 +149,7 @@ Todo
 - [ ] Picross Solver
 - [ ] Eulerian Path
 - [ ] Fibonnaci Sequence Algorithm
-Calculate and Print the Factorial of 100
+- [ ] Calculate and Print the Factorial of 100
 - [ ] Encryption Collection. Implement all of the tools in the Rumkin Collection: http://rumkin.com/tools/cipher/
 - [ ] Blackjack
 - [ ] Text Adventure Game
