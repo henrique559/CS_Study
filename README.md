@@ -224,24 +224,24 @@ last.FM Scrobbler
 # ROADMAP
 ## 0 - Programação
 
-| Curso | Status | Livro | Duração |  
+| Curso | Linguagem | Livro | Repositorio |  
 | ------------- | ------------- | ------------- | ------------- | 
-| [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn) | Finalizado | Learning How to Learn | 2 Semanas |
-| [CS50 - Harvard](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x)| [Estudando](https://github.com/henrique559/CS50x-2024) | Python: Crash Course | 12 Semanas |
-| [MIT 6.00001 - Introduction to Computer Science and Programming in Python](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/) | - | Entendo Algoritmos | - |
-| [MIT 6.00002 - Introduction to Computational Thinking and Data Science](https://ocw.mit.edu/courses/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/) | - | - |
-| [MIT - The Missing Semester](https://missing.csail.mit.edu/) | - | - | - |
+| [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn) | - | Learning How to Learn | Finalizado |
+| [CS50 - Harvard](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x)| C, Python, SQL | Python: Crash Course | [Estudando](https://github.com/henrique559/CS50x-2024) |
+| [MIT 6.00001 - Introduction to Computer Science and Programming in Python](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/) | Python | Entendo Algoritmos | - |
+| [MIT 6.00002 - Introduction to Computational Thinking and Data Science](https://ocw.mit.edu/courses/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/) | Python | - |
+| [MIT - The Missing Semester](https://missing.csail.mit.edu/) | Shell | - | - |
 | [Português - Fundação Bradesco](https://www.ev.org.br/) | - | - | - |
 
 
 ## 1 - Ciências da Computação
 
-| Curso | Status | Livro | Duração |  
+| Curso | Linguagem | Livro | Repositorio |  
 | ------------- | ------------- | ------------- | ------------- | 
 | [Programming Languages Part A](https://www.coursera.org/learn/programming-languages) | - | - | - | 
 | [Programming Languages Part B](https://www.coursera.org/learn/programming-languages-part-b) | - | - | - | 
 | [Programming Languages Part C](https://www.coursera.org/learn/programming-languages-part-c) | - | [Simply Scheme](https://people.eecs.berkeley.edu/~bh/ss-toc2.html) | - |
-| [Structure and Interpretation of Computer Programs - Brian Harvey’s](https://archive.org/details/ucberkeley-webcast-PL3E89002AA9B9879E?sort=titleSorter) | - | [SICP](https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book.html) | - |
+| [Structure and Interpretation of Computer Programs - Brian Harvey’s](https://archive.org/details/ucberkeley-webcast-PL3E89002AA9B9879E?sort=titleSorter) | Scheme | [SICP](https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book.html) | - |
 | [Object-Oriented Design](https://www.coursera.org/learn/object-oriented-design) | - | [The Pragmatic Programmer](https://www.amazon.com/Pragmatic-Programmer-journey-mastery-Anniversary/) | - |
 | [Design Patterns](https://www.coursera.org/learn/design-patterns) | - | [Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/) | - |
 | [Software Architecture](https://www.coursera.org/learn/software-architecture) | - | - | - |
