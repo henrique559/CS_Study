@@ -93,10 +93,6 @@ Todo
 
 ### Coisas para me ajudar
 - Flash-Cards: [Como memorizar conteúdos de ciências da computação](https://startupnextdoor.com/retaining-computer-science-knowledge/) usando o [Anki](https://github.com/badlydrawnrob/anki)
-- [Motivação](https://youtu.be/TRPBY_lxJfE) para não desistir
-- Respositorio sobre [engenharia de software](https://github.com/AlexGalhardo/Software-Engineering) com várias anotações
-- [repositório](https://github.com/charlax/professional-programming?tab=MIT-1-ov-file) com várias coisas interessantes
-- Plano de estudos para [ciências da computação](https://thevaluable.dev/learning-computer-science-software-developer/)
 - [Learn in public](https://www.swyx.io/learn-in-public)
 - [How to learn how to learn code](https://medium.com/weekly-webtips/learning-how-to-learn-how-to-program-d3f8b9d37222)
 
@@ -114,7 +110,6 @@ Todo
 - Ideias de [Projetos 2](https://github.com/the-programmers-hangout/programming-resources/blob/master/ideas.md)
 - Ideias de [Projetos 3](https://github.com/florinpop17/app-ideas)
 - [Pratical Based Learning](https://github.com/practical-tutorials/project-based-learning?tab=readme-ov-file#cc)
-- [Every Programmer Should do](https://austinhenley.com/blog/challengingprojects.html)
 - [Contribuições open source](https://www.firsttimersonly.com/).
 
 <details>
@@ -228,10 +223,10 @@ last.FM Scrobbler
 # ROADMAP
 ## 0 - Programação
 
-| Curso | Meu repositório | Livro | Status |  
+| Curso | Meu repositório | Livro | Duração |  
 | ------------- | ------------- | ------------- | ------------- | 
-| [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn) | - | Learning How to Learn | Finalizado |
-| [CS50 - Harvard](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x)| [Link](https://github.com/henrique559/CS50x-2024) | Python: Crash Course | Estudando |
+| [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn) | - | Learning How to Learn |  |
+| [CS50 - Harvard](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x)| [Estudando](https://github.com/henrique559/CS50x-2024) | Python: Crash Course | 12 Semanas |
 | [MIT 6.00001 - Introduction to Computer Science and Programming in Python](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/) | - | Entendo Algoritmos | - |
 | [MIT 6.00002 - Introduction to Computational Thinking and Data Science](https://ocw.mit.edu/courses/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/) | - | - |
 | [MIT - The Missing Semester](https://missing.csail.mit.edu/) | - | - | - |
@@ -239,24 +234,17 @@ last.FM Scrobbler
 
 
 ## 1 - Ciências da Computação
-### Linguagens de Programação:
-- [ ] [Programming Languages Part A](https://www.coursera.org/learn/programming-languages)
-- [ ] [Programming Languages Part B](https://www.coursera.org/learn/programming-languages-part-b)
-- [ ] [Programming Languages Part C](https://www.coursera.org/learn/programming-languages-part-c)
 
-### Conceitos:
-- [ ] [Structure and Interpretation of Computer Programs - Brian Harvey’s](https://archive.org/details/ucberkeley-webcast-PL3E89002AA9B9879E?sort=titleSorter) ou [CS61A - Berkeley](https://cs61a.org/)
+| Curso | Meu repositório | Livro | Status |  
+| ------------- | ------------- | ------------- | ------------- | 
+| [Programming Languages Part A](https://www.coursera.org/learn/programming-languages) | - | - | - | 
+| [Programming Languages Part B](https://www.coursera.org/learn/programming-languages-part-b) | - | - | - | 
+| [Programming Languages Part C](https://www.coursera.org/learn/programming-languages-part-c) | - | [Simply Scheme](https://people.eecs.berkeley.edu/~bh/ss-toc2.html) | - |
+| [Structure and Interpretation of Computer Programs - Brian Harvey’s](https://archive.org/details/ucberkeley-webcast-PL3E89002AA9B9879E?sort=titleSorter) | - | [Structure and Interpretation of Computer Programs](https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book.html) | - |
+| [Object-Oriented Design](https://www.coursera.org/learn/object-oriented-design) | - | [The Pragmatic Programmer](https://www.amazon.com/Pragmatic-Programmer-journey-mastery-Anniversary/) | - |
+| [Design Patterns](https://www.coursera.org/learn/design-patterns) | - | [Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/) | - |
+| [Software Architecture](https://www.coursera.org/learn/software-architecture) | - | - | - |
 
-### Principios:
-- [ ] [Object-Oriented Design](https://www.coursera.org/learn/object-oriented-design)
-- [ ] [Design Patterns](https://www.coursera.org/learn/design-patterns)
-- [ ] [Software Architecture](https://www.coursera.org/learn/software-architecture)
-
-### Livros:
-- [ ] [Simply Scheme](https://people.eecs.berkeley.edu/~bh/ss-toc2.html)
-- [ ] [Structure and Interpretation of Computer Programs](https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book.html)
-- [ ] [The Pragmatic Programmer](https://www.amazon.com/Pragmatic-Programmer-journey-mastery-Anniversary/)
-- [ ] [Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/)
 
 ## 2 - Sistemas de Computadores
 - [ ] [Build a Modern Computer from First Principles Part 1](https://www.coursera.org/learn/build-a-computer)
