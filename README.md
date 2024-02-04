@@ -223,9 +223,9 @@ last.FM Scrobbler
 # ROADMAP
 ## 0 - Programação
 
-| Curso | Meu repositório | Livro | Duração |  
+| Curso | Status | Livro | Duração |  
 | ------------- | ------------- | ------------- | ------------- | 
-| [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn) | - | Learning How to Learn |  |
+| [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn) | Finalizado | Learning How to Learn | 2 Semanas |
 | [CS50 - Harvard](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x)| [Estudando](https://github.com/henrique559/CS50x-2024) | Python: Crash Course | 12 Semanas |
 | [MIT 6.00001 - Introduction to Computer Science and Programming in Python](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/) | - | Entendo Algoritmos | - |
 | [MIT 6.00002 - Introduction to Computational Thinking and Data Science](https://ocw.mit.edu/courses/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/) | - | - |
@@ -235,7 +235,7 @@ last.FM Scrobbler
 
 ## 1 - Ciências da Computação
 
-| Curso | Meu repositório | Livro | Status |  
+| Curso | Meu repositório | Livro | Duração |  
 | ------------- | ------------- | ------------- | ------------- | 
 | [Programming Languages Part A](https://www.coursera.org/learn/programming-languages) | - | - | - | 
 | [Programming Languages Part B](https://www.coursera.org/learn/programming-languages-part-b) | - | - | - | 
