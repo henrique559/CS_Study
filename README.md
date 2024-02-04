@@ -240,7 +240,7 @@ last.FM Scrobbler
 | [Programming Languages Part A](https://www.coursera.org/learn/programming-languages) | - | - | - | 
 | [Programming Languages Part B](https://www.coursera.org/learn/programming-languages-part-b) | - | - | - | 
 | [Programming Languages Part C](https://www.coursera.org/learn/programming-languages-part-c) | - | [Simply Scheme](https://people.eecs.berkeley.edu/~bh/ss-toc2.html) | - |
-| [Structure and Interpretation of Computer Programs - Brian Harvey’s](https://archive.org/details/ucberkeley-webcast-PL3E89002AA9B9879E?sort=titleSorter) | - | [Structure and Interpretation of Computer Programs](https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book.html) | - |
+| [Structure and Interpretation of Computer Programs - Brian Harvey’s](https://archive.org/details/ucberkeley-webcast-PL3E89002AA9B9879E?sort=titleSorter) | - | [SICP](https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book.html) | - |
 | [Object-Oriented Design](https://www.coursera.org/learn/object-oriented-design) | - | [The Pragmatic Programmer](https://www.amazon.com/Pragmatic-Programmer-journey-mastery-Anniversary/) | - |
 | [Design Patterns](https://www.coursera.org/learn/design-patterns) | - | [Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/) | - |
 | [Software Architecture](https://www.coursera.org/learn/software-architecture) | - | - | - |
