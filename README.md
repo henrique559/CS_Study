@@ -247,20 +247,12 @@ last.FM Scrobbler
 
 
 ## 2 - Sistemas de Computadores
-- [ ] [Build a Modern Computer from First Principles Part 1](https://www.coursera.org/learn/build-a-computer)
-- [ ] [Build a Modern Computer from First Principles Part 2](https://www.coursera.org/learn/nand2tetris2)
 
-### Livros:
-- [ ] [Computer Systems: A Programmer's Perspective](https://www.amazon.com/Computer-Systems-Programmers-Perspective-3rd/dp/013409266X)
-- [ ] [Code: The Hidden Language of Computer Hardware and Software](http://charlespetzold.com/code/)
-- [ ] The C Programming Language
-- [ ] Low Level Programming: Igor Zharkov
-
-### (opt) Reverse Engeneering:
-- [ ] The Art of x64 Assembly Language
-- [ ] [Reverse Engeneering for Beginners](https://en.zlibrary-br.se/book/3052627/d498e5/reverse-engineering-for-beginners.html)
-- [ ] [Pratical Malware Analysis](https://www.amazon.com/Practical-Malware-Analysis-Hands-Dissecting/dp/1593272901)
-- [ ] The Ghidra book
+| Curso | Status | Livro | Duração |  
+| ------------- | ------------- | ------------- | ------------- | 
+| [Build a Modern Computer from First Principles Part 1](https://www.coursera.org/learn/build-a-computer) | - | The C Programming Language | - |
+| [Build a Modern Computer from First Principles Part 2](https://www.coursera.org/learn/nand2tetris2) | - |Code: The Hidden Language of Computer Hardware and Software | |
+| Computer Systems: A Programmer's Perspective | - | [Computer Systems](https://www.amazon.com/Computer-Systems-Programmers-Perspective-3rd/dp/013409266X) | - |
 
 ## 3 - Matématica
 ### Matemática básica:
@@ -344,6 +336,13 @@ Redes
 - [ ] [Secure Software Development: Requirements, Design, and Reuse](https://www.edx.org/course/secure-software-development-requirements-design-and-reuse) 
 - [ ] [Secure Software Development: Implementation](https://www.edx.org/course/secure-software-development-implementation) 
 - [ ] [Secure Software Development: Verification and More Specialized Topics](https://www.edx.org/course/secure-software-development-verification-and-more-specialized-topics)
+
+### (opt) Reverse Engeneering:
+- [ ] The Art of x64 Assembly Language
+- [ ] [Reverse Engeneering for Beginners](https://en.zlibrary-br.se/book/3052627/d498e5/reverse-engineering-for-beginners.html)
+- [ ] [Pratical Malware Analysis](https://www.amazon.com/Practical-Malware-Analysis-Hands-Dissecting/dp/1593272901)
+- [ ] The Ghidra book
+
 
 ## 10 - Matématica Avançada
 - [ ] [Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) 
