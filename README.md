@@ -16,6 +16,18 @@ um blog para colocar coisas sobre programação, como tutoriais, oq eu aprendi, 
 - [Profissional Programming](https://github.com/charlax/professional-programming)
 - [DevOps Roadmap](https://github.com/milanm/DevOps-Roadmap)
 
+
+
+
+# Blog
+Todo
+- [Programming Blog](https://www.afternerd.com/blog/start-programming-blog/)
+
+### Coisas para me ajudar
+- Flash-Cards: [Como memorizar conteúdos de ciências da computação](https://startupnextdoor.com/retaining-computer-science-knowledge/) usando o [Anki](https://github.com/badlydrawnrob/anki)
+- [Learn in public](https://www.swyx.io/learn-in-public)
+- [How to learn how to learn code](https://medium.com/weekly-webtips/learning-how-to-learn-how-to-program-d3f8b9d37222)
+
 ### Lembretes
 Retirado do livro '[Aprendendo a Aprender](https://www.amazon.com.br/Aprendendo-Aprender-Matem%C3%A1tica-Ci%C3%AAncias-Qualquer/dp/8586622451)'
 <details>
@@ -85,17 +97,6 @@ desligado e fora do seu alcance.
 - 10 - Conversar com amigos em vez de estudar. Bons grupos de estudo podem ser uma ótima maneira de aprender.
 Mas “grupos de estudo” que são mais de fofoca do que de estudo não servem muito. 
 </details>
-
-
-# Blog
-Todo
-- [Programming Blog](https://www.afternerd.com/blog/start-programming-blog/)
-
-### Coisas para me ajudar
-- Flash-Cards: [Como memorizar conteúdos de ciências da computação](https://startupnextdoor.com/retaining-computer-science-knowledge/) usando o [Anki](https://github.com/badlydrawnrob/anki)
-- [Learn in public](https://www.swyx.io/learn-in-public)
-- [How to learn how to learn code](https://medium.com/weekly-webtips/learning-how-to-learn-how-to-program-d3f8b9d37222)
-
 
 # Prática e Projetos
 Todo
@@ -286,7 +287,6 @@ Pensamento computacional:
 - [ ] [A Arte de Resolver Problemas](https://www.amazon.com.br/Arte-Resolver-Problemas-G-Polya/dp/8571931364)
 - [ ] [Think Fast and Slow](https://www.amazon.com.br/R%C3%A1pido-devagar-Daniel-Kahneman/dp/853900383X/ref=asc_df_853900383X/?tag=googleshopp06-20&linkCode=df0&hvadid=379692259369&hvpos=&hvnetw=g&hvrand=1965364216893611835&hvpone=&hvptwo=&hvqmt=&hvdev=m&hvdvcmdl=&hvlocint=&hvlocphy=1031549&hvtargid=pla-333509391313&psc=1&mcid=5b9ad9b20df0385188c1e83c2219bf88)
 - [ ] [Algorithms to Live By](https://www.amazon.com/Algorithms-Live-Computer-Science-Decisions/dp/1627790365)
-- [ ] [C++](learncpp.com)
 
 
 ## 5 - Sistemas Operacionais e Redes de Computadores
