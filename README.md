@@ -9,12 +9,9 @@ um blog para colocar coisas sobre programação, como tutoriais, oq eu aprendi, 
 
 
  ### Créditos
-- [Coding Interview University](https://github.com/jwasham/coding-interview-university)
-- [C# Developer](https://github.com/MoienTajik/AspNetCore-Developer-Roadmap)
 - [CS Rusty](https://github.com/AbdesamedBendjeddou/Rusty-CS)
 - [OSSU](https://github.com/ossu/computer-science)
 - [Profissional Programming](https://github.com/charlax/professional-programming)
-- [DevOps Roadmap](https://github.com/milanm/DevOps-Roadmap)
 
 
 
