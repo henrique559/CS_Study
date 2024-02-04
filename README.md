@@ -235,7 +235,7 @@ last.FM Scrobbler
 
 ## 1 - Ciências da Computação
 
-| Curso | Meu repositório | Livro | Duração |  
+| Curso | Status | Livro | Duração |  
 | ------------- | ------------- | ------------- | ------------- | 
 | [Programming Languages Part A](https://www.coursera.org/learn/programming-languages) | - | - | - | 
 | [Programming Languages Part B](https://www.coursera.org/learn/programming-languages-part-b) | - | - | - | 
