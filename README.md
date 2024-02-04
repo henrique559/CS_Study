@@ -226,41 +226,17 @@ last.FM Scrobbler
 </details>
 
 # ROADMAP
-## Estudando agora:
+## 0 - Programação
 
-- C#: A Player Guide
-- Introduction to SQL
-- CS50x
-- Basic Math
-
-
-| Curso | Meu repositório | Status |
-| ------------- | ------------- | ------------- | 
-| [CS50 - Harvard](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x)| [Link](https://github.com/henrique559/CS50x-2024) | Estudando |
-| [MIT 6.00001 - Introduction to Computer Science and Programming in Python](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/) | - | - |
+| Curso | Meu repositório | Livro | Status |  
+| ------------- | ------------- | ------------- | ------------- | 
+| [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn) | - | Learning How to Learn | Finalizado |
+| [CS50 - Harvard](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x)| [Link](https://github.com/henrique559/CS50x-2024) | Python: Crash Course | Estudando |
+| [MIT 6.00001 - Introduction to Computer Science and Programming in Python](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/) | - | Entendo Algoritmos | - |
 | [MIT 6.00002 - Introduction to Computational Thinking and Data Science](https://ocw.mit.edu/courses/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/) | - | - |
-| [MIT - The Missing Semester](https://missing.csail.mit.edu/) | - | - |
+| [MIT - The Missing Semester](https://missing.csail.mit.edu/) | - | - | - |
+| [Português - Fundação Bradesco](https://www.ev.org.br/) | - | - | - |
 
-## 0 - Introdução
-### Programação:
-- [ ]
-- [ ] 
-- [ ] 
-Talvez:
-- [ ] [CS50 - Web Development](https://cs50.harvard.edu/web/2020/)
-- [ ] [The Odin Project](https://www.theodinproject.com/)
-
-### Livros:
-- [ ] Python: Crash Course (+ ATBP Projects)
-- [ ] C#: A Player's Guide
-- [ ] Software Architecture with C# 12 and .NET 
-- [ ] C# 12 and .NET 8 – Modern Cross-Platform Development Fundamentals
-- [ ] Entendo Algoritmos
-- [X] Aprendendo a Aprender - Finalizado
-
-### Outros:
-- [ ] Git & GitHub - ✍️ Estudando
-- [ ] [Português - Fundação Bradesco](https://www.ev.org.br/)
 
 ## 1 - Ciências da Computação
 ### Linguagens de Programação:
