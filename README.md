@@ -288,10 +288,8 @@ last.FM Scrobbler
 | Curso | Linguagem | Livro | Repositorio |  
 | ------------- | ------------- | ------------- | ------------- | 
 | [CS 186](https://archive.org/details/UCBerkeley_Course_Computer_Science_186) | - | [Database Systems Design Implementation](https://www.amazon.com.br/Database-Systems-Design-Implementation-Management/dp/1285196147) | - |
-- [ ] 
 
 ### Livros:
-- [ ] 
 
 ## 7 - Sistemas Distribuidos
 | Curso | Linguagem | Livro | Repositorio |  
@@ -308,8 +306,6 @@ last.FM Scrobbler
 | Curso | Linguagem | Livro | Repositorio |  
 | ------------- | ------------- | ------------- | ------------- | 
 | [CS 169 - Berkeley](https://www2.eecs.berkeley.edu/Courses/CS169/) | - | [Software Engineering: A Practitioner's Approach](https://www.amazon.com.br/Software-Engineering-Practitioners-Roger-Pressman/dp/0078022126) | - |
-
-- [ ] 
 
 
 ## 9 - Cibersegurança
