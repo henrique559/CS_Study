@@ -246,109 +246,100 @@ last.FM Scrobbler
 
 ## 2 - Sistemas de Computadores
 
-| Curso | Status | Livro | Duração |  
+| Curso | Linguagem | Livro | Repositorio |  
 | ------------- | ------------- | ------------- | ------------- | 
 | [Build a Modern Computer from First Principles Part 1](https://www.coursera.org/learn/build-a-computer) | - | The C Programming Language | - |
-| [Build a Modern Computer from First Principles Part 2](https://www.coursera.org/learn/nand2tetris2) | - |Code: The Hidden Language of Computer Hardware and Software | |
-| Computer Systems: A Programmer's Perspective | - | [Computer Systems](https://www.amazon.com/Computer-Systems-Programmers-Perspective-3rd/dp/013409266X) | - |
+| [Build a Modern Computer from First Principles Part 2](https://www.coursera.org/learn/nand2tetris2) | - |Code: The Hidden Language of Computer Hardware and Software | - |
+| Computer Systems: A Programmer's Perspective | C, Assembly | [Computer Systems](https://www.amazon.com/Computer-Systems-Programmers-Perspective-3rd/dp/013409266X) | - |
 
 ## 3 - Matématica
-### Matemática básica:
-- [ ] [Aritmetica](https://www.khanacademy.org/math/arithmetic#arithmetic-subject-challenge)
-- [ ] [Geometria Básica](https://www.khanacademy.org/math/basic-geo#basic-geo-subject-challenge)
-- [ ] [Pré Algebra](https://www.khanacademy.org/math/pre-algebra#pre-algebra-subject-challenge)
 
-### Pensamento Matemático
-- [ ] [Mathematical Thinking](https://www.coursera.org/learn/mathematical-thinking)
+| Curso | Linguagem | Livro | Repositorio |  
+| ------------- | ------------- | ------------- | ------------- | 
+| [Aritmetica](https://www.khanacademy.org/math/arithmetic#arithmetic-subject-challenge) | - | - | - |
+| [Geometria Básica](https://www.khanacademy.org/math/basic-geo#basic-geo-subject-challenge) | - | - | - |
+| [Pré Algebra](https://www.khanacademy.org/math/pre-algebra#pre-algebra-subject-challenge) | - | - | - |
+| [Mathematical Thinking](https://www.coursera.org/learn/mathematical-thinking) | - | - | - |
+| [Intregated Math I](https://www.khanacademy.org/math/math1#math1-subject-challenge) | - | -  - |
+| [Intregated Math II](https://www.khanacademy.org/math/math2#math2-subject-challenge) | - | - | - |
+| [Intregated Math III](https://www.khanacademy.org/math/math3#math3-subject-challenge) | - | - | - |
+| [Calculus 1A: Differentiation](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.1x+2T2019/about) | - | - | - |
+| [Calculus 1B: Integration](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.2x+3T2019/about) | - | - | - |
+| [Calculus 1C: Coordinate Systems & Infinite Series](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.3x+1T2020/about)  | - | - | - |
+| [Mathematics for Computer Science](https://openlearninglibrary.mit.edu/courses/course-v1:OCW+6.042J+2T2019/about) | - | - |  - |
 
-### Pré-Calculo:
-- [ ] [Intregated Math I](https://www.khanacademy.org/math/math1#math1-subject-challenge)       
-- [ ] [Intregated Math II](https://www.khanacademy.org/math/math2#math2-subject-challenge)       
-- [ ] [Intregated Math III](https://www.khanacademy.org/math/math3#math3-subject-challenge)       
-
-### Calculo:
-- [ ] [Calculus 1A: Differentiation](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.1x+2T2019/about)
-- [ ] [Calculus 1B: Integration](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.2x+3T2019/about) 
-- [ ] [Calculus 1C: Coordinate Systems & Infinite Series](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.3x+1T2020/about) 
-
-### Matématica Discreta:
-- [ ] [Mathematics for Computer Science](https://openlearninglibrary.mit.edu/courses/course-v1:OCW+6.042J+2T2019/about)
        
 ## 4 - Algoritmos
-- [ ] [Berkeley CS 61B](https://www2.eecs.berkeley.edu/Courses/CS61B/)
-
-### Livros:
-- [ ] [Introduction to Algorithms](https://www.amazon.com/Introduction-Algorithms-fourth-Thomas-Cormen/)
-
-Pensamento computacional:
-- [ ] [A Arte de Resolver Problemas](https://www.amazon.com.br/Arte-Resolver-Problemas-G-Polya/dp/8571931364)
-- [ ] [Think Fast and Slow](https://www.amazon.com.br/R%C3%A1pido-devagar-Daniel-Kahneman/dp/853900383X/ref=asc_df_853900383X/?tag=googleshopp06-20&linkCode=df0&hvadid=379692259369&hvpos=&hvnetw=g&hvrand=1965364216893611835&hvpone=&hvptwo=&hvqmt=&hvdev=m&hvdvcmdl=&hvlocint=&hvlocphy=1031549&hvtargid=pla-333509391313&psc=1&mcid=5b9ad9b20df0385188c1e83c2219bf88)
-- [ ] [Algorithms to Live By](https://www.amazon.com/Algorithms-Live-Computer-Science-Decisions/dp/1627790365)
-
+| Curso | Linguagem | Livro | Repositorio |  
+| ------------- | ------------- | ------------- | ------------- | 
+| [Algorithms: Part I](https://www.coursera.org/learn/algorithms-part1) | | [Algorithms](https://www.amazon.com/Algorithms-4th-Robert-Sedgewick/dp/032157351X) | - |
+| [Algorithms: Part II](https://www.coursera.org/learn/algorithms-part2) | |[Algorithms](https://www.amazon.com/Algorithms-4th-Robert-Sedgewick/dp/032157351X) | - |
+| [A Arte de Resolver Problemas](https://www.amazon.com.br/Arte-Resolver-Problemas-G-Polya/dp/8571931364) | - | - | - |
+| [Algorithms to Live By](https://www.amazon.com/Algorithms-Live-Computer-Science-Decisions/dp/1627790365) | - | - | - |
 
 ## 5 - Sistemas Operacionais e Redes de Computadores
-### Livros:
-Sistemas operacionais:
-- [ ] [Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/)
+| Curso | Linguagem | Livro | Repositorio |  
+| ------------- | ------------- | ------------- | ------------- | 
+| [Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/) | -  | -  | - |
+| [Computer Networking: a Top-Down Approach](http://gaia.cs.umass.edu/kurose_ross/online_lectures.htm) | -  | -  | - |
 
-Redes
-- [ ] [Computer Networking: a Top-Down Approach](http://gaia.cs.umass.edu/kurose_ross/online_lectures.htm)
 
 ## 6 - Databases
-- [ ] [CS 186](https://archive.org/details/UCBerkeley_Course_Computer_Science_186)
+| Curso | Linguagem | Livro | Repositorio |  
+| ------------- | ------------- | ------------- | ------------- | 
+| [CS 186](https://archive.org/details/UCBerkeley_Course_Computer_Science_186) | - | [Database Systems Design Implementation](https://www.amazon.com.br/Database-Systems-Design-Implementation-Management/dp/1285196147) | - |
+- [ ] 
 
 ### Livros:
-- [ ] [Database Systems Design Implementation](https://www.amazon.com.br/Database-Systems-Design-Implementation-Management/dp/1285196147)
+- [ ] 
 
 ## 7 - Sistemas Distribuidos
-- [ ] [Distributed Systems MIT 6.824](https://pdos.csail.mit.edu/6.824/)
-
-### Livros:
-- [ ] [Designing Data-Intensive Applications by Martin Kleppmann](https://www.amazon.com.br/Designing-Data-Intensive-Applications-Martin-Kleppmann/dp/1449373321)
+| Curso | Linguagem | Livro | Repositorio |  
+| ------------- | ------------- | ------------- | ------------- | 
+| [Distributed Systems MIT 6.824](https://pdos.csail.mit.edu/6.824/) | - | [Designing Data-Intensive Applications by Martin Kleppmann](https://www.amazon.com.br/Designing-Data-Intensive-Applications-Martin-Kleppmann/dp/1449373321) | - |
 
 ## 8 - Compiladores e Interpretadores
-- [ ] [Compilers](https://www.edx.org/course/compilers)
+| Curso | Linguagem | Livro | Repositorio |  
+| ------------- | ------------- | ------------- | ------------- | 
+| [Compilers](https://www.edx.org/course/compilers) | -  | [Crafting interpreters](https://craftinginterpreters.com/)-  | - |
 
-### Livros:
-- [ ] [Crafting interpreters](https://craftinginterpreters.com/)
 
 ## 9 - Engenharia de Software
-- [ ] [CS 169 - Berkeley](https://www2.eecs.berkeley.edu/Courses/CS169/)
+| Curso | Linguagem | Livro | Repositorio |  
+| ------------- | ------------- | ------------- | ------------- | 
+| [CS 169 - Berkeley](https://www2.eecs.berkeley.edu/Courses/CS169/) | - | [Software Engineering: A Practitioner's Approach](https://www.amazon.com.br/Software-Engineering-Practitioners-Roger-Pressman/dp/0078022126) | - |
 
-### Livros:
-- [ ] [Software Engineering: A Practitioner's Approach](https://www.amazon.com.br/Software-Engineering-Practitioners-Roger-Pressman/dp/0078022126)
-- [ ] Domain Driven Design
-- [ ] Code Complete
+- [ ] 
+
 
 ## 9 - Cibersegurança
-- [ ] [Cybersecurity Fundamentals](https://www.edx.org/course/cybersecurity-fundamentals)
-- [ ] [Principles of Secure Coding](https://www.coursera.org/learn/secure-coding-principles)
-- [ ] [Identifying Security Vulnerabilities](https://www.coursera.org/learn/identifying-security-vulnerabilities)
-- [ ] [Identifying Security Vulnerabilities in C/C++Programming](https://www.coursera.org/learn/identifying-security-vulnerabilities-c-programming)
-      
-### Avançado:
-- [ ] [Web Security Fundamentals](https://www.edx.org/course/web-security-fundamentals) 
-- [ ] [Security Governance & Compliance](https://www.coursera.org/learn/security-governance-compliance) 
-- [ ] [Digital Forensics Concepts](https://www.coursera.org/learn/digital-forensics-concepts) 
-- [ ] [Secure Software Development: Requirements, Design, and Reuse](https://www.edx.org/course/secure-software-development-requirements-design-and-reuse) 
-- [ ] [Secure Software Development: Implementation](https://www.edx.org/course/secure-software-development-implementation) 
-- [ ] [Secure Software Development: Verification and More Specialized Topics](https://www.edx.org/course/secure-software-development-verification-and-more-specialized-topics)
-
-### (opt) Reverse Engeneering:
-- [ ] The Art of x64 Assembly Language
-- [ ] [Reverse Engeneering for Beginners](https://en.zlibrary-br.se/book/3052627/d498e5/reverse-engineering-for-beginners.html)
-- [ ] [Pratical Malware Analysis](https://www.amazon.com/Practical-Malware-Analysis-Hands-Dissecting/dp/1593272901)
-- [ ] The Ghidra book
+| Curso | Linguagem | Livro | Repositorio |  
+| ------------- | ------------- | ------------- | ------------- | 
+| [Cybersecurity Fundamentals](https://www.edx.org/course/cybersecurity-fundamentals) | - | - | - |
+| [Principles of Secure Coding](https://www.coursera.org/learn/secure-coding-principles) | - | - | - |
+| [Identifying Security Vulnerabilities](https://www.coursera.org/learn/identifying-security-vulnerabilities) | - | - | - |
+| [Identifying Security Vulnerabilities in C/C++Programming](https://www.coursera.org/learn/identifying-security-vulnerabilities-c-programming) | - | - | - |
+| [Web Security Fundamentals](https://www.edx.org/course/web-security-fundamentals)  | - | - | - |
+| [Security Governance & Compliance](https://www.coursera.org/learn/security-governance-compliance)  | - | - | - |
+| [Digital Forensics Concepts](https://www.coursera.org/learn/digital-forensics-concepts) | - | - | - |
+| [Secure Software Development: Requirements, Design, and Reuse](https://www.edx.org/course/secure-software-development-requirements-design-and-reuse)  | - | - | - |
+| [Secure Software Development: Implementation](https://www.edx.org/course/secure-software-development-implementation)  | - | - | - |
+| [Secure Software Development: Verification and More Specialized Topics](https://www.edx.org/course/secure-software-development-verification-and-more-specialized-topics) | - | - | - |
+| [Reverse Engeneering for Beginners](https://en.zlibrary-br.se/book/3052627/d498e5/reverse-engineering-for-beginners.html) | - | - | - |
+| [Pratical Malware Analysis](https://www.amazon.com/Practical-Malware-Analysis-Hands-Dissecting/dp/1593272901) | - | - | - |
+| The Art of x64 Assembly Language | - | - | - |
+| The Ghidra book | - | - | - |
 
 
 ## 10 - Matématica Avançada
-- [ ] [Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) 
-- [ ] [Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/)
-- [ ] [Introduction to Numerical Methods](https://ocw.mit.edu/courses/mathematics/18-335j-introduction-to-numerical-methods-spring-2019/index.htm)
-- [ ] [Introduction to Formal Logic](https://forallx.openlogicproject.org/) 
-- [ ] [Set Theory](https://www.youtube.com/playlist?list=PL5KkMZvBpo5AH_5GpxMiryJT6Dkj32H6N) 
-- [ ] [Probability](https://projects.iq.harvard.edu/stat110/home)
-
+| Curso | Linguagem | Livro | Repositorio |  
+| ------------- | ------------- | ------------- | ------------- | 
+| [Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)  | - | - | - |
+| [Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/) | - | - | - |
+| [Introduction to Numerical Methods](https://ocw.mit.edu/courses/mathematics/18-335j-introduction-to-numerical-methods-spring-2019/index.htm)- | - | - | - |
+| [Introduction to Formal Logic](https://forallx.openlogicproject.org/) | - | - | - |
+| [Set Theory](https://www.youtube.com/playlist?list=PL5KkMZvBpo5AH_5GpxMiryJT6Dkj32H6N) | - | - | - |
+| [Probability](https://projects.iq.harvard.edu/stat110/home) | - | - | - |
 
 # Desenvolvedor Rust
 ### Introdução:
