@@ -221,7 +221,7 @@ last.FM Scrobbler
 # ROADMAP
 ## 0 - Programação
 
-| Curso | Linguagem | Livro | Repositorio |  
+| Curso | Linguagem | Livro | Status |  
 | ------------- | ------------- | ------------- | ------------- | 
 | [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn) | - | Learning How to Learn | Finalizado |
 | [CS50 - Harvard](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x)| C, Python, SQL | Python: Crash Course | [Estudando](https://github.com/henrique559/CS50x-2024) |
@@ -233,7 +233,7 @@ last.FM Scrobbler
 
 ## 1 - Ciências da Computação
 
-| Curso | Linguagem | Livro | Repositorio |  
+| Curso | Linguagem | Livro | Status |  
 | ------------- | ------------- | ------------- | ------------- | 
 | [Programming Languages Part A](https://www.coursera.org/learn/programming-languages) | - | - | - | 
 | [Programming Languages Part B](https://www.coursera.org/learn/programming-languages-part-b) | - | - | - | 
@@ -246,7 +246,7 @@ last.FM Scrobbler
 
 ## 2 - Sistemas de Computadores
 
-| Curso | Linguagem | Livro | Repositorio |  
+| Curso | Linguagem | Livro | Status |  
 | ------------- | ------------- | ------------- | ------------- | 
 | [Build a Modern Computer from First Principles Part 1](https://www.coursera.org/learn/build-a-computer) | - | The C Programming Language | - |
 | [Build a Modern Computer from First Principles Part 2](https://www.coursera.org/learn/nand2tetris2) | - |Code: The Hidden Language of Computer Hardware and Software | - |
@@ -254,7 +254,7 @@ last.FM Scrobbler
 
 ## 3 - Matématica
 
-| Curso | Linguagem | Livro | Repositorio |  
+| Curso | Linguagem | Livro | Status |  
 | ------------- | ------------- | ------------- | ------------- | 
 | [Aritmetica](https://www.khanacademy.org/math/arithmetic#arithmetic-subject-challenge) | - | - | - |
 | [Geometria Básica](https://www.khanacademy.org/math/basic-geo#basic-geo-subject-challenge) | - | - | - |
@@ -270,7 +270,7 @@ last.FM Scrobbler
 
        
 ## 4 - Algoritmos
-| Curso | Linguagem | Livro | Repositorio |  
+| Curso | Linguagem | Livro | Status |  
 | ------------- | ------------- | ------------- | ------------- | 
 | [Algorithms: Part I](https://www.coursera.org/learn/algorithms-part1) | - | [Algorithms](https://www.amazon.com/Algorithms-4th-Robert-Sedgewick/dp/032157351X) | - |
 | [Algorithms: Part II](https://www.coursera.org/learn/algorithms-part2) | - |[Algorithms](https://www.amazon.com/Algorithms-4th-Robert-Sedgewick/dp/032157351X) | - |
@@ -278,27 +278,27 @@ last.FM Scrobbler
 | [Algorithms to Live By](https://www.amazon.com/Algorithms-Live-Computer-Science-Decisions/dp/1627790365) | - | - | - |
 
 ## 5 - Sistemas Operacionais e Redes de Computadores
-| Curso | Linguagem | Livro | Repositorio |  
+| Curso | Linguagem | Livro | Status |  
 | ------------- | ------------- | ------------- | ------------- | 
 | [Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/) | -  | -  | - |
 | [Computer Networking: a Top-Down Approach](http://gaia.cs.umass.edu/kurose_ross/online_lectures.htm) | -  | -  | - |
 
 
 ## 6 - Databases e Sistemas Distribuidos
-| Curso | Linguagem | Livro | Repositorio |  
+| Curso | Linguagem | Livro | Status |  
 | ------------- | ------------- | ------------- | ------------- | 
 | [CS 186](https://archive.org/details/UCBerkeley_Course_Computer_Science_186) | - | [Database Systems Design Implementation](https://www.amazon.com.br/Database-Systems-Design-Implementation-Management/dp/1285196147) | - |
 | [Distributed Systems MIT 6.824](https://pdos.csail.mit.edu/6.824/) | - | [Designing Data-Intensive Applications by Martin Kleppmann](https://www.amazon.com.br/Designing-Data-Intensive-Applications-Martin-Kleppmann/dp/1449373321) | - |
 
 
 ## 7 - Compiladores/Interpretadores e Engenharia de Software
-| Curso | Linguagem | Livro | Repositorio |  
+| Curso | Linguagem | Livro | Status |  
 | ------------- | ------------- | ------------- | ------------- | 
 | [Compilers](https://www.edx.org/course/compilers) | - | [Crafting interpreters](https://craftinginterpreters.com/)-  | - |
 | [CS 169 - Berkeley](https://www2.eecs.berkeley.edu/Courses/CS169/) | - | [Software Engineering: A Practitioner's Approach](https://www.amazon.com.br/Software-Engineering-Practitioners-Roger-Pressman/dp/0078022126) | - |
 
 ## 8 - Cibersegurança
-| Curso | Linguagem | Livro | Repositorio |  
+| Curso | Linguagem | Livro | Status |  
 | ------------- | ------------- | ------------- | ------------- | 
 | [Cybersecurity Fundamentals](https://www.edx.org/course/cybersecurity-fundamentals) | - | - | - |
 | [Principles of Secure Coding](https://www.coursera.org/learn/secure-coding-principles) | - | - | - |
@@ -317,7 +317,7 @@ last.FM Scrobbler
 
 
 ## 9 - Matématica Avançada
-| Curso | Linguagem | Livro | Repositorio |  
+| Curso | Linguagem | Livro | Status |  
 | ------------- | ------------- | ------------- | ------------- | 
 | [Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)  | - | - | - |
 | [Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/) | - | - | - |
