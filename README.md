@@ -289,8 +289,6 @@ last.FM Scrobbler
 | ------------- | ------------- | ------------- | ------------- | 
 | [CS 186](https://archive.org/details/UCBerkeley_Course_Computer_Science_186) | - | [Database Systems Design Implementation](https://www.amazon.com.br/Database-Systems-Design-Implementation-Management/dp/1285196147) | - |
 
-### Livros:
-
 ## 7 - Sistemas Distribuidos
 | Curso | Linguagem | Livro | Repositorio |  
 | ------------- | ------------- | ------------- | ------------- | 
