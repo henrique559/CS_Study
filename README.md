@@ -284,29 +284,20 @@ last.FM Scrobbler
 | [Computer Networking: a Top-Down Approach](http://gaia.cs.umass.edu/kurose_ross/online_lectures.htm) | -  | -  | - |
 
 
-## 6 - Databases
+## 6 - Databases e Sistemas Distribuidos
 | Curso | Linguagem | Livro | Repositorio |  
 | ------------- | ------------- | ------------- | ------------- | 
 | [CS 186](https://archive.org/details/UCBerkeley_Course_Computer_Science_186) | - | [Database Systems Design Implementation](https://www.amazon.com.br/Database-Systems-Design-Implementation-Management/dp/1285196147) | - |
-
-## 7 - Sistemas Distribuidos
-| Curso | Linguagem | Livro | Repositorio |  
-| ------------- | ------------- | ------------- | ------------- | 
 | [Distributed Systems MIT 6.824](https://pdos.csail.mit.edu/6.824/) | - | [Designing Data-Intensive Applications by Martin Kleppmann](https://www.amazon.com.br/Designing-Data-Intensive-Applications-Martin-Kleppmann/dp/1449373321) | - |
 
-## 8 - Compiladores e Interpretadores
+
+## 7 - Compiladores/Interpretadores e Engenharia de Software
 | Curso | Linguagem | Livro | Repositorio |  
 | ------------- | ------------- | ------------- | ------------- | 
 | [Compilers](https://www.edx.org/course/compilers) | - | [Crafting interpreters](https://craftinginterpreters.com/)-  | - |
-
-
-## 9 - Engenharia de Software
-| Curso | Linguagem | Livro | Repositorio |  
-| ------------- | ------------- | ------------- | ------------- | 
 | [CS 169 - Berkeley](https://www2.eecs.berkeley.edu/Courses/CS169/) | - | [Software Engineering: A Practitioner's Approach](https://www.amazon.com.br/Software-Engineering-Practitioners-Roger-Pressman/dp/0078022126) | - |
 
-
-## 9 - Cibersegurança
+## 8 - Cibersegurança
 | Curso | Linguagem | Livro | Repositorio |  
 | ------------- | ------------- | ------------- | ------------- | 
 | [Cybersecurity Fundamentals](https://www.edx.org/course/cybersecurity-fundamentals) | - | - | - |
@@ -325,7 +316,7 @@ last.FM Scrobbler
 | The Ghidra book | - | - | - |
 
 
-## 10 - Matématica Avançada
+## 9 - Matématica Avançada
 | Curso | Linguagem | Livro | Repositorio |  
 | ------------- | ------------- | ------------- | ------------- | 
 | [Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)  | - | - | - |
