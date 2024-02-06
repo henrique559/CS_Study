@@ -272,8 +272,8 @@ last.FM Scrobbler
 ## 4 - Algoritmos
 | Curso | Linguagem | Livro | Status |  
 | ------------- | ------------- | ------------- | ------------- | 
-| [Algorithms: Part I](https://www.coursera.org/learn/algorithms-part1) | - | [Algorithms](https://www.amazon.com/Algorithms-4th-Robert-Sedgewick/dp/032157351X) | - |
-| [Algorithms: Part II](https://www.coursera.org/learn/algorithms-part2) | - |[Algorithms](https://www.amazon.com/Algorithms-4th-Robert-Sedgewick/dp/032157351X) | - |
+| [Algorithms: Part I](https://www.coursera.org/learn/algorithms-part1) | Java | [Algorithms](https://www.amazon.com/Algorithms-4th-Robert-Sedgewick/dp/032157351X) | - |
+| [Algorithms: Part II](https://www.coursera.org/learn/algorithms-part2) | Java |[Algorithms](https://www.amazon.com/Algorithms-4th-Robert-Sedgewick/dp/032157351X) | - |
 | [A Arte de Resolver Problemas](https://www.amazon.com.br/Arte-Resolver-Problemas-G-Polya/dp/8571931364) | - | - | - |
 | [Algorithms to Live By](https://www.amazon.com/Algorithms-Live-Computer-Science-Decisions/dp/1627790365) | - | - | - |
 
