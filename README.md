@@ -22,6 +22,7 @@ Todo
 
 ### Coisas para me ajudar
 - Flash-Cards: [Como memorizar conteúdos de ciências da computação](https://startupnextdoor.com/retaining-computer-science-knowledge/) usando o [Anki](https://github.com/badlydrawnrob/anki)
+- Mapas mentais usando o [Miro](https://miro.com/pt/mapa-mental/)
 - [Learn in public](https://www.swyx.io/learn-in-public)
 - [How to learn how to learn code](https://medium.com/weekly-webtips/learning-how-to-learn-how-to-program-d3f8b9d37222)
 
