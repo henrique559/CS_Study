@@ -6,13 +6,13 @@ TODO: O Objetivo desse repositório é criar um roadmap para auxiliar os meus es
 (TODO: Criar um plano de estudos com os conteúdos estudados, data e uma check-box para avaliar o progresso, pasta para adicionar códigos e resumo de capítulos de livros que vou ler,
 um blog para colocar coisas sobre programação, como tutoriais, oq eu aprendi, resumos etc...) <~ Em Desenvolvimento
 
+Resumo de livros nesse [repositório](https://github.com/henrique559/programming-books)
 
 
  ### Créditos
 - [CS Rusty](https://github.com/AbdesamedBendjeddou/Rusty-CS)
 - [OSSU](https://github.com/ossu/computer-science)
 - [Profissional Programming](https://github.com/charlax/professional-programming)
-
 
 
 
