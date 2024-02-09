@@ -13,6 +13,7 @@ Resumo de livros nesse [repositório](https://github.com/henrique559/programming
 - [CS Rusty](https://github.com/AbdesamedBendjeddou/Rusty-CS)
 - [OSSU](https://github.com/ossu/computer-science)
 - [Profissional Programming](https://github.com/charlax/professional-programming)
+- [Berkeley Course Map](https://hkn.eecs.berkeley.edu/courseguides)
 
 
 
@@ -230,7 +231,7 @@ last.FM Scrobbler
 | [MIT 6.00002 - Introduction to Computational Thinking and Data Science](https://ocw.mit.edu/courses/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/) | Python | - |
 | [MIT - The Missing Semester](https://missing.csail.mit.edu/) | Shell | - | - |
 | [Português - Fundação Bradesco](https://www.ev.org.br/) | - | - | - |
-
+| [Learn C++](learncpp.com) | C++ | - | Estudando
 
 ## 1 - Ciências da Computação
 
@@ -239,7 +240,7 @@ last.FM Scrobbler
 | [Programming Languages Part A](https://www.coursera.org/learn/programming-languages) | - | - | - | 
 | [Programming Languages Part B](https://www.coursera.org/learn/programming-languages-part-b) | - | - | - | 
 | [Programming Languages Part C](https://www.coursera.org/learn/programming-languages-part-c) | - | [Simply Scheme](https://people.eecs.berkeley.edu/~bh/ss-toc2.html) | - |
-| [Structure and Interpretation of Computer Programs - Brian Harvey’s](https://archive.org/details/ucberkeley-webcast-PL3E89002AA9B9879E?sort=titleSorter) | Scheme | [SICP](https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book.html) | - |
+| [Structure and Interpretation of Computer Programs - Brian Harvey’s](https://archive.org/details/ucberkeley-webcast-PL3E89002AA9B9879E?sort=titleSorter)  ou [CS61A](https://cs61a.org/)| Scheme | [SICP](https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book.html) | - |
 | [Object-Oriented Design](https://www.coursera.org/learn/object-oriented-design) | - | [The Pragmatic Programmer](https://www.amazon.com/Pragmatic-Programmer-journey-mastery-Anniversary/) | - |
 | [Design Patterns](https://www.coursera.org/learn/design-patterns) | - | [Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/) | - |
 | [Software Architecture](https://www.coursera.org/learn/software-architecture) | - | - | - |
@@ -264,6 +265,7 @@ last.FM Scrobbler
 | [Intregated Math I](https://www.khanacademy.org/math/math1#math1-subject-challenge) | - | -  - |
 | [Intregated Math II](https://www.khanacademy.org/math/math2#math2-subject-challenge) | - | - | - |
 | [Intregated Math III](https://www.khanacademy.org/math/math3#math3-subject-challenge) | - | - | - |
+| [Pre-Calculus](https://pt.khanacademy.org/math/precalculus) | - | - | - |
 | [Calculus 1A: Differentiation](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.1x+2T2019/about) | - | - | - |
 | [Calculus 1B: Integration](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.2x+3T2019/about) | - | - | - |
 | [Calculus 1C: Coordinate Systems & Infinite Series](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.3x+1T2020/about)  | - | - | - |
@@ -273,7 +275,7 @@ last.FM Scrobbler
 ## 4 - Algoritmos
 | Curso | Linguagem | Livro | Status |  
 | ------------- | ------------- | ------------- | ------------- | 
-| [Algorithms: Part I](https://www.coursera.org/learn/algorithms-part1) | Java | [Algorithms](https://www.amazon.com/Algorithms-4th-Robert-Sedgewick/dp/032157351X) | - |
+| [Algorithms: Part I](https://www.coursera.org/learn/algorithms-part1) ou [CS61B](https://sp18.datastructur.es/) | Java | [Algorithms](https://www.amazon.com/Algorithms-4th-Robert-Sedgewick/dp/032157351X) | - |
 | [Algorithms: Part II](https://www.coursera.org/learn/algorithms-part2) | Java |[Algorithms](https://www.amazon.com/Algorithms-4th-Robert-Sedgewick/dp/032157351X) | - |
 | [A Arte de Resolver Problemas](https://www.amazon.com.br/Arte-Resolver-Problemas-G-Polya/dp/8571931364) | - | - | - |
 | [Algorithms to Live By](https://www.amazon.com/Algorithms-Live-Computer-Science-Decisions/dp/1627790365) | - | - | - |
