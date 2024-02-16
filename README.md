@@ -111,6 +111,7 @@ Todo
 - Ideias de [Projetos 3](https://github.com/florinpop17/app-ideas)
 - [Pratical Based Learning](https://github.com/practical-tutorials/project-based-learning?tab=readme-ov-file#cc)
 - [Contribuições open source](https://www.firsttimersonly.com/).
+- [Exercícios em C++](https://github.com/Rustam-Z/cpp-programming?tab=readme-ov-file#computer-science-basics)
 
 <details>
 <summary> Mais projetos:</summary>
