@@ -330,6 +330,17 @@ last.FM Scrobbler
 | [Set Theory](https://www.youtube.com/playlist?list=PL5KkMZvBpo5AH_5GpxMiryJT6Dkj32H6N) | - | - | - |
 | [Probability](https://projects.iq.harvard.edu/stat110/home) | - | - | - |
 
+##  Certificados
+- [ ] ITIL v4
+- [ ] PMP
+- [ ] SAP
+- [ ] Cobit
+- [ ] CISCO CCNA
+- [ ] AWS
+- [ ] LPIC-1 e 2
+- [ ] Azure
+ 
+
 # Desenvolvedor Rust
 ### Introdução:
 Iniciante:
