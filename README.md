@@ -231,6 +231,7 @@ last.FM Scrobbler
 | [MIT 6.00001 - Introduction to Computer Science and Programming in Python](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/) | Python | Entendo Algoritmos | - |
 | [MIT 6.00002 - Introduction to Computational Thinking and Data Science](https://ocw.mit.edu/courses/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/) | Python | - |
 | [MIT - The Missing Semester](https://missing.csail.mit.edu/) | Shell | - | - |
+| [Pensamento Computacional](https://www.coursera.org/learn/computational-thinking-problem-solving?)| - | - | - |
 | [Português - Fundação Bradesco](https://www.ev.org.br/) | - | - | - |
 | [Learn C++](learncpp.com) | C++ | - | Estudando
 
