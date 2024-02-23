@@ -14,7 +14,7 @@ Resumo de livros nesse [repositório](https://github.com/henrique559/programming
 - [OSSU](https://github.com/ossu/computer-science)
 - [Profissional Programming](https://github.com/charlax/professional-programming)
 - [Berkeley Course Map](https://hkn.eecs.berkeley.edu/courseguides)
-
+- [Computer Science](https://github.com/apeman/awesome_computer_science)
 
 
 # Blog
