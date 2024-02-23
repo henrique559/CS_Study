@@ -333,6 +333,7 @@ last.FM Scrobbler
 ##  Certificados
 - [ ] ITIL v4
 - [ ] PMP
+- [ ] PMI
 - [ ] SAP
 - [ ] Cobit
 - [ ] CISCO CCNA
