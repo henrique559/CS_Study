@@ -15,6 +15,7 @@ Resumo de livros nesse [repositório](https://github.com/henrique559/programming
 - [Profissional Programming](https://github.com/charlax/professional-programming)
 - [Berkeley Course Map](https://hkn.eecs.berkeley.edu/courseguides)
 - [Computer Science](https://github.com/apeman/awesome_computer_science)
+- [Self-Learning](https://github.com/PKUFlyingPig/Self-learning-Computer-Science)
 
 
 # Blog
