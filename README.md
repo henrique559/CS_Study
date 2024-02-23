@@ -110,6 +110,7 @@ Todo
 - Ideias de [Projetos 1](https://github.com/karan/Projects)
 - Ideias de [Projetos 2](https://github.com/the-programmers-hangout/programming-resources/blob/master/ideas.md)
 - Ideias de [Projetos 3](https://github.com/florinpop17/app-ideas)
+- [Build your own X](https://github.com/codecrafters-io/build-your-own-x)
 - [Pratical Based Learning](https://github.com/practical-tutorials/project-based-learning?tab=readme-ov-file#cc)
 - [Contribuições open source](https://www.firsttimersonly.com/).
 - [Exercícios em C++](https://github.com/Rustam-Z/cpp-programming?tab=readme-ov-file#computer-science-basics)
