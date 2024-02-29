@@ -106,18 +106,18 @@ Todo
 - [Advent of Code](https://adventofcode.com/)
 
 
-### Lista de projetos:
+## Lista de projetos:
+
+### Projetos
 
 ![1607441484684](https://github.com/henrique559/computer-science-study/assets/145483144/8f21b66f-dfed-4909-9796-41ced4c4a918)
 
-#### Para iniciantes
+### Para iniciantes
 
 ![Programming-Projects-for-N00bz](https://github.com/henrique559/computer-science-study/assets/145483144/b27d7d3f-8ad9-41e8-8325-5e2fad7ce045)
 
-#### Projetos
 
-
-#### Links
+### Links
 - [Build your own X](https://github.com/codecrafters-io/build-your-own-x)
 - [Pratical Based Learning](https://github.com/practical-tutorials/project-based-learning?tab=readme-ov-file#cc)
 - [Contribuições open source](https://www.firsttimersonly.com/).
