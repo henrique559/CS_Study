@@ -107,16 +107,24 @@ Todo
 
 
 ### Lista de projetos:
-- Ideias de [Projetos 1](https://github.com/karan/Projects)
-- Ideias de [Projetos 2](https://github.com/the-programmers-hangout/programming-resources/blob/master/ideas.md)
-- Ideias de [Projetos 3](https://github.com/florinpop17/app-ideas)
+
+![1607441484684](https://github.com/henrique559/computer-science-study/assets/145483144/8f21b66f-dfed-4909-9796-41ced4c4a918)
+
+#### Para iniciantes
+
+![Programming-Projects-for-N00bz](https://github.com/henrique559/computer-science-study/assets/145483144/b27d7d3f-8ad9-41e8-8325-5e2fad7ce045)
+
+#### Projetos
+
+
+#### Links
 - [Build your own X](https://github.com/codecrafters-io/build-your-own-x)
 - [Pratical Based Learning](https://github.com/practical-tutorials/project-based-learning?tab=readme-ov-file#cc)
 - [Contribuições open source](https://www.firsttimersonly.com/).
 - [Exercícios em C++](https://github.com/Rustam-Z/cpp-programming?tab=readme-ov-file#computer-science-basics)
 
 <details>
-<summary> Mais projetos:</summary>
+<summary> Progressão:</summary>
  
 - [X] Name Generator
 - [X] Higher or Lower / Heads or tails
