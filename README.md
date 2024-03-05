@@ -114,7 +114,7 @@ Todo
 
 ### Para iniciantes
 
-![Programming-Projects-for-N00bz](https://github.com/henrique559/computer-science-study/assets/145483144/b27d7d3f-8ad9-41e8-8325-5e2fad7ce045)
+![unnamed](https://github.com/henrique559/computer-science-study/assets/145483144/9635805f-5927-455d-829f-c49250cf3f04)
 
 
 ### Links
