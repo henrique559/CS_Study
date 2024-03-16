@@ -255,6 +255,8 @@ last.FM Scrobbler
 | [Programming Languages Part C](https://www.coursera.org/learn/programming-languages-part-c) | - | - | - |
 
 ## 2 - Banco de dados
+| Curso | Linguagem | Livro | Status |  
+| ------------- | ------------- | ------------- | ------------- | 
 | [CS50 SQL](https://cs50.harvard.edu/sql/2024/) | - | - | - |
 | [Databases: Modeling and Theory](https://www.edx.org/course/modeling-and-theory)| - | - | - |
 | [Databases: Relational Databases and SQL](https://www.edx.org/course/databases-5-sql)| - | - | - |
