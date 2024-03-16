@@ -238,7 +238,7 @@ last.FM Scrobbler
 | ------------- | ------------- | ------------- | ------------- | 
 | [CS50 - Harvard](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x)| C, Python, SQL | Python: Crash Course | [Estudando](https://github.com/henrique559/CS50x-2024) |
 | [MIT - The Missing Semester](https://missing.csail.mit.edu/) | Shell | - | - |
-| [Programação orientada a objetos em Java](https://www.coursera.org/specializations/object-oriented-programming) | - | - | - |
+| [Programação orientada a objetos em Java](https://www.coursera.org/specializations/object-oriented-programming) | - | Computer Science: An Interdisciplinary Approach 1st Edition | - |
 | [Pensamento Computacional](https://www.coursera.org/learn/computational-thinking-problem-solving?)| - | - | - |
 
 
