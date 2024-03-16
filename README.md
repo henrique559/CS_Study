@@ -238,27 +238,30 @@ last.FM Scrobbler
 | ------------- | ------------- | ------------- | ------------- | 
 | [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn) | - | Learning How to Learn | Finalizado |
 | [CS50 - Harvard](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x)| C, Python, SQL | Python: Crash Course | [Estudando](https://github.com/henrique559/CS50x-2024) |
-| [MIT 6.00001 - Introduction to Computer Science and Programming in Python](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/) | Python | Entendo Algoritmos | - |
-| [MIT 6.00002 - Introduction to Computational Thinking and Data Science](https://ocw.mit.edu/courses/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/) | Python | - |
 | [MIT - The Missing Semester](https://missing.csail.mit.edu/) | Shell | - | - |
 | [Pensamento Computacional](https://www.coursera.org/learn/computational-thinking-problem-solving?)| - | - | - |
-| [Português - Fundação Bradesco](https://www.ev.org.br/) | - | - | - |
-| [Learn C++](learncpp.com) | C++ | - | Estudando
+| [Learn C++](learncpp.com) | C++ | - | - |
 
 ## 1 - Ciências da Computação
 
 | Curso | Linguagem | Livro | Status |  
 | ------------- | ------------- | ------------- | ------------- | 
-| [Programming Languages Part A](https://www.coursera.org/learn/programming-languages) | - | - | - | 
-| [Programming Languages Part B](https://www.coursera.org/learn/programming-languages-part-b) | - | - | - | 
-| [Programming Languages Part C](https://www.coursera.org/learn/programming-languages-part-c) | - | [Simply Scheme](https://people.eecs.berkeley.edu/~bh/ss-toc2.html) | - |
 | [Structure and Interpretation of Computer Programs - Brian Harvey’s](https://archive.org/details/ucberkeley-webcast-PL3E89002AA9B9879E?sort=titleSorter)  ou [CS61A](https://cs61a.org/)| Scheme | [SICP](https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book.html) ou [Composing Programs](https://www.composingprograms.com/pages/11-getting-started.html)| - |
 | [Object-Oriented Design](https://www.coursera.org/learn/object-oriented-design) | - | [The Pragmatic Programmer](https://www.amazon.com/Pragmatic-Programmer-journey-mastery-Anniversary/) | - |
-| [Design Patterns](https://www.coursera.org/learn/design-patterns) | - | [Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/) | - |
+| [Design Patterns](https://www.coursera.org/learn/design-patterns) | - | - | - |
 | [Software Architecture](https://www.coursera.org/learn/software-architecture) | - | - | - |
+| [Programming Languages Part A](https://www.coursera.org/learn/programming-languages) | - | - | - | 
+| [Programming Languages Part B](https://www.coursera.org/learn/programming-languages-part-b) | - | - | - | 
+| [Programming Languages Part C](https://www.coursera.org/learn/programming-languages-part-c) | - | - | - |
 
+## 2 - Banco de dados
+| [CS50 SQL](https://cs50.harvard.edu/sql/2024/) | - | - | - |
+| [Databases: Modeling and Theory](https://www.edx.org/course/modeling-and-theory)| - | - | - |
+| [Databases: Relational Databases and SQL](https://www.edx.org/course/databases-5-sql)| - | - | - |
+| [Databases: Semistructured Data](https://www.edx.org/course/semistructured-data)| - | - | - |
+| [Software Engineering: Introduction](https://www.coursera.org/learn/introduction-to-software-engineering) | - | - | - |
 
-## 2 - Sistemas de Computadores
+## 3 - Sistemas de Computadores
 
 | Curso | Linguagem | Livro | Status |  
 | ------------- | ------------- | ------------- | ------------- | 
@@ -266,7 +269,7 @@ last.FM Scrobbler
 | [Build a Modern Computer from First Principles Part 2](https://www.coursera.org/learn/nand2tetris2) | - |Code: The Hidden Language of Computer Hardware and Software | - |
 | Computer Systems: A Programmer's Perspective | C, Assembly | [Computer Systems](https://www.amazon.com/Computer-Systems-Programmers-Perspective-3rd/dp/013409266X) | - |
 
-## 3 - Matématica
+## 4 - Matématica
 
 | Curso | Linguagem | Livro | Status |  
 | ------------- | ------------- | ------------- | ------------- | 
@@ -284,37 +287,41 @@ last.FM Scrobbler
 | [Mathematics for Computer Science](https://openlearninglibrary.mit.edu/courses/course-v1:OCW+6.042J+2T2019/about) | - | - |  - |
 
        
-## 4 - Algoritmos
+## 5 - Algoritmos
 | Curso | Linguagem | Livro | Status |  
 | ------------- | ------------- | ------------- | ------------- | 
-| [Algorithms: Part I](https://www.coursera.org/learn/algorithms-part1) ou [CS61B](https://sp18.datastructur.es/) | Java | [Algorithms](https://www.amazon.com/Algorithms-4th-Robert-Sedgewick/dp/032157351X) | - |
+| [Algorithms: Part I](https://www.coursera.org/learn/algorithms-part1) | Java | [Algorithms](https://www.amazon.com/Algorithms-4th-Robert-Sedgewick/dp/032157351X) | - |
 | [Algorithms: Part II](https://www.coursera.org/learn/algorithms-part2) | Java |[Algorithms](https://www.amazon.com/Algorithms-4th-Robert-Sedgewick/dp/032157351X) | - |
+| [Divide and Conquer, Sorting and Searching, and Randomized Algorithms](https://www.coursera.org/learn/algorithms-divide-conquer) | - | - | - | 
+| [Greedy Algorithms, Minimum Spanning Trees, and Dynamic Programming](https://www.coursera.org/learn/algorithms-greedy) | - | - | - | 
+| [Shortest Paths Revisited, NP-Complete Problems and What To Do About Them](https://www.coursera.org/learn/algorithms-npcomplete) | - | - | - | 
 | [A Arte de Resolver Problemas](https://www.amazon.com.br/Arte-Resolver-Problemas-G-Polya/dp/8571931364) | - | - | - |
 | [Algorithms to Live By](https://www.amazon.com/Algorithms-Live-Computer-Science-Decisions/dp/1627790365) | - | - | - |
 
-## 5 - Sistemas Operacionais e Redes de Computadores
+## 6 - Sistemas Operacionais e Redes de Computadores
 | Curso | Linguagem | Livro | Status |  
 | ------------- | ------------- | ------------- | ------------- | 
 | [Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/) | -  | -  | - |
 | [Computer Networking: a Top-Down Approach](http://gaia.cs.umass.edu/kurose_ross/online_lectures.htm) | -  | -  | - |
 
 
-## 6 - Databases e Sistemas Distribuidos
+## 7 - Databases e Sistemas Distribuidos
 | Curso | Linguagem | Livro | Status |  
 | ------------- | ------------- | ------------- | ------------- | 
 | [CS 186](https://archive.org/details/UCBerkeley_Course_Computer_Science_186) | - | [Database Systems Design Implementation](https://www.amazon.com.br/Database-Systems-Design-Implementation-Management/dp/1285196147) | - |
 | [Distributed Systems MIT 6.824](https://pdos.csail.mit.edu/6.824/) | - | [Designing Data-Intensive Applications by Martin Kleppmann](https://www.amazon.com.br/Designing-Data-Intensive-Applications-Martin-Kleppmann/dp/1449373321) | - |
 
 
-## 7 - Compiladores/Interpretadores e Engenharia de Software
+## 8 - Compiladores/Interpretadores 
 | Curso | Linguagem | Livro | Status |  
 | ------------- | ------------- | ------------- | ------------- | 
-| [Compilers](https://www.edx.org/course/compilers) | - | [Crafting interpreters](https://craftinginterpreters.com/)-  | - |
-| [CS 169 - Berkeley](https://www2.eecs.berkeley.edu/Courses/CS169/) | - | [Software Engineering: A Practitioner's Approach](https://www.amazon.com.br/Software-Engineering-Practitioners-Roger-Pressman/dp/0078022126) | - |
+| [Compilers](https://www.edx.org/course/compilers) | - | [Crafting interpreters](https://craftinginterpreters.com/)  | - |
+| The Dragon Book | - | - | - |
 
-## 8 - Cibersegurança
+## 9 - Cibersegurança
 | Curso | Linguagem | Livro | Status |  
-| ------------- | ------------- | ------------- | ------------- | 
+| ------------- | ------------
+- | ------------- | ------------- | 
 | [Cybersecurity Fundamentals](https://www.edx.org/course/cybersecurity-fundamentals) | - | - | - |
 | [Principles of Secure Coding](https://www.coursera.org/learn/secure-coding-principles) | - | - | - |
 | [Identifying Security Vulnerabilities](https://www.coursera.org/learn/identifying-security-vulnerabilities) | - | - | - |
@@ -331,7 +338,7 @@ last.FM Scrobbler
 | The Ghidra book | - | - | - |
 
 
-## 9 - Matématica Avançada
+## 10 - Matématica Avançada
 | Curso | Linguagem | Livro | Status |  
 | ------------- | ------------- | ------------- | ------------- | 
 | [Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)  | - | - | - |
