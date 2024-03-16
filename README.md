@@ -246,7 +246,7 @@ last.FM Scrobbler
 
 | Curso | Linguagem | Livro | Status |  
 | ------------- | ------------- | ------------- | ------------- | 
-| [Structure and Interpretation of Computer Programs - Brian Harvey’s](https://archive.org/details/ucberkeley-webcast-PL3E89002AA9B9879E?sort=titleSorter)  ou [CS61A](https://cs61a.org/)| Scheme | [SICP](https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book.html) ou [Composing Programs](https://www.composingprograms.com/pages/11-getting-started.html)| - |
+| [Structure and Interpretation of Computer Programs - Brian Harvey’s](https://archive.org/details/ucberkeley-webcast-PL3E89002AA9B9879E?sort=titleSorter) | Scheme | [SICP](https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book.html) | - |
 | [Object-Oriented Design](https://www.coursera.org/learn/object-oriented-design) | - | [The Pragmatic Programmer](https://www.amazon.com/Pragmatic-Programmer-journey-mastery-Anniversary/) | - |
 | [Design Patterns](https://www.coursera.org/learn/design-patterns) | - | - | - |
 | [Software Architecture](https://www.coursera.org/learn/software-architecture) | - | - | - |
@@ -254,7 +254,7 @@ last.FM Scrobbler
 | [Programming Languages Part B](https://www.coursera.org/learn/programming-languages-part-b) | - | - | - | 
 | [Programming Languages Part C](https://www.coursera.org/learn/programming-languages-part-c) | - | - | - |
 | [Software Engineering: Introduction](https://www.coursera.org/learn/introduction-to-software-engineering) | - | - | - |
-| [Learn C++](learncpp.com) | C++ | - | - |
+| Programação de baixo nível | C e Assembly | - | - |
 
 ## 2 - Banco de dados
 | Curso | Linguagem | Livro | Status |  
@@ -263,6 +263,8 @@ last.FM Scrobbler
 | [Databases: Modeling and Theory](https://www.edx.org/course/modeling-and-theory)| - | - | - |
 | [Databases: Relational Databases and SQL](https://www.edx.org/course/databases-5-sql)| - | - | - |
 | [Databases: Semistructured Data](https://www.edx.org/course/semistructured-data)| - | - | - |
+| [Learn C++](learncpp.com) | C++ | - | - |
+
 
 
 ## 3 - Sistemas de Computadores
