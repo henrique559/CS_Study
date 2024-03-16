@@ -275,9 +275,7 @@ last.FM Scrobbler
 
 | Curso | Linguagem | Livro | Status |  
 | ------------- | ------------- | ------------- | ------------- | 
-| [Aritmetica](https://www.khanacademy.org/math/arithmetic#arithmetic-subject-challenge) | - | - | - |
-| [Geometria Básica](https://www.khanacademy.org/math/basic-geo#basic-geo-subject-challenge) | - | - | - |
-| [Pré Algebra](https://www.khanacademy.org/math/pre-algebra#pre-algebra-subject-challenge) | - | - | - |
+| [How to Learn Math](https://www.edx.org/learn/math/stanford-university-how-to-learn-math-for-students) | - | - | - |
 | [Mathematical Thinking](https://www.coursera.org/learn/mathematical-thinking) | - | - | - |
 | [Intregated Math I](https://www.khanacademy.org/math/math1#math1-subject-challenge) | - | -  - |
 | [Intregated Math II](https://www.khanacademy.org/math/math2#math2-subject-challenge) | - | - | - |
