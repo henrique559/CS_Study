@@ -263,15 +263,15 @@ last.FM Scrobbler
 | [Databases: Modeling and Theory](https://www.edx.org/course/modeling-and-theory)| - | - | - |
 | [Databases: Relational Databases and SQL](https://www.edx.org/course/databases-5-sql)| - | - | - |
 | [Databases: Semistructured Data](https://www.edx.org/course/semistructured-data)| - | - | - |
-| [Learn C++](learncpp.com) | C++ | - | - |  
+| [Learn C++](learncpp.com) | C++ | Thinking like a programmer | - |  
 
 
 ## 3 - Sistemas de Computadores
 
 | Curso | Linguagem | Livro | Status |  
 | ------------- | ------------- | ------------- | ------------- | 
-| [Build a Modern Computer from First Principles Part 1](https://www.coursera.org/learn/build-a-computer) | - | The C Programming Language | - |
-| [Build a Modern Computer from First Principles Part 2](https://www.coursera.org/learn/nand2tetris2) | - |Code: The Hidden Language of Computer Hardware and Software | - |
+| [Build a Modern Computer from First Principles Part 1](https://www.coursera.org/learn/build-a-computer) | - | Nand2Tetris | - |
+| [Build a Modern Computer from First Principles Part 2](https://www.coursera.org/learn/nand2tetris2) | - | - | - |
 | Computer Systems: A Programmer's Perspective | C, Assembly | [Computer Systems](https://www.amazon.com/Computer-Systems-Programmers-Perspective-3rd/dp/013409266X) | - |
 
 ## 4 - Matématica
@@ -279,7 +279,6 @@ last.FM Scrobbler
 | Curso | Linguagem | Livro | Status |  
 | ------------- | ------------- | ------------- | ------------- | 
 | [How to Learn Math](https://www.edx.org/learn/math/stanford-university-how-to-learn-math-for-students) | - | - | - |
-| [Mathematical Thinking](https://www.coursera.org/learn/mathematical-thinking) | - | - | - |
 | [Intregated Math I](https://www.khanacademy.org/math/math1#math1-subject-challenge) | - | -  - |
 | [Intregated Math II](https://www.khanacademy.org/math/math2#math2-subject-challenge) | - | - | - |
 | [Intregated Math III](https://www.khanacademy.org/math/math3#math3-subject-challenge) | - | - | - |
@@ -293,19 +292,15 @@ last.FM Scrobbler
 ## 5 - Algoritmos
 | Curso | Linguagem | Livro | Status |  
 | ------------- | ------------- | ------------- | ------------- | 
-| [Algorithms: Part I](https://www.coursera.org/learn/algorithms-part1) | Java | [Algorithms](https://www.amazon.com/Algorithms-4th-Robert-Sedgewick/dp/032157351X) | - |
-| [Algorithms: Part II](https://www.coursera.org/learn/algorithms-part2) | Java |[Algorithms](https://www.amazon.com/Algorithms-4th-Robert-Sedgewick/dp/032157351X) | - |
-| [Divide and Conquer, Sorting and Searching, and Randomized Algorithms](https://www.coursera.org/learn/algorithms-divide-conquer) | - | - | - | 
-| [Greedy Algorithms, Minimum Spanning Trees, and Dynamic Programming](https://www.coursera.org/learn/algorithms-greedy) | - | - | - | 
-| [Shortest Paths Revisited, NP-Complete Problems and What To Do About Them](https://www.coursera.org/learn/algorithms-npcomplete) | - | - | - | 
+| Introduction to Algorithms | - | [Introduction to Algorithms](https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844) |
 | [A Arte de Resolver Problemas](https://www.amazon.com.br/Arte-Resolver-Problemas-G-Polya/dp/8571931364) | - | - | - |
-| [Algorithms to Live By](https://www.amazon.com/Algorithms-Live-Computer-Science-Decisions/dp/1627790365) | - | - | - |
 
 ## 6 - Sistemas Operacionais e Redes de Computadores
 | Curso | Linguagem | Livro | Status |  
 | ------------- | ------------- | ------------- | ------------- | 
 | [Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/) | -  | -  | - |
 | [Computer Networking: a Top-Down Approach](http://gaia.cs.umass.edu/kurose_ross/online_lectures.htm) | -  | -  | - |
+| The Rust Programming Language | - | - | - |
 
 
 ## 7 - Databases e Sistemas Distribuidos
