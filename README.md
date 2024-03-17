@@ -237,8 +237,10 @@ last.FM Scrobbler
 | Curso | Linguagem | Livro | Status |  
 | ------------- | ------------- | ------------- | ------------- | 
 | [CS50 - Harvard](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x)| C, Python, SQL |  | [Estudando](https://github.com/henrique559/CS50x-2024) |
-| [MIT - The Missing Semester](https://missing.csail.mit.edu/) | Shell | Python: Crash Course, Classic CS Problems with Python | - |
-| [Pensamento Computacional](https://www.coursera.org/learn/computational-thinking-problem-solving?)| - | - | - |
+| [MIT - The Missing Semester](https://missing.csail.mit.edu/) | Shell | | - |
+| Programação de baixo nível | C e Assembly | Build Your Own Lisp, Low Level Programming | - |
+| Linguagem Python | Python | Python: Crash Course, Classic CS Problems with Python | - |
+| Linguagem C# | C# | C#: A Player's Guide | Estudando |
 
 
 ## 1 - Ciências da Computação
@@ -253,7 +255,6 @@ last.FM Scrobbler
 | [Programming Languages Part B](https://www.coursera.org/learn/programming-languages-part-b) | - | - | - | 
 | [Programming Languages Part C](https://www.coursera.org/learn/programming-languages-part-c) | - | - | - |
 | [Software Engineering: Introduction](https://www.coursera.org/learn/introduction-to-software-engineering) | - | - | - |
-| Programação de baixo nível | C e Assembly | - | - |
 
 ## 2 - Banco de dados
 | Curso | Linguagem | Livro | Status |  
@@ -262,8 +263,7 @@ last.FM Scrobbler
 | [Databases: Modeling and Theory](https://www.edx.org/course/modeling-and-theory)| - | - | - |
 | [Databases: Relational Databases and SQL](https://www.edx.org/course/databases-5-sql)| - | - | - |
 | [Databases: Semistructured Data](https://www.edx.org/course/semistructured-data)| - | - | - |
-| [Learn C++](learncpp.com) | C++ | - | - |
-
+| [Learn C++](learncpp.com) | C++ | - | - |  
 
 
 ## 3 - Sistemas de Computadores
