@@ -262,6 +262,7 @@ last.FM Scrobbler
 | [CS50 SQL](https://cs50.harvard.edu/sql/2024/) | - | - | - |
 | [Databases: Modeling and Theory](https://www.edx.org/course/modeling-and-theory)| - | - | - |
 | [Databases: Relational Databases and SQL](https://www.edx.org/course/databases-5-sql)| - | - | - |
+| [Databases: Advanced Topics in SQL](https://www.edx.org/course/advanced-topics-in-sql) | - | - | - |
 | [Databases: Semistructured Data](https://www.edx.org/course/semistructured-data)| - | - | - |
 | [Learn C++](learncpp.com) | C++ | Thinking like a programmer | - |  
 
