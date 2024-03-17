@@ -318,21 +318,13 @@ last.FM Scrobbler
 
 ## 9 - Cibersegurança
 | Curso | Linguagem | Livro | Status |  
-| ------------- | ------------
-- | ------------- | ------------- | 
+| ------------- | ------------- | ------------- | ------------- | 
 | [Cybersecurity Fundamentals](https://www.edx.org/course/cybersecurity-fundamentals) | - | - | - |
 | [Principles of Secure Coding](https://www.coursera.org/learn/secure-coding-principles) | - | - | - |
 | [Identifying Security Vulnerabilities](https://www.coursera.org/learn/identifying-security-vulnerabilities) | - | - | - |
 | [Identifying Security Vulnerabilities in C/C++Programming](https://www.coursera.org/learn/identifying-security-vulnerabilities-c-programming) | - | - | - |
-| [Web Security Fundamentals](https://www.edx.org/course/web-security-fundamentals)  | - | - | - |
-| [Security Governance & Compliance](https://www.coursera.org/learn/security-governance-compliance)  | - | - | - |
-| [Digital Forensics Concepts](https://www.coursera.org/learn/digital-forensics-concepts) | - | - | - |
-| [Secure Software Development: Requirements, Design, and Reuse](https://www.edx.org/course/secure-software-development-requirements-design-and-reuse)  | - | - | - |
-| [Secure Software Development: Implementation](https://www.edx.org/course/secure-software-development-implementation)  | - | - | - |
-| [Secure Software Development: Verification and More Specialized Topics](https://www.edx.org/course/secure-software-development-verification-and-more-specialized-topics) | - | - | - |
 | [Reverse Engeneering for Beginners](https://en.zlibrary-br.se/book/3052627/d498e5/reverse-engineering-for-beginners.html) | - | - | - |
 | [Pratical Malware Analysis](https://www.amazon.com/Practical-Malware-Analysis-Hands-Dissecting/dp/1593272901) | - | - | - |
-| The Art of x64 Assembly Language | - | - | - |
 | The Ghidra book | - | - | - |
 
 
