@@ -237,8 +237,8 @@ last.FM Scrobbler
 | Curso | Linguagem | Livro | Status |  
 | ------------- | ------------- | ------------- | ------------- | 
 | [CS50 - Harvard](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x)| C, Python, SQL |  | [Estudando](https://github.com/henrique559/CS50x-2024) |
-| [MIT - The Missing Semester](https://missing.csail.mit.edu/) | Shell | | - |
-| Programação de baixo nível | C e Assembly | Build Your Own Lisp, Low Level Programming | - |
+| [MIT - The Missing Semester](https://missing.csail.mit.edu/) | Shell | Entendendo Algoritmos | - |
+| Programação de baixo nível | C e Assembly | Build Your Own Lisp, Low Level Programming, Algorithmic Thinking | - |
 | Linguagem Python | Python | Python: Crash Course, Classic CS Problems with Python | - |
 | Linguagem C# | C# | C#: A Player's Guide | Estudando |
 
