@@ -212,9 +212,7 @@ last.FM Scrobbler
 ## 5 - Algoritmos
 | Curso | Linguagem | Livro | Status |  
 | ------------- | ------------- | ------------- | ------------- | 
-
 | [Algorithms Part I](https://www.coursera.org/learn/algorithms-part1) | - | - | - |
-
 | [A Arte de Resolver Problemas](https://www.amazon.com.br/Arte-Resolver-Problemas-G-Polya/dp/8571931364) | - | - | - |
 
 ## 6 - Sistemas Operacionais e Redes de Computadores
