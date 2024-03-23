@@ -157,9 +157,10 @@ last.FM Scrobbler
 | ------------- | ------------- | ------------- | ------------- | 
 | [CS50 - Harvard](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x)| C, Python, SQL |  | [Estudando](https://github.com/henrique559/CS50x-2024) |
 | [MIT - The Missing Semester](https://missing.csail.mit.edu/) | Shell | Entendendo Algoritmos | - |
-| Programação de baixo nível | C e Assembly | Build Your Own Lisp, Low Level Programming, Algorithmic Thinking | - |
+| Programação de baixo nível | C e Assembly | Build Your Own Lisp, Low Level Programming | - |
 | Linguagem Python | Python | Python: Crash Course, Classic CS Problems with Python | - |
-| Linguagem C# | C# | C#: A Player's Guide | Estudando |
+| [Pensamento Computacional](https://www.coursera.org/learn/computational-thinking-problem-solving) | - | - | - |
+| [Back-End IBM](https://www.coursera.org/professional-certificates/ibm-backend-development) | - | - | - |
 
 
 ## 1 - Ciências da Computação
@@ -206,12 +207,14 @@ last.FM Scrobbler
 | [Calculus 1B: Integration](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.2x+3T2019/about) | - | - | - |
 | [Calculus 1C: Coordinate Systems & Infinite Series](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.3x+1T2020/about)  | - | - | - |
 | [Mathematics for Computer Science](https://openlearninglibrary.mit.edu/courses/course-v1:OCW+6.042J+2T2019/about) | - | - |  - |
-
+| [Mathematics for Computer Science II](https://www.coursera.org/specializations/introduction-computer-science-programming) | - | - |  - |
        
 ## 5 - Algoritmos
 | Curso | Linguagem | Livro | Status |  
 | ------------- | ------------- | ------------- | ------------- | 
-| Introduction to Algorithms | - | [Introduction to Algorithms](https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844) |
+
+| [Algorithms Part I](https://www.coursera.org/learn/algorithms-part1) | - | - | - |
+
 | [A Arte de Resolver Problemas](https://www.amazon.com.br/Arte-Resolver-Problemas-G-Polya/dp/8571931364) | - | - | - |
 
 ## 6 - Sistemas Operacionais e Redes de Computadores
