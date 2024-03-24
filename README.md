@@ -160,7 +160,6 @@ last.FM Scrobbler
 | Programação de baixo nível | C e Assembly | Build Your Own Lisp, Low Level Programming | - |
 | Linguagem Python | Python | Python: Crash Course, Classic CS Problems with Python | - |
 | [Pensamento Computacional](https://www.coursera.org/learn/computational-thinking-problem-solving) | - | - | - |
-| [Back-End IBM](https://www.coursera.org/professional-certificates/ibm-backend-development) | - | - | - |
 
 
 ## 1 - Ciências da Computação
