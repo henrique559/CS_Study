@@ -158,6 +158,8 @@ last.FM Scrobbler
 | [CS50 - Harvard](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x)| C, Python, SQL |  | [Estudando](https://github.com/henrique559/CS50x-2024) |
 | [MIT - The Missing Semester](https://missing.csail.mit.edu/) | Shell | Entendendo Algoritmos | - |
 | Linguagem Python | Python | Python: Crash Course, Classic CS Problems with Python | - |
+| Linguagem Java | Java | Head First: Java | - |
+| Algoritmos básico | Python | Entendendo Algoritmos | - |
 | [Pensamento Computacional](https://www.coursera.org/learn/computational-thinking-problem-solving) | - | - | - |
 
 
@@ -179,7 +181,9 @@ last.FM Scrobbler
 | [Build a Modern Computer from First Principles Part 1](https://www.coursera.org/learn/build-a-computer) | - | Nand2Tetris | - |
 | [Build a Modern Computer from First Principles Part 2](https://www.coursera.org/learn/nand2tetris2) | - | - | - |
 | Computer Systems: A Programmer's Perspective | C, Assembly | [Computer Systems](https://www.amazon.com/Computer-Systems-Programmers-Perspective-3rd/dp/013409266X) | - |
+| Unix Programming | - | Advanced Programming in the UNIX Environment | - |
 | Reverse Engeneering | C e Assembly | Practical Malware Analysis: The Hands-On Guide to Dissecting Malicious Software | - |
+
 
 ## 3 - Matématica
 | Curso | Linguagem | Livro | Status |  
