@@ -157,7 +157,6 @@ last.FM Scrobbler
 | ------------- | ------------- | ------------- | ------------- | 
 | [CS50 - Harvard](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x)| C, Python, SQL |  | [Estudando](https://github.com/henrique559/CS50x-2024) |
 | [MIT - The Missing Semester](https://missing.csail.mit.edu/) | Shell | Entendendo Algoritmos | - |
-| Programação de baixo nível | C e Assembly | Build Your Own Lisp, Low Level Programming | - |
 | Linguagem Python | Python | Python: Crash Course, Classic CS Problems with Python | - |
 | [Pensamento Computacional](https://www.coursera.org/learn/computational-thinking-problem-solving) | - | - | - |
 
@@ -166,47 +165,34 @@ last.FM Scrobbler
 
 | Curso | Linguagem | Livro | Status |  
 | ------------- | ------------- | ------------- | ------------- | 
-| [Structure and Interpretation of Computer Programs - Brian Harvey’s](https://archive.org/details/ucberkeley-webcast-PL3E89002AA9B9879E?sort=titleSorter) | Scheme | [SICP](https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book.html) | - |
-| [Object-Oriented Design](https://www.coursera.org/learn/object-oriented-design) | - | [The Pragmatic Programmer](https://www.amazon.com/Pragmatic-Programmer-journey-mastery-Anniversary/) | - |
-| [Design Patterns](https://www.coursera.org/learn/design-patterns) | - | - | - |
-| [Software Architecture](https://www.coursera.org/learn/software-architecture) | - | - | - |
+| [Structure and Interpretation of Computer Programs - Brian Harvey’s](https://archive.org/details/ucberkeley-webcast-PL3E89002AA9B9879E?sort=titleSorter) | Scheme | [SICP](https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book.html) | .org/learn/software-architecture) | - | - | - |
+| [Learn C++](learncpp.com) | C++ | - | - |  
 | [Programming Languages Part A](https://www.coursera.org/learn/programming-languages) | - | - | - | 
 | [Programming Languages Part B](https://www.coursera.org/learn/programming-languages-part-b) | - | - | - | 
 | [Programming Languages Part C](https://www.coursera.org/learn/programming-languages-part-c) | - | - | - |
-| [Software Engineering: Introduction](https://www.coursera.org/learn/introduction-to-software-engineering) | - | - | - |
 
-## 2 - Banco de dados
-| Curso | Linguagem | Livro | Status |  
-| ------------- | ------------- | ------------- | ------------- | 
-| [Databases: Modeling and Theory](https://www.edx.org/course/modeling-and-theory)| - | - | - |
-| [Databases: Relational Databases and SQL](https://www.edx.org/course/databases-5-sql)| - | - | - |
-| [Databases: Advanced Topics in SQL](https://www.edx.org/course/advanced-topics-in-sql) | - | - | - |
-| [Databases: Semistructured Data](https://www.edx.org/course/semistructured-data)| - | - | - |
-| [Learn C++](learncpp.com) | C++ | Thinking like a programmer | - |  
-
-
-## 3 - Sistemas de Computadores
+## 2 - Sistemas de Computadores
 
 | Curso | Linguagem | Livro | Status |  
 | ------------- | ------------- | ------------- | ------------- | 
+| Programação de baixo nível | C e Assembly | Build Your Own Lisp, Low Level Programming | - |
 | [Build a Modern Computer from First Principles Part 1](https://www.coursera.org/learn/build-a-computer) | - | Nand2Tetris | - |
 | [Build a Modern Computer from First Principles Part 2](https://www.coursera.org/learn/nand2tetris2) | - | - | - |
 | Computer Systems: A Programmer's Perspective | C, Assembly | [Computer Systems](https://www.amazon.com/Computer-Systems-Programmers-Perspective-3rd/dp/013409266X) | - |
+| Reverse Engeneering | C e Assembly | Practical Malware Analysis: The Hands-On Guide to Dissecting Malicious Software | - |
 
-## 4 - Matématica
-
+## 3 - Matématica
 | Curso | Linguagem | Livro | Status |  
 | ------------- | ------------- | ------------- | ------------- | 
-| [How to Learn Math](https://www.edx.org/learn/math/stanford-university-how-to-learn-math-for-students) | - | - | - |
-| [Intregated Math I](https://www.khanacademy.org/math/math1#math1-subject-challenge) | - | -  - |
-| [Intregated Math II](https://www.khanacademy.org/math/math2#math2-subject-challenge) | - | - | - |
-| [Intregated Math III](https://www.khanacademy.org/math/math3#math3-subject-challenge) | - | - | - |
-| [Pre-Calculus](https://pt.khanacademy.org/math/precalculus) | - | - | - |
+| Algebra | - | Algebra, Gelfand | - |
+| Functions | - | Functions and Graphs, Gelfand | - |
+| Trigonometry | - | Trigonometry, Gelfand | - |
+| Pre Calculus | - | Stewart's Precalculus: Mathematics for Calculus | - |
+| Proofs | - | How to Prove It | - |
 | [Calculus 1A: Differentiation](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.1x+2T2019/about) | - | - | - |
 | [Calculus 1B: Integration](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.2x+3T2019/about) | - | - | - |
 | [Calculus 1C: Coordinate Systems & Infinite Series](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.3x+1T2020/about)  | - | - | - |
 | [Mathematics for Computer Science](https://openlearninglibrary.mit.edu/courses/course-v1:OCW+6.042J+2T2019/about) | - | - |  - |
-| [Mathematics for Computer Science II](https://www.coursera.org/specializations/introduction-computer-science-programming) | - | - |  - |
        
 ## 5 - Algoritmos
 | Curso | Linguagem | Livro | Status |  
@@ -219,7 +205,6 @@ last.FM Scrobbler
 | ------------- | ------------- | ------------- | ------------- | 
 | [Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/) | -  | -  | - |
 | [Computer Networking: a Top-Down Approach](http://gaia.cs.umass.edu/kurose_ross/online_lectures.htm) | -  | -  | - |
-| The Rust Programming Language | - | - | - |
 
 
 ## 7 - Databases e Sistemas Distribuidos
@@ -234,17 +219,6 @@ last.FM Scrobbler
 | ------------- | ------------- | ------------- | ------------- | 
 | [Compilers](https://www.edx.org/course/compilers) | - | [Crafting interpreters](https://craftinginterpreters.com/)  | - |
 | The Dragon Book | - | - | - |
-
-## 9 - Cibersegurança
-| Curso | Linguagem | Livro | Status |  
-| ------------- | ------------- | ------------- | ------------- | 
-| [Cybersecurity Fundamentals](https://www.edx.org/course/cybersecurity-fundamentals) | - | - | - |
-| [Principles of Secure Coding](https://www.coursera.org/learn/secure-coding-principles) | - | - | - |
-| [Identifying Security Vulnerabilities](https://www.coursera.org/learn/identifying-security-vulnerabilities) | - | - | - |
-| [Identifying Security Vulnerabilities in C/C++Programming](https://www.coursera.org/learn/identifying-security-vulnerabilities-c-programming) | - | - | - |
-| [Reverse Engeneering for Beginners](https://en.zlibrary-br.se/book/3052627/d498e5/reverse-engineering-for-beginners.html) | - | - | - |
-| [Pratical Malware Analysis](https://www.amazon.com/Practical-Malware-Analysis-Hands-Dissecting/dp/1593272901) | - | - | - |
-| The Ghidra book | - | - | - |
 
 
 ## 10 - Matématica Avançada
