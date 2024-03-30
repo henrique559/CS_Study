@@ -218,11 +218,11 @@ last.FM Scrobbler
 | [Distributed Systems MIT 6.824](https://pdos.csail.mit.edu/6.824/) | - | [Designing Data-Intensive Applications by Martin Kleppmann](https://www.amazon.com.br/Designing-Data-Intensive-Applications-Martin-Kleppmann/dp/1449373321) | - |
 
 
-## 8 - Compiladores/Interpretadores 
+## 8 - Compiladores/Interpretadores e Sistemas embarcados
 | Curso | Linguagem | Livro | Status |  
 | ------------- | ------------- | ------------- | ------------- | 
 | [Compilers](https://www.edx.org/course/compilers) | - | [Crafting interpreters](https://craftinginterpreters.com/)  | - |
-| The Dragon Book | - | - | - |
+| Programação de Sistemas Embarcados - Desenvolvendo Software para Microcontroladores em Linguagem C | - | - | - |
 
 
 ## 10 - Matématica Avançada
