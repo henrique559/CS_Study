@@ -157,7 +157,7 @@ last.FM Scrobbler
 
 | Curso | Linguagem | Livro | Status |  
 | ------------- | ------------- | ------------- | ------------- | 
-| Programação de baixo nível | C e Assembly | Low Level Programming | - |
+| Programação de baixo nível | C e Assembly | Low Level Programming, C Programming: A Modern Approach by King | - |
 | Unix Programming | C | Advanced Programming in the UNIX Environment | - |
 | Computer Systems: A Programmer's Perspective | C, Assembly | [Computer Systems](https://www.amazon.com/Computer-Systems-Programmers-Perspective-3rd/dp/013409266X) | - |
 
