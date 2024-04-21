@@ -140,7 +140,7 @@ last.FM Scrobbler
 | [CS50 - Harvard](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x)| C, Python, SQL |  | [Pausado](https://github.com/henrique559/CS50x-2024) |
 | [Learn C++](learncpp.com) | C++ | - | [Estudando](https://github.com/henrique559/learncpp) |
 | Estrutura de Dados e Algoritmos | C++ | [Estrutura de Dados e Algoritmos em C++](https://www.amazon.com.br/Estrutura-dados-algoritmos-em-c/dp/8522125732) | - |
-| Linux Command Line | Shell | [TLCL](https://ufpr.dl.sourceforge.net/project/linuxcommand/TLCL/19.01/TLCL-19.01.pdf) | - |
+| [The Missing Semester](https://missing-semester-pt.github.io/) | Shell | [TLCL](https://ufpr.dl.sourceforge.net/project/linuxcommand/TLCL/19.01/TLCL-19.01.pdf) | - |
 | [Introdução a Python](https://cs50.harvard.edu/python/2022/) | Python | Python Crash Course | - |
 | Desenvolvimento Web | HTML, CSS, Javascript | [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn) | - |
 
