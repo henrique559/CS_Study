@@ -9,37 +9,20 @@ um blog para colocar coisas sobre programação, como tutoriais, oq eu aprendi, 
 Resumo de livros nesse [repositório](https://github.com/henrique559/programming-books)
 
 
- ### Créditos
-- [CS Rusty](https://github.com/AbdesamedBendjeddou/Rusty-CS)
-- [OSSU](https://github.com/ossu/computer-science)
-- [Profissional Programming](https://github.com/charlax/professional-programming)
-- [Berkeley Course Map](https://hkn.eecs.berkeley.edu/courseguides)
-- [Computer Science](https://github.com/apeman/awesome_computer_science)
-- [Self-Learning](https://github.com/PKUFlyingPig/Self-learning-Computer-Science)
 
 # Prática e Projetos
 Todo
 ### Sites para praticar:
-- [Project Euler](https://projecteuler.net/) - veja mais sobre [aqui](https://onestepcode.com/solve-project-euler-problems/)
+- [Project Euler](https://projecteuler.net/) 
 - [Codewars](https://www.codewars.com/dashboard)
 - [Advent of Code](https://adventofcode.com/)
 
 
 ## Lista de projetos:
 
-### Projetos
-
-![1607441484684](https://github.com/henrique559/computer-science-study/assets/145483144/8f21b66f-dfed-4909-9796-41ced4c4a918)
-
-### Para iniciantes
-
-![unnamed](https://github.com/henrique559/computer-science-study/assets/145483144/9635805f-5927-455d-829f-c49250cf3f04)
-
-
-### Links
+- [Pro/g/ramming Challanges](https://better-dpt-roll.github.io/)
 - [Build your own X](https://github.com/codecrafters-io/build-your-own-x)
 - [Pratical Based Learning](https://github.com/practical-tutorials/project-based-learning?tab=readme-ov-file#cc)
-- [Contribuições open source](https://www.firsttimersonly.com/).
 - [Exercícios em C++](https://github.com/Rustam-Z/cpp-programming?tab=readme-ov-file#computer-science-basics)
 
 <details>
@@ -152,23 +135,19 @@ last.FM Scrobbler
 
 # ROADMAP
 ## 0 - Programação
-
 | Curso | Linguagem | Livro | Status |  
 | ------------- | ------------- | ------------- | ------------- | 
-| [CS50 - Harvard](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x)| C, Python, SQL |  | [Estudando](https://github.com/henrique559/CS50x-2024) |
-| [MIT - The Missing Semester](https://missing.csail.mit.edu/) | Shell | Entendendo Algoritmos | - |
-| Linguagem Python | Python | Python: Crash Course, Classic CS Problems with Python | - |
-| Linguagem Java | Java | Head First: Java | - |
-| Algoritmos básico | Python | Entendendo Algoritmos | - |
-| [Pensamento Computacional](https://www.coursera.org/learn/computational-thinking-problem-solving) | - | - | - |
-
+| [CS50 - Harvard](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x)| C, Python, SQL |  | [Pausado](https://github.com/henrique559/CS50x-2024) |
+| [Learn C++](learncpp.com) | C++ | - | [Estudando](https://github.com/henrique559/learncpp) |
+| Estrutura de Dados e Algoritmos | C++ | [Estrutura de Dados e Algoritmos em C++](https://www.amazon.com.br/Estrutura-dados-algoritmos-em-c/dp/8522125732) | - |
+| Linux Command Line | Shell | [TLCL](https://ufpr.dl.sourceforge.net/project/linuxcommand/TLCL/19.01/TLCL-19.01.pdf) | - |
+| Desenvolvimento Web | HTML, CSS, Javascript | [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn) | - |
 
 ## 1 - Ciências da Computação
 
 | Curso | Linguagem | Livro | Status |  
 | ------------- | ------------- | ------------- | ------------- | 
 | [Structure and Interpretation of Computer Programs - Brian Harvey’s](https://archive.org/details/ucberkeley-webcast-PL3E89002AA9B9879E?sort=titleSorter) | Scheme | [SICP](https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book.html) | .org/learn/software-architecture) | - | - | - |
-| [Learn C++](learncpp.com) | C++ | - | - |  
 | [Programming Languages Part A](https://www.coursera.org/learn/programming-languages) | - | - | - | 
 | [Programming Languages Part B](https://www.coursera.org/learn/programming-languages-part-b) | - | - | - | 
 | [Programming Languages Part C](https://www.coursera.org/learn/programming-languages-part-c) | - | - | - |
@@ -177,38 +156,33 @@ last.FM Scrobbler
 
 | Curso | Linguagem | Livro | Status |  
 | ------------- | ------------- | ------------- | ------------- | 
-| Programação de baixo nível | C e Assembly | Build Your Own Lisp, Low Level Programming | - |
-| [Build a Modern Computer from First Principles Part 1](https://www.coursera.org/learn/build-a-computer) | - | Nand2Tetris | - |
-| [Build a Modern Computer from First Principles Part 2](https://www.coursera.org/learn/nand2tetris2) | - | - | - |
+| Programação de baixo nível | C e Assembly | Low Level Programming | - |
+| Unix Programming | C | Advanced Programming in the UNIX Environment | - |
 | Computer Systems: A Programmer's Perspective | C, Assembly | [Computer Systems](https://www.amazon.com/Computer-Systems-Programmers-Perspective-3rd/dp/013409266X) | - |
-| Unix Programming | - | Advanced Programming in the UNIX Environment | - |
-| Reverse Engeneering | C e Assembly | Practical Malware Analysis: The Hands-On Guide to Dissecting Malicious Software | - |
 
 
-## 3 - Matématica
+## 3 - Sistemas Operacionais e Redes de Computadores
 | Curso | Linguagem | Livro | Status |  
 | ------------- | ------------- | ------------- | ------------- | 
-| Algebra | - | Algebra, Gelfand | - |
-| Functions | - | Functions and Graphs, Gelfand | - |
-| Trigonometry | - | Trigonometry, Gelfand | - |
+| [Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/) | -  | -  | - |
+| [Computer Networking: a Top-Down Approach](http://gaia.cs.umass.edu/kurose_ross/online_lectures.htm) | -  | -  | - |
+| Reverse Engeneering | C e Assembly | Practical Malware Analysis: The Hands-On Guide to Dissecting Malicious Software | - |
+
+## 5 - Matématica
+| Curso | Linguagem | Livro | Status |  
+| ------------- | ------------- | ------------- | ------------- | 
 | Pre Calculus | - | Stewart's Precalculus: Mathematics for Calculus | - |
 | Proofs | - | How to Prove It | - |
 | [Calculus 1A: Differentiation](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.1x+2T2019/about) | - | - | - |
 | [Calculus 1B: Integration](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.2x+3T2019/about) | - | - | - |
 | [Calculus 1C: Coordinate Systems & Infinite Series](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.3x+1T2020/about)  | - | - | - |
-| [Mathematics for Computer Science](https://openlearninglibrary.mit.edu/courses/course-v1:OCW+6.042J+2T2019/about) | - | - |  - |
+| [Mathematics for Computer Science](https://openlearninglibrary.mit.edu/courses/course-v1:OCW+6.042J+2T2019/about) | - | Mathematics for Computer Science |  - |
        
 ## 5 - Algoritmos
 | Curso | Linguagem | Livro | Status |  
 | ------------- | ------------- | ------------- | ------------- | 
-| [Algorithms Part I](https://www.coursera.org/learn/algorithms-part1) | - | - | - |
+| [Algorithms Design Manual](https://) | - | - | - |
 | [A Arte de Resolver Problemas](https://www.amazon.com.br/Arte-Resolver-Problemas-G-Polya/dp/8571931364) | - | - | - |
-
-## 6 - Sistemas Operacionais e Redes de Computadores
-| Curso | Linguagem | Livro | Status |  
-| ------------- | ------------- | ------------- | ------------- | 
-| [Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/) | -  | -  | - |
-| [Computer Networking: a Top-Down Approach](http://gaia.cs.umass.edu/kurose_ross/online_lectures.htm) | -  | -  | - |
 
 
 ## 7 - Databases e Sistemas Distribuidos
@@ -235,17 +209,6 @@ last.FM Scrobbler
 | [Set Theory](https://www.youtube.com/playlist?list=PL5KkMZvBpo5AH_5GpxMiryJT6Dkj32H6N) | - | - | - |
 | [Probability](https://projects.iq.harvard.edu/stat110/home) | - | - | - |
 
-##  Certificados
-- [ ] ITIL v4
-- [ ] PMP
-- [ ] PMI
-- [ ] SAP
-- [ ] Cobit
-- [ ] CISCO CCNA
-- [ ] AWS
-- [ ] LPIC-1 e 2
-- [ ] Azure
- 
 
 # Desenvolvedor Rust
 ### Introdução:
