@@ -142,7 +142,8 @@ last.FM Scrobbler
 | Estrutura de Dados e Algoritmos | C++ | [Estrutura de Dados e Algoritmos em C++](https://www.amazon.com.br/Estrutura-dados-algoritmos-em-c/dp/8522125732) | - |
 | [The Missing Semester](https://missing-semester-pt.github.io/) | Shell | [TLCL](https://ufpr.dl.sourceforge.net/project/linuxcommand/TLCL/19.01/TLCL-19.01.pdf) | - |
 | [Introdução a Python](https://cs50.harvard.edu/python/2022/) | Python | Python Crash Course | - |
-| Desenvolvimento Web | HTML, CSS, Javascript | [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn) | - |
+| [Desenvolvimento Web](https://cs50.harvard.edu/web/2020/) | HTML, CSS, Javascript | [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn) | - |
+| [CS50 SQL](https://cs50.harvard.edu/sql/2024/) | - | - | - |
 
 ## 1 - Ciências da Computação
 
